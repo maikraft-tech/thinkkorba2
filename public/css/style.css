@@ -86,7 +86,7 @@ section{
 
 /*Home*/
 #home{
-	background: #eeeeed;
+	background: #fdfdf1;
 	/* height: 100%; */
 }
 #home-bg-img{
@@ -971,8 +971,8 @@ ul.navbar-nav > li > a:focus{
 	bottom: -20%;
 	left:80px;
 	width: 30%;
-	background-color: #dcdddf;
-	border: 1px solid #d5d5d6;
+	background-color: #fdfdf1;
+	border: 1px solid #fdfdf1;
 	padding: 20px;
 	border-radius: 2px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -985,8 +985,8 @@ ul.navbar-nav > li > a:focus{
 	bottom: 15%;
 	right:80px;
 	width: 30%;
-	background-color: #dcdddf;
-	border: 1px solid #d5d5d6;
+	background-color: #fdfdf1;
+	border: 1px solid #fdfdf1;
 	padding: 25px;
 	border-radius: 2px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -1000,8 +1000,8 @@ ul.navbar-nav > li > a:focus{
 	bottom: 20%;
 	right:5%;
 	width: 400px;
-	background-color: #dcdddf;
-	border: 1px solid #d5d5d6;
+	background-color: #fdfdf1;
+	border: 1px solid #fdfdf1;
 	padding: 15px;
 	border-radius: 2px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -1014,8 +1014,8 @@ ul.navbar-nav > li > a:focus{
 	bottom: 20%;
 	left:7%;
 	width: 450px;
-	background-color: #dcdddf;
-	border: 1px solid #d5d5d6;
+	background-color: #fdfdf1;
+	border: 1px solid #fdfdf1;
 	padding: 15px;
 	border-radius: 2px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
