@@ -7,7 +7,7 @@
             <h2> Our Board Of Directors <img src="img/KorbaWeb Assets/Team.png" style="position: relative; float: right; width: 70px; height: 60px; padding-bottom: 10px;"> </h2>
         </div>
         
-            
+          <!-- <helo   -->
     </div>
     
 
