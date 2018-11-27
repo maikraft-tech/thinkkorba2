@@ -971,7 +971,7 @@ ul.navbar-nav > li > a:focus{
 	bottom: -20%;
 	left:80px;
 	width: 30%;
-	background-color: #fdfdf1;
+	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 20px;
 	border-radius: 2px;
@@ -985,7 +985,7 @@ ul.navbar-nav > li > a:focus{
 	bottom: 15%;
 	right:80px;
 	width: 30%;
-	background-color: #fdfdf1;
+	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 25px;
 	border-radius: 2px;
@@ -1000,7 +1000,7 @@ ul.navbar-nav > li > a:focus{
 	bottom: 20%;
 	right:5%;
 	width: 400px;
-	background-color: #fdfdf1;
+	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 15px;
 	border-radius: 2px;
@@ -1014,7 +1014,7 @@ ul.navbar-nav > li > a:focus{
 	bottom: 20%;
 	left:7%;
 	width: 450px;
-	background-color: #fdfdf1;
+	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 15px;
 	border-radius: 2px;
@@ -1062,27 +1062,27 @@ ul.navbar-nav > li > a:focus{
 
 
 
-#footer1 {
+.footer {
 	background: #000;
 	width: 100%;
 	color: #fff!important;
 	text-align: center;
 }
 
-#footer1 ul {
+.footer ul {
 	list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-#footer1 ul li {
+.footer ul li {
 	float: left;
 	color: #fff;
 }
 
 
-#footer1 ul li a{
+.footer ul li a{
 	padding-left: 8px;
 	color: #fff;
 }
@@ -1112,7 +1112,7 @@ li.korba-logo{
 	/* height: 20px; */
 	padding-left: 35px;
 	/* padding-top: 4px; */
-	padding-bottom: 7px;
+	padding-bottom: 10px;
 }
 
 

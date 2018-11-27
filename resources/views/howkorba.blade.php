@@ -6,7 +6,7 @@
     <div class="name-heading">
         <h2> How Korba Works</h2>
     </div>
-    <div class="container-fluid" style="padding-top:40px;padding-bottom:80px;background-color: #e2ecf5;">
+    <div class="container-fluid" style="padding-top:40px;padding-bottom:80px;">
         <div class="row" style="padding-left: 40px;padding-right: 20px;">
             <div class="col-sm-6 col-md-6 col-xs-12">
                 <span style="color: #ed1944;"><b> How to Save A Mobile Money Wallet Number on Korba</b></span>

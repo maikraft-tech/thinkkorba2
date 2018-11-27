@@ -1,7 +1,7 @@
 @extends('layouts.custom')
 
 @section('content')
-<section style="background-color: #e2ecf5;">
+<section>
     <div class="name-heading">
         <div class="row">
             <h2> Our Team <img src="img/KorbaWeb Assets/Team.png" style="position: relative; float: right; width: 70px; height: 70px; padding-bottom: 10px;"> </h2>

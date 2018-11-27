@@ -33,7 +33,6 @@
                 <li class="korba-logo">To simplify the process of performing financial transactions irrespective of payment channel</li>
                 <li class="korba-logo">To Save the long hours spent travelling around to make payments that take less than 10 minutes. </li>
                 
-                
             </ul>
         </div>
         <div class="col-md-6 col-xs-12 col-sm-6" style="margin-left: 30px;">

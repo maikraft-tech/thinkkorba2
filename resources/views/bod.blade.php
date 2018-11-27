@@ -1,7 +1,7 @@
 @extends('layouts.custom')
 
 @section('content')
-<section style="background-color: #e2ecf5;">
+<section>
     <div class="name-heading">
         <div class="row">
             <h2> Our Board Of Directors <img src="img/KorbaWeb Assets/Team.png" style="position: relative; float: right; width: 70px; height: 60px; padding-bottom: 10px;"> </h2>
@@ -29,7 +29,7 @@
             </div>
             <div class="col-sm-4 col-md-4 col-xs-12">
                 <div class="row my-box-shadow">
-                    <img src="" alt="Daniel Amuzu" />
+                    <img src="/img/board/Daniel.png" alt="Daniel Amuzu" />
                 </div>
                 <div class="row">
                     <p>

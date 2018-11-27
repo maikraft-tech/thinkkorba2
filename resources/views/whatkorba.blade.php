@@ -37,7 +37,7 @@
                 
             </ul>
         </div>
-        <div class="col-md-6 col-xs-6">
+        <div class="col-md-6 col-xs-6" style="padding-top: 55px;">
             <ul class="no_bullet">
                 <li class="korba-logo">Korba enables clients to make payments via a unique USSD Shortcode (*395#) designed to suit our customers' needs without the use of the internet. </li>
                 <li class="korba-logo">Korba is neither a wallet, bank nor a payment system. Korba is an ENABLER.</li>
