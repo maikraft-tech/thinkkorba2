@@ -303,3 +303,23 @@ Element.prototype.hasClass = function(className) {
     return this.className && new RegExp("(^|\\s)" + className + "(\\s|$)").test(this.className);
 };
 
+
+
+
+/*=================
+|	|	|	Google Map
+================*/
+$(window).on('load', function(){
+	var addressString = "Awoshie Baah yard";
+	var myLatLng = {
+		lat: 40.712685,
+		lng: -74005920
+	};
+
+	// 1 Render Map
+	var map = new google.maps.Map(document.getElementById('map'),{
+		zoom: 11,
+		center: myLatLng
+	});
+
+});

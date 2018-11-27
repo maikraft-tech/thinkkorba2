@@ -3,10 +3,10 @@
 @section('content')
 
 <div class="name-heading">
-        <h2> Compliance</h2>
-    </div>
-<section id="home" >
-    <div style="padding-left:80px;padding-right:80px;padding-top:50px;padding-bottom:90px; line-height:3;">
+    <h2> Compliance</h2>
+</div>
+<section >
+    <div style="padding-left:100px;padding-right:100px;padding-top:50px; line-height:3; margin-left:100px;margin-right:100px;margin-bottom:50px;">
 
         <ul class="no_bullet">
             <p><b>Data Privacy</b></p>
@@ -15,7 +15,7 @@
 
         <ul class="no_bullet">
             <p><b>Two-factor authentication</b></p>
-            <li>Critical transactions and operations on your Korba account require a two-factor authentication before the transaction is approved for execution. Customers and merchants are able to opt-in or opt-out from this added security measure by changing their security configuration within the settings section of their Korba account.</li>
+            <li>Critical transactions and operations on your Korba account require a two-factor authentication before the transaction is approved for execution.<br> Customers and merchants are able to opt-in or opt-out from this added security measure by changing their security configuration within the settings section of their Korba account.</li>
             
         </ul>
 
@@ -32,7 +32,7 @@
 
         <ul class="no_bullet">
             <p><b>In-App security</b></p>
-            <li >Before you perform any transaction that involves your money or your account’s security, we require that you provide at least your secret code to proceed. These preferences can be changed within your account settings.</li>
+            <li >Before you perform any transaction that involves your money or your account’s security, we require that you provide at least your secret code to proceed.<br> These preferences can be changed within your account settings.</li>
         </ul>
 
         <ul class="no_bullet">
@@ -66,7 +66,7 @@
             <li class="korba-logo">Delete any emails requesting personal details such as PINs or password, and do not open them. <b>We will never ask you to provide this information over email.</b></li>
             <li class="korba-logo">Be particularly suspicious of attachments ending in .zip or .exe from unknown senders.</li>
             <li class="korba-logo">Check for a secure connection. Secure website addresses have “https” at the start, the ‘s’ indicates security.</li>
-            <li class="korba-logo">Immediately report it to us if you suspect that you have experienced or received a phishing scam or virus. Consider whether the message you have received is one that you expect to receive from us – incorrect spellings or images are usually warning signs.</li>
+            <li class="korba-logo">Immediately report it to us if you suspect that you have experienced or received a phishing scam or virus.<br> Consider whether the message you have received is one that you expect to receive from us – incorrect spellings or images are usually warning signs.</li>
         </ul>
     </div>
 </section>

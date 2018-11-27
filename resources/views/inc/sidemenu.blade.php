@@ -62,10 +62,7 @@
                             <a href="compliance"><i class="fa fa-angle-right"></i> Compliance</a>
                         </li>
                         <li>
-                            <a href="refund"><i class="fa fa-angle-right"></i> Refund Policy</a>
-                        </li>
-                        <li>
-                            <a href="chargeback"><i class="fa fa-angle-right"></i> Chargeback Policy</a>
+                            <a href="chargeback"><i class="fa fa-angle-right"></i> Refund & Chargeback Policy</a>
                         </li>
                         <li>
                             <a href="contactUs"><i class="fa fa-angle-right"></i> Contact Us</a>

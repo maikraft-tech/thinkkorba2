@@ -71,9 +71,9 @@ Route::get('/compliance', function () {
     return view('compliance');
 });
 
-Route::get('/refund', function () {
-    return view('refund');
-});
+// Route::get('/refund', function () {
+//     return view('refund');
+// });
 
 Route::get('/chargeback', function () {
     return view('chargeback');

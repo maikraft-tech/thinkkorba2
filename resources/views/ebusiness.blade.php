@@ -8,7 +8,7 @@
 <section id="home" >
     
     <div class="img-div">
-        <img src="img/E-Business.jpg" style="padding-bottom:150px;">
+        <img src="img/E-Business.jpg" >
     </div>
     <div class="info-box">
         <p>
