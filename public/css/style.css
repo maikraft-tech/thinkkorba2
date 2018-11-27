@@ -1111,7 +1111,7 @@ li.korba-logo{
 	
 	/* height: 20px; */
 	padding-left: 35px;
-	padding-top: 4px;
+	/* padding-top: 4px; */
 	padding-bottom: 7px;
 }
 
@@ -1265,7 +1265,8 @@ li.korba-logo{
   .berrymenu > ul {
 	  list-style: none;
 	  padding: 0;
-	  margin: 10px auto;
+	  margin: 10px 40px;
+	  text-align: left;
   }
   
   .berrymenu > ul > li {

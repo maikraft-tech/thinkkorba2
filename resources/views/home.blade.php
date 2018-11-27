@@ -116,7 +116,7 @@
                                 </div> -->
                                 <div class="col-md-12 col-sm-12 col-xs-12">
                                 <h2>Web App</h2>
-                                    <img src="img/logo/Laptop.png" class="other-products-img" style="width: 180px;">
+                                    <img src="img/logo/Laptop.png" class="other-products-img" style="width: 190px;">
                                     <h2>Visit <a href="https://liveweb.korbaweb.com/" target="_blank" style="border-bottom:1px solid red; color: red;">Now</a></h2>
                                 </div>
                                 

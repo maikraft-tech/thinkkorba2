@@ -1,4 +1,4 @@
-<div class="menu menu-bottom" id="menu" style="width: auto; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;">
+<div class="menu menu-bottom" id="menu" style="width: 25%; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;">
     <div class="col-md-12 col-xs-12 col-lg-12">
         <div class="row">
             <img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top: 50px;margin-bottom: 20px;">
@@ -78,7 +78,7 @@
                 </li>
                 
                 <li style="margin-top:70px;">
-                    <h2 style="color: white;padding-left:10px;"><img src="img/logo/social-media-white.png" style="height:30px;">Korbaweb</h2>
+                    <span style="color: white;padding-left:10px;"><img src="img/logo/social-media-white.png" style="height:20px;"><span style="padding-left:10px;">Korbaweb</span></span>
                 </li>
                 <li class="dropdown">
                     <a href="terms" style="display: block;color: white;
