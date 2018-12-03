@@ -294,6 +294,8 @@ section{
 .other-channels-img{
 	width: 50px;
 	margin-top: 30px;
+	border-radius: 50%;
+	margin-left: 2px;
 }
 
 
@@ -1483,3 +1485,13 @@ li.korba-logo{
 	  transform: scaleY(0);
 	}
   }
+
+  .hover-effect-all:link{
+	transition: all .2s;
+  }
+  .hover-effect-all:hover{
+	transform: translateY(-3px);
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  

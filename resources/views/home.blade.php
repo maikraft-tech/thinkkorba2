@@ -30,11 +30,11 @@
             </div>
             <!-- Controls -->
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true" style="font-size:60px;"></span>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:60px;"></span>
                 <span class="sr-only">Next</span>
             </a>
         </div>
@@ -60,7 +60,7 @@
                                     banks via their multiple access points.
                                 </p>
                                 <div id="services-02-btn-01" style="text-align: center;">
-                                    <a class="btn btn-general btn-red" href="/whatkorba" title="learn more" role="button">LEARN MORE</a>
+                                    <a class="btn btn-general btn-red hover-effect-all" href="/whatkorba" title="learn more" role="button">LEARN MORE</a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                                     </ul>
                                 </p>
                                 <div id="services-02-btn-02" style="text-align: center;">
-                                    <a class="btn btn-general btn-red" href="https://liveweb.korbaweb.com/" title="sign up" role="button">SIGN UP</a>
+                                    <a class="btn btn-general btn-red hover-effect-all" href="https://liveweb.korbaweb.com/" title="sign up" role="button">SIGN UP</a>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft other-products">
                             
-                            <div class="about-item text-center" style="border-radius: 25px;height: 300px; padding-top:35px;" >
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px;height: 300px; padding-top:35px;" >
                                 <!-- <div class="col-md-5 col-sm-5 col-xs-5">
                                     <h3>Web App</h3>
                                 </div> -->
@@ -125,10 +125,10 @@
 
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="2s">
                             
-                            <div class="about-item text-center" style="border-radius: 25px; height: 300px;padding-top:35px;">
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px; height: 300px;padding-top:35px;">
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <h2 style="margin-bottom:40px;">Mobile App</h2>
-                                    <a href="https://play.google.com/store/apps/details?id=com.pentiumtech.korba" target="_blank"> <img src="img/logo/Android.png" style="width:100px; margin-bottom: 5px;"></a>
+                                    <a href="https://play.google.com/store/apps/details?id=com.pentiumtech.korba" target="_blank" > <img src="img/logo/Android.png" style="width:100px; margin-bottom: 5px;"></a>
                                     <a href="https://itunes.apple.com/gh/app/korba-app/id1123354947?mt=8" target="_blank"><img src="img/logo/Apple.png" style="width:100px;"></a>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
@@ -140,7 +140,7 @@
 
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInRight" data-wow-duration="2s">
                             
-                            <div class="about-item text-center" style="border-radius: 25px; height: 300px;padding-top:35px;">
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px; height: 300px;padding-top:35px;">
                                 <div class="col-md-12 col-sm-12 col-xs-12  ">
                                     <h2 >USSD</h2>
                                     <img src="img/logo/395ussd.png" class="other-products-img img-responsive" style=" height: 170px;">
@@ -151,13 +151,13 @@
                     </div>
                     <div class="row">
                         <div class="col-xs-0 col-sm-3 col-md-4"></div>
-                        <div class="col-xs-12 col-sm-6 col-md-4" style="margin: 30px;">
-                            <img src="img/logo/Layer 1.png" class="other-channels-img">
-                            <img src="img/logo/Layer 2.png" class="other-channels-img">
-                            <img src="img/logo/Layer 3.png" class="other-channels-img">
-                            <img src="img/logo/Layer 4.png" class="other-channels-img">
-                            <img src="img/logo/Layer 5.png" class="other-channels-img">
-                            <img src="img/logo/Layer 6.png" class="other-channels-img">
+                        <div class="col-xs-12 col-sm-6 col-md-4 " style="margin: 30px;">
+                            <img src="img/logo/Layer 1.png" class="other-channels-img hover-effect-all">
+                            <img src="img/logo/Layer 2.png" class="other-channels-img hover-effect-all">
+                            <img src="img/logo/Layer 3.png" class="other-channels-img hover-effect-all">
+                            <img src="img/logo/Layer 4.png" class="other-channels-img hover-effect-all">
+                            <img src="img/logo/Layer 5.png" class="other-channels-img hover-effect-all">
+                            <img src="img/logo/Layer 6.png" class="other-channels-img hover-effect-all">
                         </div>
                         <div class="col-xs-0 col-sm-3 col-md-4"></div>
                     </div>
@@ -181,7 +181,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft other-products">
-                            <div class="about-item text-center" style="border-radius: 25px; min-height: 300px;">
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px; min-height: 300px;">
                                 <img src="img/other-products/korba-logo.jpg" class="other-products-img ">
                                 <hr>
                                 <h3>E-Solution</h3>
@@ -195,7 +195,7 @@
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="2s">
-                            <div class="about-item text-center" style="border-radius: 25px; min-height: 300px;">
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px; min-height: 300px;">
                                 <img src="img/other-products/enterprise.png" class="other-products-img">
                                 <hr>
                                 <h3>Korba Enterprise</h3>
@@ -209,7 +209,7 @@
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInRight">
-                            <div class="about-item text-center" style="border-radius: 25px; min-height: 300px;">
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px; min-height: 300px;">
                                 <img src="img/other-products/korba-exchange.jpg" class="other-products-img">
                                 <hr>
                                 <h3>Korba Exchange</h3>
