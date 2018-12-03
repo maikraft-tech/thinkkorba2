@@ -50,7 +50,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInLeft">
-                            <img src="img/about/image3.jpg" style="border-radius: 25px;">
+                            <img src="img/home/image3.jpg" style="border-radius: 25px;">
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
                             <div class="tab-bg">
@@ -143,7 +143,7 @@
                             <div class="about-item text-center" style="border-radius: 25px; height: 300px;padding-top:35px;">
                                 <div class="col-md-12 col-sm-12 col-xs-12  ">
                                     <h2 >USSD</h2>
-                                    <img src="img/logo/395ussd.png" class="other-products-img " style=" height: 170px;">
+                                    <img src="img/logo/395ussd.png" class="other-products-img img-responsive" style=" height: 170px;">
                                 </div>
                                 
                             </div>
@@ -182,7 +182,7 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft other-products">
                             <div class="about-item text-center" style="border-radius: 25px; min-height: 300px;">
-                                <img src="img/other-products/korba-logo.jpg" class="other-products-img">
+                                <img src="img/other-products/korba-logo.jpg" class="other-products-img ">
                                 <hr>
                                 <h3>E-Solution</h3>
                                 <p>Bespoke remote banking platform to enable customers of financial institutions remotely access
@@ -214,7 +214,7 @@
                                 <hr>
                                 <h3>Korba Exchange</h3>
                                 <p>The platform can also enable the provision of APIs with payment functionality to be plugged
-                                    into systems that will enable ...
+                                    into systems ...
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="whitelabel.html" style="background: #ed1944;">Learn More</a>
                             </div>

@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Think Korba</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/logo/list_icon.png">
     <!-- Basic SEO -->
     <meta name="description" content="creative website development with HTML5,css,bootstrap and jquery">
     <meta name="keywords" content="HTML5,CSS3,JQuery,Bootstrap, Web Design, Web Development, Responsive website, Korba">
@@ -13,6 +14,7 @@
     <link rel="stylesheet" type="text/css" href="css/font-awesome/css/font-awesome.min.css">
     <!-- Bootsrap css -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
     
     <!-- Owl Carousel -->
     <!-- <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.min.css">

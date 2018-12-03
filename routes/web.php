@@ -90,3 +90,7 @@ Route::get('/partners', function () {
 Route::get('/terms', function () {
     return view('terms');
 });
+
+Route::get('/privacypolicy', function () {
+    return view('privacypolicy');
+});

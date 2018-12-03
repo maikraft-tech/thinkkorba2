@@ -969,8 +969,8 @@ ul.navbar-nav > li > a:focus{
 .info-box {
 	position: absolute;
 	bottom: -12%;
-	left:80px;
-	width: 35%;
+	left:90px;
+	width: 31%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 20px;

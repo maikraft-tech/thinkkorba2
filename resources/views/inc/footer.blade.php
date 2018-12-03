@@ -17,9 +17,9 @@
                                 <li>
                                     <a href=""> Support</a> |</li>
                                 <li>
-                                    <a href="privacypolicy.html"> Privacy Policy</a> |</li>
+                                    <a href="/privacypolicy"> Privacy Policy</a> |</li>
                                 <li>
-                                    <a href="terms.html"> Terms &amp; Conditions</a>
+                                    <a href="/terms"> Terms &amp; Conditions</a>
                                 </li>
                             </ul>
                         </div>

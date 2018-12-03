@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="name-heading">
-    <h2> Korba Enterprise(White Label)</h2>
+    <h2> Korba Enterprise(White Lable)</h2>
 </div>
 <section id="home" >
     
@@ -12,7 +12,7 @@
     </div>
     <div class="info-box">
         <p>
-            A white label system to enable other businesses integrate, receive payments and collections into their applications and website.
+            A white lable system to enable other businesses integrate, receive payments and collections into their applications and website.
         </p>
     </div>
     
