@@ -13,9 +13,9 @@
                             <!-- <p style="right: 30%;"> Quick Links</p> -->
                             <ul style="">
                                 <li>
-                                    <a href=""> About</a> |</li>
+                                    <a href="/philosophy"> About</a> |</li>
                                 <li>
-                                    <a href=""> Support</a> |</li>
+                                    <a href="/contactUs"> Support</a> |</li>
                                 <li>
                                     <a href="/privacypolicy"> Privacy Policy</a> |</li>
                                 <li>
@@ -24,8 +24,11 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 col-lg-4" style="padding: 10px 20px;">
-                        <img class="img-responsive" src="img/store-footer.png" style="width: 100%;">
+                    <div class="col-md-4 col-sm-4 col-xs-12 col-lg-4" style="padding: 20px 20px;">
+                        <!-- <img class="img-responsive" src="img/store-footer.png" style="width: 100%;"> -->
+
+                        <img src="img/logo/Android.png" style="width: 60px;">
+                        <img src="img/logo/Apple.png" style="width: 60px;">
                     </div>
                 </div>
 

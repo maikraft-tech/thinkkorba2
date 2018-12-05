@@ -8,7 +8,7 @@
     </div>
     <div>
         <div class="img-div" >
-        <img src="img/MobileApp.jpg" class="img-responsive">
+        <img src="img/home/web-mobile.jpg" class="img-responsive">
     </div>
     <div class="info-box1">
         <p>

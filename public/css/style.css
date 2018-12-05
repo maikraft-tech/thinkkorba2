@@ -49,13 +49,14 @@ section{
 }
 
 #status{
-	background-image: url("../img/preloader/preloader.gif");
+	background-image: url("../img/preloader/Webloader.gif");
 	background-repeat: no-repeat;
-	width: 70px;
-	height: 70px;
+	width: 200px;
+	height: 200px;
+	
 	position: absolute;
 	left: 50%;
-	top: 50%;
+	top: 40%;
 	margin-top: -35px;
 	margin-left: -35px;
 }
@@ -1494,4 +1495,14 @@ li.korba-logo{
 	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   }
 
+  .hover-effect-all:active{
+	transform: translateY(-1px);
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+/* .hover-effect-all::after{
+	content: '';
+	display: inline-block;
+	height: 100%;
+	width: 100%
+} */
   
