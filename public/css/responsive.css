@@ -205,9 +205,9 @@
 	#mobile-nav-open-btn{
 		display: block;
 	}
-	/* .menu-bar{
-		display: none;
-	} */
+	#menu{
+		width: 40% !important;
+	}
 
 	/*Home*/
 	#home-heading h1{
@@ -477,7 +477,7 @@
 	}
 	#menu{
 		text-align: center;
-		width: 100%;
+		width: 100% !important;
 		margin-top: 10px;
 		position: relative;
 		/* top: 10%; */

@@ -4,7 +4,7 @@
 <section style="background-color: #e2ecf5;">
         <div class="name-heading">
             <div class="row">
-                <h2> Our Board Of Directors <img src="img/KorbaWeb Assets/Team.png" style="position: relative; float: right; width: 70px; height: 60px; padding-bottom: 10px;"> </h2>
+                <h2> Our Board Of Directors <img src="img/logo/Team.png" style="position: relative; float: right; width: 70px; height: 60px; padding-bottom: 10px;"> </h2>
             </div>
             
              
@@ -13,7 +13,7 @@
 
         <div class="container" style="padding-top: 30px; ">
             <div class="row" style="margin: 25px;">
-                <div class="col-sm-4 col-md-4 col-xs-12">
+                <div class="col-sm-4 col-md-4 col-xs-12 col-lg-4">
                     <div class="row my-box-shadow">
                         <img src="img/board/Dodoo.jpg" alt="Prof Dodoo" />
                     </div>
@@ -27,7 +27,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-4 col-md-4 col-xs-12">
+                <div class="col-sm-4 col-md-4 col-xs-12 col-lg-4">
                     <div class="row my-box-shadow">
                         <img src="" alt="Daniel Amuzu" />
                     </div>
@@ -41,7 +41,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-4 col-md-4 col-xs-12">
+                <div class="col-sm-4 col-md-4 col-xs-12 col-lg-4">
                     <div class="row my-box-shadow">
                         <img src="img/board/Boafo.jpg" alt="David Boafo" />
                     </div>
@@ -57,7 +57,7 @@
             </div>
 
             <div class="row" style="margin: 25px;">
-                <div class="col-sm-4 col-md-4 col-xs-12">
+                <div class="col-sm-4 col-md-4 col-xs-12 col-lg-4">
                     <div class="row my-box-shadow">
                         <img src="img/board/Biga.jpg" alt="Albert Biga" />
                     </div>
@@ -71,7 +71,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-4 col-md-4 col-xs-12">
+                <div class="col-sm-4 col-md-4 col-xs-12 col-lg-4">
                     <div class="row my-box-shadow">
                         <img src="img/board/Perl.jpg" alt="Pearl Mensah" />
                     </div>
@@ -85,7 +85,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-4 col-md-4 col-xs-12">
+                <div class="col-sm-4 col-md-4 col-xs-12 col-lg-4">
                     <div class="row my-box-shadow">
                         <img src="img/board/Korshi.jpg" alt="Korshi" />
                     </div>

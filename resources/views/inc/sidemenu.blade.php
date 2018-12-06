@@ -1,4 +1,4 @@
-<div class="menu menu-bottom" id="menu" style="width: 25%; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;">
+<div class="menu menu-bottom" id="menu" style="width: auto; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;">
     <div class="col-md-12 col-xs-12 col-lg-12">
         <div class="row">
             <img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top: 50px;margin-bottom: 20px;">
@@ -29,7 +29,7 @@
                             <a href="subscribe"><i class="fa fa-angle-right"></i> Subscribe to Korba</a>
                         </li>
                         <li>
-                            <a href="access"><i class="fa fa-angle-right"></i> Access Points</a>
+                            <a href="access"><i class="fa fa-angle-right"></i> Access Channels</a>
                         </li>
                     </ul>
                 </li>
