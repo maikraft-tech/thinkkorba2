@@ -36,9 +36,9 @@ a:link {
 	text-decoration: none;
   }
   
-  a:visited {
+a:visited {
 	text-decoration: none;
-  }
+}
 
 
 
@@ -383,7 +383,7 @@ a:link {
 }
 
 /*===============================
-|	|	|	|	Team
+|	|	|	|	Board of Directors
 ================================*/
 .our-team .team-row {
 	margin-left: -40px;

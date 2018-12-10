@@ -21,7 +21,7 @@
                 <div class="col-md-12 col-xs-12 col-sm-12" >
                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingOne" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingOne" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         What is Korba?
@@ -35,7 +35,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwo" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingTwo" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         What are the benefits of Korba?
@@ -57,7 +57,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingThree" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingThree" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         What makes Korba Unique?
@@ -79,7 +79,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingFour" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingFour" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                         Who can use Korba?
@@ -93,7 +93,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingFive" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingFive" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         Who can sign up to Korba?
@@ -107,7 +107,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingSix" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingSix" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         Do I need to come to the office to sign up to Korba?
@@ -121,7 +121,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingSeven" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingSeven" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                                         Do I need an agent to sign up to Korba?
@@ -135,7 +135,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingEight" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingEight" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
                                         What details are required to sign up to Korba?
@@ -149,7 +149,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingNine" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingNine" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
                                         Can I sign up to Korba if I have no money at the time of sign up?
@@ -163,7 +163,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingTen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
                                         Can I sign up to Korba if I don’t have a bank account/wallet?
@@ -177,7 +177,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingEleven" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingEleven" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
                                             How do I transfer funds with Korba?
@@ -205,7 +205,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwelve" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingTwelve" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
                                         Is there a limit to the amount I can transfer on Korba?
@@ -219,7 +219,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingThirteen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingThirteen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
                                         How do I make payments using Korba?
@@ -244,7 +244,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingFourteen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingFourteen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
                                         Is there any service charge when I transfer or receive funds using Korba?
@@ -258,7 +258,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingFifteen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingFifteen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
                                         What happens if there is a network failure when undertaking a transaction?
@@ -272,7 +272,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingSixteen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingSixteen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
                                         How many transactions am I allowed to make in a day with Korba?
@@ -285,8 +285,9 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingSeventeen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingSeventeen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
                                         Can I track my transactions on Korba?
@@ -299,8 +300,9 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingEighteen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingEighteen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
                                         Can I have multiple accounts on Korba?
@@ -313,8 +315,9 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingNinteen" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingNinteen" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNinteen" aria-expanded="false" aria-controls="collapseNinteen">
                                         Can I have access to my bank statement using Korba?
@@ -327,8 +330,9 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwenty" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingTwenty" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">
                                             How does my institution become a partner with Korba?
@@ -337,12 +341,12 @@
                             </div>
                             <div id="collapseTwenty" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwenty">
                                 <div class="panel-body">
-                                    <p>Simply go to www. korbaweb.com, upload the required documents, and the Korba team will then contact you as soon as possible.</p>
+                                    <p>Simply go to www.korbaweb.com, upload the required documents, and the Korba team will then contact you as soon as possible.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwentyone" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingTwentyone" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyone" aria-expanded="false" aria-controls="collapseTwentyone">
                                         How is my data protected under Korba?
@@ -356,7 +360,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwentytwo" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingTwentytwo" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentytwo" aria-expanded="false" aria-controls="collapseTwentytwo">
                                         Any penalties if I decide not to use Korba anymore?
@@ -370,7 +374,7 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwentythree" style="background:#ed1844; color:#fff;">
+                            <div class="panel-heading" role="tab" id="headingTwentythree" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentythree" aria-expanded="false" aria-controls="collapseTwentythree">
                                         How do I contact the Korba Team in case I need assistance?
