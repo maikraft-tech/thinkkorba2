@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
 <html lang="en">
 
 <head>
@@ -46,7 +47,7 @@
     <!-- Footer section -->
     @include('inc.footer')
     <!-- JQuery library -->
-    <!-- <script type="text/javascript" src="js/jquery.js"></script> -->
+    <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Bootsrap JS -->
     <script type="text/javascript" src="js/bootstrap/bootstrap.js"></script>

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-4 col-xs-12 col-lg-4" style="padding-top: 15px;">
                     <p style="font-size: 14px;">Copyright &copy; 2018. All Rights Reserved By
-                        <span>Korba </span>
+                        <span style="color:red;">Korba </span>
                     </p>
                 </div>
                 <div class="col-md-8 col-xs-12 col-sm-8 col-lg-8">

@@ -72,6 +72,30 @@
 ================================*/
 
 /*Large Devices(Desktops & Laptops)*/
+@media(min-width: 1300px) and (max-width: 1499px){
+	/*Navigation*/
+	.site-nav-wrapper{
+		padding: 0 20px;
+	}
+
+	.info-box {
+		position: absolute;
+		bottom: -1%;
+		left:90px;
+		width: 35%;
+		background-color: #fff;
+		border: 1px solid #fdfdf1;
+		padding: 20px;
+		border-radius: 2px;
+		-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+		-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	}
+
+
+}
+
+/*Large Devices(Desktops & Laptops)*/
 @media(min-width: 1200px) and (max-width: 1299px){
 	/*Navigation*/
 	.site-nav-wrapper{

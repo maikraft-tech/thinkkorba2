@@ -14,7 +14,7 @@
     </div>
     <div class="info-box">
         <p>
-            Bespoke remote banking patform to enable customers of financial institutions remotely access banking services anywhere, any time.
+            Bespoke remote banking platform to enable customers of financial institutions remotely access banking services anywhere, any time. Just dial *395*9998#
         </p>
     </div>
     

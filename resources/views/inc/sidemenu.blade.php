@@ -1,10 +1,14 @@
 <div class="menu menu-bottom" id="menu" style="width: auto; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;">
     <div class="col-md-12 col-xs-12 col-lg-12">
         <div class="row">
-            <img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top: 50px;margin-bottom: 20px;">
+            <span><a href="/" style="color: #fff;font-size:18px;">Home</a><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top: 50px;margin-bottom: 20px;"></span>
         </div>
         <div class="row berrymenu">
             <ul>
+                <!-- <li class="dropdown">
+                    <a href="/" style="display: block;color: white;
+                        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Home  </a>
+                </li> -->
                 <li class="dropdown">
                     <a href="#" data-toggle="dropdown" >About Us <i class="icon-arrow"></i></a>
                     <ul class="dropdown-menu truedrop">

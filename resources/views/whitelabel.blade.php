@@ -7,10 +7,10 @@
 </div>
 <section id="home" >
     
-    <div class="img-div">
+    <div class="img-div ">
         <img src="img/Exchange.jpg">
     </div>
-    <div class="info-box">
+    <div class="info-box ">
         <p>
             A white lable system to enable other businesses integrate, receive payments and collections into their applications and website.
         </p>
