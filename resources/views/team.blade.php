@@ -4,7 +4,7 @@
 <section>
     <div class="name-heading">
         <div class="row">
-            <h2> Our Team <img src="img/KorbaWeb Assets/Team.png" style="position: relative; float: right; width: 70px; height: 70px; padding-bottom: 10px;"> </h2>
+            <h2> Our Team <img src="img/logo/Team.png" style="position: relative; float: right; width: 70px; height: 70px; padding-bottom: 10px;"> </h2>
         </div>
         
             
@@ -12,7 +12,7 @@
     
     <!-- new team display -->
     
-<div class="container">
+<div class="container team-container">
   <div class="at-section">
     <div class="at-section__title">The Team</div>
   </div>

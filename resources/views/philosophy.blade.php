@@ -18,7 +18,7 @@
     </div>
 
     <div class="container-fluid phil_img">
-        <img src="img/other/halges-core-values.png" class="img-responsive " style="width: 47%; padding: auto; margin-left: 45vh;margin-top: 30px;" />
+        <img src="img/other/halges-core-values.png" class="img-responsive " class="philo" />
     </div>
 </section>
 
