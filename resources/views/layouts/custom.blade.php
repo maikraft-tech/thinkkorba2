@@ -15,8 +15,8 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css">
     
     <!-- Owl Carousel -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.min.css">
-    <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.theme.default.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.theme.default.min.css">
     <!-- Responsive tabs -->
     <link rel="stylesheet" type="text/css" href="css/responsive-tabs/responsive-tabs.css">
     <!-- Animate css -->
@@ -48,6 +48,8 @@
     <script type="text/javascript" src="js/bootstrap/bootstrap.js"></script>
     <!-- Wow Js -->
     <script type="text/javascript" src="js/wow/wow.min.js"></script>
+    <!-- Owl Carousel Js -->
+  	<script type="text/javascript" src="js/owl-carousel/owl.carousel.min.js"></script>
     <!-- Responsive tabs -->
     <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script>
     <!-- Custom js -->

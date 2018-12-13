@@ -2,8 +2,8 @@
 @extends('layouts.app')
 
 @section('content')
-<!-- Home  -->
-<section id="home">
+    <!-- Home  -->
+    <section id="home">
         <!-- <img id="home-bg-img" src="img/home/ussd.jpg"> -->
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
@@ -13,7 +13,7 @@
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
             </ol>
             <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
+            <div class="carousel-inner" role="listbox" style="max-height:1132px;">
                 <div class="item active">
                     <img src="img/home/ussd.jpg" alt="first slide">
                     
@@ -30,11 +30,11 @@
             </div>
             <!-- Controls -->
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true" style="font-size:60px;"></span>
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true" style="font-size:40px;"></span>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:60px;"></span>
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:40px;"></span>
                 <span class="sr-only">Next</span>
             </a>
         </div>
@@ -42,6 +42,7 @@
         
         <!-- Home Ends -->
     </section>
+
     <!-- About Korba section -->
     <div id="services-02">
         <div class="content-box-md">
@@ -98,6 +99,7 @@
             </div>
         </div>
     </div>
+
     <!-- Our Channels -->
     <section id="other-products">
         <div id="about-02">
@@ -169,6 +171,60 @@
 
     </section>
 
+    <!-- Clients section -->
+  	<!-- <section id="clients">
+  		<div class="content-box-sm">
+  			<div class="container">
+  				<div class="row">
+  					<div class="col-md-12 text-center">
+  						<div class="horizontal-heading ">
+  							
+  							<h2>Our Happy <strong>Clients</strong></h2>
+  						</div>
+  					</div>
+  				</div>
+  				<div class="row wow bounceInLeft" data-wow-duration="1s" data-wow-delay=".5s">
+  					<div class="col-md-12">
+  						<div id="clients-list" class="owl-carousel owl-theme">
+  							
+  							<div class="client">
+  								<img src="img/client/client-1.png" class="img-responsive" alt="client">
+  							</div>
+  							
+  							<div class="client">
+  								<img src="img/client/client-2.png" class="img-responsive" alt="client">
+  							</div>
+  							
+  							<div class="client">
+  								<img src="img/client/client-3.png" class="img-responsive" alt="client">
+  							</div>
+  							
+  							<div class="client">
+  								<img src="img/client/client-4.png" class="img-responsive" alt="client">
+  							</div>
+  							
+  							<div class="client">
+  								<img src="img/client/client-5.png" class="img-responsive" alt="client">
+  							</div>
+  							
+  							<div class="client">
+  								<img src="img/client/client-6.png" class="img-responsive" alt="client">
+  							</div>
+  							
+  							<div class="client">
+  								<img src="img/client/client-7.png" class="img-responsive" alt="client">
+  							</div>
+  							
+  							<div class="client">
+  								<img src="img/client/client-8.png" class="img-responsive" alt="client">
+  							</div>
+  						</div>
+  					</div>
+  				</div>
+  			</div>
+  		</div>
+  	</section> -->
+
 
     <!-- Other products -->
     <section id="other-products">
@@ -186,7 +242,7 @@
                                 <hr>
                                 <h3>E-Solution</h3>
                                 <p>Bespoke remote banking platform to enable customers of financial institutions remotely access
-                                    banking services anywhere, any time
+                                    banking services..
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="ebusiness.html" style="background: #ed1944;">Learn More</a>
                             </div>

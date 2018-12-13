@@ -79,7 +79,7 @@
                 </li>
                 
                 <li style="margin-top:70px;">
-                    <span style="color: white;padding-left:10px;"><img src="img/logo/social-media-white.png" style="height:20px;"><span style="padding-left:10px;">Korbaweb</span></span>
+                    <span style="color: white;padding-left:10px;"><img src="img/other/side-fb.png"><span style="padding-left:10px;">Korbaweb</span></span>
                 </li>
                 <li class="dropdown">
                     <a href="terms" style="display: block;color: white;
