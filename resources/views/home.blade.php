@@ -243,7 +243,7 @@
                                 <h3>E-Solution</h3>
                                 <p>Bespoke remote banking platform to enable customers of financial institutions remotely access...
                                 </p>
-                                <a class="btn  btn-lg btn-block btn-danger pro-button" href="ebusiness.html" style="background: #ed1944;">Learn More</a>
+                                <a class="btn  btn-lg btn-block btn-danger pro-button" href="/ebusiness" style="background: #ed1944;">Learn More</a>
                             </div>
 
 
@@ -257,7 +257,7 @@
                                 <p>This module enables partner institutions to make bulk payments to individuals irrespective
                                     of where financial...<br/>
                                 </p>
-                                <a class="btn  btn-lg btn-block btn-danger pro-button" href="enterprise.html" style="background: #ed1944;">Learn More</a>
+                                <a class="btn  btn-lg btn-block btn-danger pro-button" href="/enterprise" style="background: #ed1944;">Learn More</a>
                             </div>
 
 
@@ -271,7 +271,7 @@
                                 <p>The platform can also enable the provision of APIs with payment functionality to be plugged
                                     into systems ...<br/>
                                 </p>
-                                <a class="btn  btn-lg btn-block btn-danger pro-button" href="whitelabel.html" style="background: #ed1944;">Learn More</a>
+                                <a class="btn  btn-lg btn-block btn-danger pro-button" href="/whitelabel" style="background: #ed1944;">Learn More</a>
                             </div>
 
                         </div>
