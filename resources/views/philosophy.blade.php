@@ -17,8 +17,8 @@
         </div>
     </div>
 
-    <div class="container-fluid phil_img">
-        <img src="img/other/halges-core-values.png" class="img-responsive " style="width: 45%;padding: auto; margin-left: 45vh;margin-top: 30px;"/>
+    <div class="container-fluid ">
+        <img src="img/other/halges-core-values.png" class="img-responsive phil_img"/>
     </div>
 </section>
 

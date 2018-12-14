@@ -6,7 +6,7 @@
     <h2> Compliance</h2>
 </div>
 <section >
-    <div style="padding-left:100px;padding-right:100px;padding-top:50px; line-height:3; margin-left:100px;margin-right:100px;margin-bottom:50px;">
+    <div class="compliance">
 
         <ul class="no_bullet">
             <p><b>Data Privacy</b></p>

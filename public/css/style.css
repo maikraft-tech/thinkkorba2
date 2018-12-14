@@ -276,6 +276,9 @@ a:visited {
 	margin-top: 15px;
 	
 }
+.other-products-img1{
+	height: 170px;
+}
 
 .other-channels-img{
 	width: 45px;
@@ -613,9 +616,19 @@ a:visited {
 		cursor: pointer;
 		text-decoration: none;
 	}
+
+
 	
 
-
+/*===============================
+|	|	|	|	Philosophy
+================================*/
+.phil_img{
+	width: 45%;
+	padding: auto; 
+	margin-left: 45vh;
+	margin-top: 30px;
+}
 
 
 /*===============================
@@ -809,11 +822,31 @@ a:visited {
 			transform-origin: top center;
 	-webkit-transform: scale(0.8);
 			transform: scale(0.8);
-  }
+	}
+	
+	/*===============================
+|	|	|	|	What Korba
+================================*/
   
+	.what-korba{
+		height: 100%
+	}
 
 
 
+
+	/*===============================
+|	|	|	|	What Korba
+================================*/
+.compliance{
+	padding-left:100px;
+	padding-right:100px;
+	padding-top:50px;
+	line-height:3;
+	margin-left:100px;
+	margin-right:100px;
+	margin-bottom:50px;
+}
 
 
 /*===============================
@@ -1354,13 +1387,14 @@ ul.navbar-nav > li > a:focus{
 
 .img-div img {
 	width: 100%;
+	min-height: 600px;
 	
 }
 
 
 .info-box {
 	position: absolute;
-	bottom: -12%;
+	bottom: 7%;
 	left:90px;
 	width: 31%;
 	background-color: #fff;
@@ -1551,7 +1585,7 @@ li.korba-logo{
 	display: block;
 	color: white;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
-	padding: 10px;
+	padding: 7px;
 	font-size: 18px;
 	font-weight: 200;
   }

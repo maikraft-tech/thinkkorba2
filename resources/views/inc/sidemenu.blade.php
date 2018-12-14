@@ -79,7 +79,12 @@
                 </li>
                 
                 <li style="margin-top:70px;">
-                    <span style="color: white;padding-left:10px;"><img src="img/other/side-fb.png"><span style="padding-left:10px;">Korbaweb</span></span>
+                    <span style="color: white;padding-left:10px;">
+                        <a href="http://facebook.com/korbaweb.com" target="_blank"><img src="img/other/side-fb.png" style="height:20px;margin-left:3px;"></a>
+                        <a href="https://www.instagram.com/korbaweb/?utm_source=ig_profile_share&igshid=19f6kkchj46rl" target="_blank"><img src="img/other/side-ig.png" style="height:20px;margin-left:3px;"></a>
+                        <a href="http://twitter.com/korbaweb" target="_blank"><img src="img/other/side-twitter.png" style="height:20px;margin-left:3px;"></a>
+                        <a href="http://youtube.com/korbaweb.com" target="_blank"><img src="img/other/side-youtube.png" style="height:20px;"></a>
+                    <span style="padding-left:10px;">Korbaweb</span></span>
                 </li>
                 <li class="dropdown">
                     <a href="terms" style="display: block;color: white;

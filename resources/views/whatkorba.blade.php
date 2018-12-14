@@ -2,7 +2,7 @@
 
 @section('content')
 
-<section  style="height: 100%;width: 100%;">
+<section  class="what-korba">
     <div class="name-heading">
         <h2> What is Korba <img src="img/logo/question.png" style="position: relative; float: right; width: 25px; padding-bottom: 10px;"></h2>
     </div>

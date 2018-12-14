@@ -5,7 +5,7 @@
 <div class="name-heading">
         <h2> Korba E-Banking</h2>
     </div>
-<section id="home" >
+<section id="home" style="height:100%;">
     <!-- <div class="name-heading">
         <h2> Korba E-Banking</h2>
     </div> -->

@@ -13,7 +13,7 @@
         <div class="row bod">
             <div class="row team-row" style="padding-top: 30px; padding-bottom: 30px;">
 
-                <div class="col-md-4 col-sm-6 team-wrap">
+                <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="img/board/Dodoo.jpg" alt="Prof Dodoo">
@@ -56,7 +56,7 @@
                 </div>
             
 
-                <div class="col-md-4 col-sm-6 team-wrap">
+                <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member text-center">
                         <div class="team-img">
                         <img src="img/board/Korshi.jpg" alt="Korshi">
@@ -100,7 +100,7 @@
                 </div>
                 
 
-                <div class="col-md-4 col-sm-6 team-wrap">
+                <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member last text-center">
                         <div class="team-img">
                         <img src="/img/board/Daniel.png" alt="Daniel Amuzu" style="margin-bottom:25px;">
@@ -147,7 +147,7 @@
             <!-- second row of directors -->
             <div class="row team-row" style="padding-top: 30px; padding-bottom: 30px;">
 
-                <div class="col-md-4 col-sm-6 team-wrap">
+                <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="img/board/Perl.jpg" alt="Pearl Mensah">
@@ -190,7 +190,7 @@
                 </div>
             
 
-                <div class="col-md-4 col-sm-6 team-wrap">
+                <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member text-center">
                         <div class="team-img">
                         <img src="img/board/Biga.jpg" alt="Albert Biga">
@@ -232,7 +232,7 @@
                 </div>
                 
 
-                <div class="col-md-4 col-sm-6 team-wrap">
+                <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member last text-center">
                         <div class="team-img">
                         <img src="img/board/Boafo.jpg" alt="David Boafo">

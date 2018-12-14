@@ -5,7 +5,7 @@
 <div class="name-heading">
     <h2> Korba Enterprise(White Lable)</h2>
 </div>
-<section id="home" >
+<section id="home" style="height:100%;">
     
     <div class="img-div ">
         <img src="img/Exchange.jpg">

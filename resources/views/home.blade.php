@@ -15,15 +15,15 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox" style="max-height:1132px;">
                 <div class="item active">
-                    <img src="img/home/ussd.jpg" alt="first slide">
+                    <img src="img/home/ussd.jpg" alt="first slide" class="img-responsive">
                     
                 </div>
                 <div class="item ">
-                    <img src="img/home/web-mobile.jpg" alt="second slide">
+                    <img src="img/home/web-mobile.jpg" alt="second slide" class="img-responsive">
                     
                 </div>
                 <div class="item">
-                    <img src="img/home/web-app.jpg" alt="third slide">
+                    <img src="img/home/web-app.jpg" alt="third slide" class="img-responsive">
                     
                 </div>
                
@@ -145,7 +145,7 @@
                             <div class="about-item text-center hover-effect-all" style="border-radius: 25px; height: 300px;padding-top:35px;">
                                 <div class="col-md-12 col-sm-12 col-xs-12  ">
                                     <h2 >USSD</h2>
-                                    <img src="img/logo/395ussd.png" class="other-products-img img-responsive" style=" height: 170px;">
+                                    <img src="img/logo/395ussd.png" class="other-products-img1">
                                 </div>
                                 
                             </div>
@@ -241,8 +241,7 @@
                                 <img src="img/other-products/korba-logo.jpg" class="other-products-img ">
                                 <hr>
                                 <h3>E-Solution</h3>
-                                <p>Bespoke remote banking platform to enable customers of financial institutions remotely access
-                                    banking services..
+                                <p>Bespoke remote banking platform to enable customers of financial institutions remotely access...
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="ebusiness.html" style="background: #ed1944;">Learn More</a>
                             </div>
@@ -256,7 +255,7 @@
                                 <hr>
                                 <h3>Korba Enterprise</h3>
                                 <p>This module enables partner institutions to make bulk payments to individuals irrespective
-                                    of where financial...
+                                    of where financial...<br/>
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="enterprise.html" style="background: #ed1944;">Learn More</a>
                             </div>
@@ -270,7 +269,7 @@
                                 <hr>
                                 <h3>Korba Exchange</h3>
                                 <p>The platform can also enable the provision of APIs with payment functionality to be plugged
-                                    into systems ...
+                                    into systems ...<br/>
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="whitelabel.html" style="background: #ed1944;">Learn More</a>
                             </div>
