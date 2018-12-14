@@ -26,9 +26,9 @@
                                         <a class="modal-button" href="#popup">More</a>
                                         <div class="popup" id="popup">
                                             <div class="popup-inner">
-                                                <div class="popup__photo">
+                                                <!-- <div class="popup__photo">
                                                     <img src="https://images.unsplash.com/photo-1515224526905-51c7d77c7bb8?ixlib=rb-0.3.5&s=9980646201037d28700d826b1bd096c4&auto=format&fit=crop&w=700&q=80" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="popup__text">
                                                     <h3>Professor Francis Dodoo</h3>
                                                     <p>Professor Francis Dodoo holds a dual appointment as Full Professor of Sociology and Demography at the Pennsylvania State University, and as Professor of Demography at the Regional Institute of Population Studies, University of Ghana. His academic prowess has been made manifest with the over 50 research publications he has to his name. Prof Dodoo has directed a number of academic and research programmes both in Africa and the western world. </p>
@@ -69,9 +69,9 @@
                             <a class="modal-button" href="#popup1">More</a>
                                         <div class="popup" id="popup1">
                                             <div class="popup-inner">
-                                                <div class="popup__photo">
+                                                <!-- <div class="popup__photo">
                                                     <img src="https://images.unsplash.com/photo-1515224526905-51c7d77c7bb8?ixlib=rb-0.3.5&s=9980646201037d28700d826b1bd096c4&auto=format&fit=crop&w=700&q=80" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="popup__text">
                                                     <h3>Korshie Da Seglah</h3>
                                                     <p>Nelson Da Seglah is an information Technology consultant with over 15 years experience in developing and delivering Technology strategies, projects and solutions. Nelson has worked in various industries including manufacturing and financials services.</p>
@@ -113,9 +113,9 @@
                                 <a class="modal-button" href="#popup2">More</a>
                                 <div class="popup" id="popup2">
                                     <div class="popup-inner">
-                                        <div class="popup__photo">
+                                        <!-- <div class="popup__photo">
                                             <img src="https://images.unsplash.com/photo-1515224526905-51c7d77c7bb8?ixlib=rb-0.3.5&s=9980646201037d28700d826b1bd096c4&auto=format&fit=crop&w=700&q=80" alt="">
-                                        </div>
+                                        </div> -->
                                         <div class="popup__text">
                                             <h3>Daniel Kertoglo Amuzu</h3>
                                             <p>Ketorglo Amuzu is the author of the book “Living Naked, Wit & wisdom of Prince Kofi Amoabeng” and a chattered member of ACCA. Daniel has over 12 years’ working experience spanning various areas in Accounts and Finance. Before joining UT, he worked as accounts officer with an international airline and SGS group of Companies- (Society General De Surveillance Ghana) and has also worked in various accounting and Finance related capacities within the UT Group of Companies.	</p>
@@ -160,9 +160,9 @@
                                         <a class="modal-button" href="#popup3">More</a>
                                         <div class="popup" id="popup3">
                                             <div class="popup-inner">
-                                                <div class="popup__photo">
+                                                <!-- <div class="popup__photo">
                                                     <img src="https://images.unsplash.com/photo-1515224526905-51c7d77c7bb8?ixlib=rb-0.3.5&s=9980646201037d28700d826b1bd096c4&auto=format&fit=crop&w=700&q=80" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="popup__text">
                                                     <h3>Pearl Essuah-Mensah</h3>
                                                     <p>Mrs Pearl Esua-Mensah is a Chartered Accountant.She is a fellow of the Association of Chartered Certified Accountants (ACCA), holds a BSc. Administration degree from University of Ghana Legon and MBA from the Manchester Business School. She was the deputy Managing Director for UT Bank and also group Director of Finance and Administration of UT Group of companies.</p>
@@ -203,9 +203,9 @@
                             <a class="modal-button" href="#popup4">More</a>
                                         <div class="popup" id="popup4">
                                             <div class="popup-inner">
-                                                <div class="popup__photo">
+                                                <!-- <div class="popup__photo">
                                                     <img src="https://images.unsplash.com/photo-1515224526905-51c7d77c7bb8?ixlib=rb-0.3.5&s=9980646201037d28700d826b1bd096c4&auto=format&fit=crop&w=700&q=80" alt="">
-                                                </div>
+                                                </div> -->
                                                 <div class="popup__text">
                                                     <h3>Albert Biga</h3>
                                                     <p>Albert Biga is an ICT & Business Process Automation expert with over to 20 years’ practice. His professional practice spans software design, implementation & business process automation. His international experience across the sub-region was with Intel Corp, Ford Foundation-West Africa, USAID/West Africa Trade Hub, the SOFT tribe among others. Albert has a BSc in Mathematical Science from the University of Ghana Legon. </p>
@@ -245,9 +245,9 @@
                                 <a class="modal-button" href="#popup5">More</a>
                                 <div class="popup" id="popup5">
                                     <div class="popup-inner">
-                                        <div class="popup__photo">
+                                        <!-- <div class="popup__photo">
                                             <img src="https://images.unsplash.com/photo-1515224526905-51c7d77c7bb8?ixlib=rb-0.3.5&s=9980646201037d28700d826b1bd096c4&auto=format&fit=crop&w=700&q=80" alt="">
-                                        </div>
+                                        </div> -->
                                         <div class="popup__text">
                                             <h3>David Kwabena Boafo</h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ex velit, viverra non vulputate vitae, blandit vitae nisl. Nullam fermentum orci et erat viverra bibendum. Aliquam sed varius nibh, vitae mattis purus. Mauris elementum sapien non ullamcorper vulputate. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget felis sit amet eros viverra pulvinar.</p>

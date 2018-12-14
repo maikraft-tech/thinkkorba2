@@ -6,7 +6,7 @@
         <h2> Terms & Conditions</h2>
     </div>
 <section id="home" >
-    <div style="padding-left:80px;padding-right:80px;padding-top:50px;padding-bottom:90px; line-height:3;">
+    <div class="terms">
         <span>The following terms and conditions govern your use of Korba. By using the Korba platform, you have fully agreed to the terms applicable to its use.</span>
 
         <ul class="no_bullet">

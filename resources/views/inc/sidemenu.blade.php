@@ -1,4 +1,4 @@
-<div class="menu menu-bottom" id="menu" style="width: auto; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;">
+<div class="menu menu-bottom" id="menu" style="width: auto; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;transition: 1.64s ease-in-out">
     <div class="col-md-12 col-xs-12 col-lg-12">
         <div class="row">
             <span><a href="/" style="color: #fff;font-size:18px;">Home</a><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top: 50px;margin-bottom: 20px;"></span>

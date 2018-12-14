@@ -2,7 +2,7 @@
 
 @section('content')
 
-<section style="background-color: #e2ecf5;">
+<section style="height:100%;">
         <div class="name-heading">
             <div class="row">
                 <h2>  Partners <img src="img/logo/partner-icon.png" style="position: relative; float: right; width: 60px;  padding-bottom: 10px;"> </h2>
@@ -12,7 +12,7 @@
         </div>
        
 
-<div class="container" style="padding-top: 30px; position: relative;">
+    <div class="container" style="padding-top: 30px; position: relative;">
         <div class="row">
             <h2 style="text-align:center;">Our Partners</h2>
             <div class="col-md-12 col-sm-12 col-xs-12 ">
