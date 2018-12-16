@@ -6,7 +6,7 @@
     <div class="name-heading">
         <h2> Subscribe to Korba</h2>
     </div>
-    <div class="container-fluid" style="padding-top:40px;padding-bottom:80px;padding-left:30px;padding-right:30px;margin-left:50px;margin-right:50px;">
+    <div class="container-fluid" class="subscribe">
         <div class="row" style="padding-left: 40px;padding-right: 20px;">
             <div class="col-sm-12 col-md-12 col-xs-12">
                 <span style="color: #ed1944;"><b> How to Sign Up on Mobile App</b></span>

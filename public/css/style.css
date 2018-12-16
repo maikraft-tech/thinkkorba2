@@ -11,8 +11,12 @@
 }
 html, body{
 	height: 100%;
-	background: #fdfdf1 !important;
+	background: #fdfdf1 ;
 	font-family: 'Quicksand', sans-serif;
+}
+
+ section .container{
+	background: #fff;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -819,14 +823,42 @@ a:visited {
 ================================*/
   
 	.what-korba{
-		height: 100%
+		height: 100%;
+		
+	}
+
+	.what_korba{
+		padding: 40px 40px;
+		margin-bottom: 50px;
+		margin-top: 20px; 
+		margin-left: 40px;
+		letter-spacing: 1px;
+	}
+
+	.full{
+		padding-top: 55px;
+	}
+
+	.who-korba{
+		padding: 20px 40px;
+		margin-bottom: 50px;
+		margin-top: 20px;
+		margin-left: 40px;
+		letter-spacing: 1px;
+		
+	}
+
+	.who-korba-item{
+		/* width: auto; */
+		margin-left: 30px; 
+		font-size:20px;
 	}
 
 
 
 
 	/*===============================
-|	|	|	|	What Korba
+|	|	|	|	Compliance
 ================================*/
 .compliance{
 	padding-left:100px;
@@ -838,6 +870,20 @@ a:visited {
 	margin-bottom:50px;
 }
 
+
+
+
+	/*===============================
+|	|	|	|	Subscribe
+================================*/
+.subscribe{
+	padding-top:40px;
+	padding-bottom:80px;
+	padding-left:30px;
+	padding-right:30px;
+	margin-left:50px;
+	margin-right:50px;
+}
 
 	/*===============================
 |	|	|	|	Partners
@@ -1410,7 +1456,7 @@ ul.navbar-nav > li > a:focus{
 
 .info-box {
 	position: absolute;
-	bottom: 7%;
+	bottom: 3%;
 	left:90px;
 	width: 31%;
 	background-color: #fff;

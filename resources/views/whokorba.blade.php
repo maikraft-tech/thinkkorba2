@@ -24,10 +24,10 @@
 
 
 
-<div class="content-box-md" style="padding: 20px 40px;margin-bottom: 50px;margin-top: 20px;margin-left: 40px;letter-spacing: 1px;">
+<div class="content-box-md" class="who-korba ">
     <div class="row">
-        <h3 style="margin-left:35px;margin-bottom:20px;"><b>Our Promise to Customers</b></h3>
-        <div class="col-md-6 col-xs-12 col-sm-6" style="width: auto;margin-left: 30px;">
+        <h3 style="margin-left:40px;margin-bottom:20px;"><b>Our Promise to Customers</b></h3>
+        <div class="col-md-6 col-xs-12 col-sm-6 col-lg-6" style="width: auto;margin-left: 30px;">
                 
             <ul class="no_bullet">
                 <li class="korba-logo">To simplify the process of performing financial transactions irrespective of payment channel</li>
@@ -35,19 +35,13 @@
                 
             </ul>
         </div>
-        <div class="col-md-6 col-xs-12 col-sm-6" style="margin-left: 30px;">
+        <div class="col-md-6 col-xs-12 col-sm-6 col-lg-6" style="width: auto;margin-left: 30px;">
             <ul class="no_bullet">
                 <li class="korba-logo">To Give our customers the time to focus on the essentials of life and celebrate the little details of life</li>
                 <li class="korba-logo">To Restore value to the quality of life of the everyday person while staying committed to their obligations</li>
             </ul>
         </div>
     </div>
-    <!-- <b style="font-size: 24px;">Our Promise to Customers</b>
-    <ol class="numbered-list">
-        <li>To simplify the process of performing financial transactions irrespective of payment channel</li>
-        <li>To Save the long hours spent travelling around to make payments that take less than 10 minutes. </li>
-        <li>To Give our customers the time to focus on the essentials of life and celebrate the little details of life</li>
-        <li>To Restore value to the quality of life of the everyday person while staying committed to their obligations</li>
-    </ol> -->
+
 </div>
 @endsection

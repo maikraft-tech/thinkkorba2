@@ -82,7 +82,7 @@
                                         </li>
                                         <li class="korba-logo">Korba is integrated with all the Banks in Ghana, including all Rural Banks and Mobile
                                             Financial Services provided by four of the Mobile Network Providers</li>
-                                        <li class="korba-logo">Korba enables payments to be made directly into bank accounts of organizatiobs on
+                                        <li class="korba-logo">Korba enables payments to be made directly into bank accounts of organizations on
                                             the platform without having to enter their bank details.</li>
                                     </ul>
                                 </p>
