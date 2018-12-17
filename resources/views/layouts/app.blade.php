@@ -17,12 +17,14 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css">
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
-    <!-- google fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500" rel="stylesheet">
-    
     <!-- Owl Carousel -->
     <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.theme.default.min.css">
+
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500" rel="stylesheet">
+    
+    
     <!-- Responsive tabs -->
     <link rel="stylesheet" type="text/css" href="css/responsive-tabs/responsive-tabs.css">
     <!-- Animate css -->
@@ -59,7 +61,7 @@
     <!-- Owl Carousel Js -->
   	<script type="text/javascript" src="js/owl-carousel/owl.carousel.min.js"></script>
     <!-- Responsive tabs -->
-    <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script>
+    <!-- <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script> -->
     <!-- Custom js -->
     <script type="text/javascript" src="js/script.js"></script>
 

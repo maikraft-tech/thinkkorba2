@@ -4,26 +4,35 @@
 @section('content')
     <!-- Home  -->
     <section id="home">
-        <!-- <img id="home-bg-img" src="img/home/ussd.jpg"> -->
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="4"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox" style="max-height:1132px;">
                 <div class="item active">
-                    <img src="img/home/ussd.jpg" alt="first slide" class="img-responsive">
+                    <img src="img/home/ussd.png" alt="first slide" class="img-responsive">
                     
                 </div>
                 <div class="item ">
-                    <img src="img/home/web-mobile.jpg" alt="second slide" class="img-responsive">
+                    <img src="img/home/web-mobile.png" alt="second slide" class="img-responsive">
                     
                 </div>
                 <div class="item">
-                    <img src="img/home/web-app.jpg" alt="third slide" class="img-responsive">
+                    <img src="img/home/web-app.png" alt="third slide" class="img-responsive">
+                    
+                </div>
+                <div class="item">
+                    <img src="img/home/who-we-are.png" alt="fourth slide" class="img-responsive">
+                    
+                </div>
+                <div class="item">
+                    <img src="img/home/why-choose-us.png" alt="fifth slide" class="img-responsive">
                     
                 </div>
                
@@ -145,7 +154,7 @@
                             <div class="about-item text-center hover-effect-all" style="border-radius: 25px; height: 300px;padding-top:35px;">
                                 <div class="col-md-12 col-sm-12 col-xs-12  ">
                                     <h2 >USSD</h2>
-                                    <img src="img/logo/395ussd.png" class="other-products-img1">
+                                    <img src="img/logo/395ussd.png" class="other-products-img1 img-responsive">
                                 </div>
                                 
                             </div>
@@ -159,7 +168,7 @@
                             <img src="img/logo/Layer 3.png" class="other-channels-img hover-effect-all">
                             <img src="img/logo/Layer 4.png" class="other-channels-img hover-effect-all">
                             <img src="img/logo/Layer 5.png" class="other-channels-img hover-effect-all">
-                            <img src="img/logo/Layer 6.png" class="other-channels-img hover-effect-all">
+                            
                         </div>
                         <div class="col-xs-0 col-sm-3 col-md-4"></div>
                     </div>
@@ -183,47 +192,52 @@
   						</div>
   					</div>
   				</div>
-  				<div class="row wow bounceInLeft" data-wow-duration="1s" data-wow-delay=".5s">
+  				<div class="row" >
   					<div class="col-md-12">
-  						<div id="clients-list" class="owl-carousel owl-theme">
+  						<div  class="owl-carousel owl-theme">
   							
   							<div class="client">
-  								<img src="img/client/client-1.png" class="img-responsive" alt="client">
+                                <img src="img/client/Fameko.png" class="img-responsive" alt="client">
+                            </div>
+                              
+                            <div class="client">
+  								<img src="img/client/UnityLink.png" class="img-responsive" alt="client">
+                            </div>
+                              
+                            <div class="client">
+                                <img src="img/client/awa.png" class="img-responsive" alt="client">
+                            </div>
+                              
+                            <div class="client">
+  								<img src="img/client/busy.png" class="img-responsive" alt="client">
+                            </div>
+                              
+                            <div class="client">
+  								<img src="img/client/elife.png" class="img-responsive" alt="client">
+                            </div>
+                              
+                            <div class="client">
+  								<img src="img/client/glo.png" class="img-responsive" alt="client">
+                            </div>
+                              
+                            <div class="client">
+  								<img src="img/client/surfline.png" class="img-responsive" alt="client">
+                            </div>
+                              
+                            <div class="client">
+  								<img src="img/client/AGMF.png" class="img-responsive" alt="client">
   							</div>
   							
-  							<div class="client">
-  								<img src="img/client/client-2.png" class="img-responsive" alt="client">
-  							</div>
   							
-  							<div class="client">
-  								<img src="img/client/client-3.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-4.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-5.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-6.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-7.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-8.png" class="img-responsive" alt="client">
-  							</div>
   						</div>
   					</div>
   				</div>
   			</div>
   		</div>
-  	</section> -->
+        
+
+        
+    </section> -->
 
 
     <!-- Other products -->

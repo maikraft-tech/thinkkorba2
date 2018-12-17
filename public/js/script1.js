@@ -61,57 +61,21 @@ $(function(){
 });
 
 
-/*=================
-|	|	|	Portfolio Filtering
-================*/
-$(window).on('load', function(){
-
-	// initialize isotope
-	$("#isotope-container").isotope({
-	});
-
-	// filter items on button click
-	$("#isotope-filters").on('click', 'button', function(){
-		// get filter value
-		var filterValue = $(this).attr('data-filter');
-		$("#isotope-container").isotope({
-			filter: filterValue
-		});
-
-		// active button
-		$("#isotope-filters").find('.active').removeClass('active');
-		$(this).addClass('active');
-	});
-});
-
-/*=================
-|	|	|	Magnifier
-================*/
-$(function(){
-	$("#portfolio-wrapper").magnificPopup({
-		delegate: 'a',
-		type: 'image',
-		gallery: {
-			enabled: true
-		}
-	});
-});
-
-/*=================
-|	|	|	Testimonials
-================*/
-$(function(){
-	$("#testimonial-slider").owlCarousel({
-		items:1,
-		autoplay:false,
-		smartSpeed: 700,
-		loop: true,
-		autoplayHoverPause: true,
-		nav: true,
-		dots: false,
-		navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>']
-	});
-});
+// /*=================
+// |	|	|	Testimonials
+// ================*/
+// $(function(){
+// 	$("#testimonial-slider").owlCarousel({
+// 		items:1,
+// 		autoplay:false,
+// 		smartSpeed: 700,
+// 		loop: true,
+// 		autoplayHoverPause: true,
+// 		nav: true,
+// 		dots: false,
+// 		navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>']
+// 	});
+// });
 
 
 
@@ -151,18 +115,18 @@ $(function(){
 /*=================
 |	|	|	Google Map
 ================*/
-$(window).on('load', function(){
-	var addressString = "Awoshie Baah yard";
-	var myLatLng = {
-		lat: 40.712685,
-		lng: -74005920
-	};
+// $(window).on('load', function(){
+// 	var addressString = "Awoshie Baah yard";
+// 	var myLatLng = {
+// 		lat: 40.712685,
+// 		lng: -74005920
+// 	};
 
-	// 1 Render Map
-	var map = new google.maps.Map(document.getElementById('map'),{
-		zoom: 11,
-		center: myLatLng
-	});
+// 	// 1 Render Map
+// 	var map = new google.maps.Map(document.getElementById('map'),{
+// 		zoom: 11,
+// 		center: myLatLng
+// 	});
 
 	// 2. Add Marker
 	// var marker = new google.maps.Marker({
@@ -186,7 +150,7 @@ $(window).on('load', function(){
 	// 	google.maps.event.trigger(map, 'resize');
 	// 	map.setCenter(center);
 	// });
-});
+// });
 
 
 /*=================
