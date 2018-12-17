@@ -22,7 +22,7 @@
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <div class="office" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); width: 350px; padding-top: 15px;padding-bottom: 15px;">
+                                    <div class="office" >
 
                                         <ul style="list-style: none; margin-left: 40px;">
                                             <li >

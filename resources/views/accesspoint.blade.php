@@ -1,7 +1,7 @@
 @extends('layouts.custom')
 
 @section('content')
-<section style="background-color: #e2ecf5;">
+<section >
     <div class="name-heading">
         <div class="row">
             <h2> Access Channels </h2>
@@ -72,7 +72,7 @@
                     <div class="col-xs-0 col-sm-3 col-md-4"></div>
                 </div>
 
-                <div class="row" style="height:200px;"></div>
+                <div class="mypad" ></div>
             </div>
         </div>
 

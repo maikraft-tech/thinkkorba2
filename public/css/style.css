@@ -11,16 +11,24 @@
 }
 html, body{
 	height: 100%;
-	background: #fdfdf1 ;
+	background: #f4f4f4 ;
 	font-family: 'Quicksand', sans-serif;
 }
 
  section .container{
-	background: #fff;
+	background: #f4f4f4;
+}
+
+section .container-fluid{
+	background: #f4f4f4;
 }
 
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Quicksand', sans-serif;
+}
+
+.mypad{
+	height: 200px;
 }
 p{
 	font-family: 'Quicksand', sans-serif;
@@ -29,7 +37,7 @@ p{
 	line-height: 24px;
 }
 section{
-	background: #fff;
+	background: #f4f4f4;
 	overflow: hidden;
 }
 a:link {
@@ -872,6 +880,28 @@ a:visited {
 
 
 
+	/*===============================
+|	|	|	|	Refund and chargeback
+================================*/
+
+.refund{
+	padding-left:100px;
+	padding-right:100px;
+	padding-top:100px;
+	padding-bottom:50px;
+	line-height:3;
+}
+
+.chargeback{
+	padding-left:100px;
+	padding-right:100px;
+	padding-top:50px;
+	padding-bottom:340px;
+	line-height:3;
+}
+
+
+
 
 	/*===============================
 |	|	|	|	Subscribe
@@ -1133,6 +1163,12 @@ ul.social-list li:nth-child(3) a:hover{
 /*===============================
 |	|	|	|	Contact
 ================================*/
+.office{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+	width: 350px; 
+	padding-top: 15px
+	;padding-bottom: 15px;
+}
 /*contact left*/
 #contact-left p{
 	margin: 25px 0 20px 0;
