@@ -7,9 +7,18 @@
         <div class="row">
             <h2> FAQ's </h2>
         </div>
-        
-            
+           
     </div>
+    <div class="container">
+        <div class="col-md-12 col-xs-12 col-sm-12">
+            <div class="row">
+            <div>
+                <img src="img/other/faq-image.png" style="width:100%;height:50%;">
+            </div>
+            </div>
+        </div>
+    </div>
+    
     
 
     <div class="container" style="padding-top: 30px; ">

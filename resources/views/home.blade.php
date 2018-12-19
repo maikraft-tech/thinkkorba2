@@ -14,7 +14,7 @@
                 <li data-target="#carousel-example-generic" data-slide-to="4"></li>
             </ol>
             <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox" style="max-height:1132px;">
+            <div class="carousel-inner" role="listbox" >
                 <div class="item active">
                     <img src="img/home/ussd.png" alt="first slide" class="img-responsive">
                     
