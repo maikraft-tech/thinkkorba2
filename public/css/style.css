@@ -80,7 +80,7 @@ a:visited {
 /*Home*/
 #home{
 	background: #fdfdf1;
-	/* height: 100%; */
+	height: auto;
 }
 #home-bg-img{
 
@@ -1495,9 +1495,9 @@ ul.navbar-nav > li > a:focus{
 
 .info-box {
 	position: absolute;
-	bottom: 3%;
-	left:90px;
-	width: 31%;
+	bottom: 20%;
+	left:120px;
+	width: 26%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 20px;
@@ -2036,4 +2036,25 @@ li.korba-logo{
 	height: 100%;
 	width: 100%
 } */
+
+
+
+
+
+/* css for new Ebanking page */
+.static{
+	width: 40%;
+	float: left;
+	
+	background: #fff !important;
+	margin-top: 20%;
+	margin-bottom: 20%;
+	
+}
+
+.dynamic{
+	width: 60%;
+	float: right;
+	max-height: 800px;
+}
   
