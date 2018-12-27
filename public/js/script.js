@@ -109,22 +109,6 @@ $(function(){
 });
 
 
-/*=================
-|	|	|	Testimonials
-================*/
-// $(function(){
-// 	$("#testimonial-slider").owlCarousel({
-// 		items:1,
-// 		autoplay:false,
-// 		smartSpeed: 700,
-// 		loop: true,
-// 		autoplayHoverPause: true,
-// 		nav: true,
-// 		dots: false,
-// 		navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>']
-// 	});
-// });
-
 
 /*=================
 |	|	|	Mobile menu
@@ -259,24 +243,10 @@ Element.prototype.hasClass = function(className) {
 // 		}
 // 	});
 // });
-
 $(document).ready(function() {
-	var owl = $('.owl-carousel');
-	owl.owlCarousel({
-	  margin: 10,
-	  nav: true,
-	  loop: true,
-	  responsive: {
-		0: {
-		  items: 1
-		},
-		600: {
-		  items: 3
-		},
-		1000: {
-		  items: 5
-		}
-	  }
+	$('#media').carousel({
+	  pause: true,
+	  interval: 3000,
 	});
   });
 
@@ -300,3 +270,4 @@ $(document).ready(function() {
 // 	});
 
 // });
+

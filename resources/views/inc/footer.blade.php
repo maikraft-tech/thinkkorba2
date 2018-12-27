@@ -29,10 +29,10 @@
 
                         <a href="https://play.google.com/store/apps/details?id=com.pentiumtech.korba" target="_blank" ><img src="img/logo/Android.png" style="width: 50px;"></a>
                         <a href="https://itunes.apple.com/gh/app/korba-app/id1123354947?mt=8" target="_blank"><img src="img/logo/Apple.png" style="width: 50px;"></a>
-                        <a href="http://facebook.com/korbaweb.com" target="_blank"><img src="img/other/foot-fb.png" style="width: 20px;"></a>
+                        <a href="https://www.facebook.com/korbaweb/" target="_blank"><img src="img/other/foot-fb.png" style="width: 20px;"></a>
                         <a href="https://www.instagram.com/korbaweb/?utm_source=ig_profile_share&igshid=19f6kkchj46rl" target="_blank"><img src="img/other/foot-ig.png" style="width: 20px;"></a>
                         <a href="http://twitter.com/korbaweb" target="_blank"><img src="img/other/foot-twitter.png" style="width: 20px;"></a>
-                        <a href="http://youtube.com/korbaweb.com" target="_blank"><img src="img/other/foot-youtube.png" style="width: 20px;"></a>
+                        <a href="https://www.youtube.com/channel/UCZjvpTkblEFK9b5VukBqO6g" target="_blank"><img src="img/other/foot-youtube.png" style="width: 20px;"></a>
                         
                     </div>
                 </div>

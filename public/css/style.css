@@ -23,6 +23,12 @@ section .container-fluid{
 	background: #f4f4f4;
 }
 
+.container .what{
+	margin: 50px 0;
+	width: 100%;
+	
+}
+
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Quicksand', sans-serif;
 }
@@ -761,8 +767,8 @@ a:visited {
 	text-align: center;
   }
   .at-user__avatar {
-	width: 98px;
-	height: 98px;
+	width: 150px;
+	height: 150px;
 	border-radius: 100%;
 	margin: 0 auto 20px;
 	overflow: hidden;
@@ -1495,7 +1501,7 @@ ul.navbar-nav > li > a:focus{
 
 .info-box {
 	position: absolute;
-	bottom: 20%;
+	bottom: 15%;
 	left:120px;
 	width: 26%;
 	background-color: #fff;
@@ -2057,4 +2063,27 @@ li.korba-logo{
 	float: right;
 	max-height: 800px;
 }
-  
+
+/* client slider */
+/* Slider */
+
+
+/*
+Brand Section style
+=====================*/
+.main_cbrand{
+	overflow: hidden;
+	width:100%;
+}
+.cbrand_item {
+	height: 110px;
+	overflow: hidden;
+}
+.cbrand_item img{
+	width:75%;
+	/*margin: 10px;*/
+}
+.cbrand_item img.img_apple{
+	width:25%;
+	padding: 10px;
+}

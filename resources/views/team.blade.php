@@ -21,8 +21,8 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Korshi"/></div>
-          <div class="at-user__name">Korhsie Da Seglah</div>
-          <div class="at-user__title">Founder/Chief Enabling Officer <br>&amp; Head of Operations</div>
+          <div class="at-user__name">Korhsi Da Seglah(KDS)</div>
+          <div class="at-user__title">Chief Enabling Officer <br>&amp; Head of Operations</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -64,8 +64,8 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Nana Bonku"/></div>
-          <div class="at-user__name">Nana Bonku Eshun</div>
+          <div class="at-user__avatar"><img src="img/team/nana.jpg" alt="Nana Bonku"/></div>
+          <div class="at-user__name">Nana Bonku Eshun(NBE)</div>
           <div class="at-user__title">Head, Corporate Strategy</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -86,8 +86,8 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Eric Tetteh"/></div>
-          <div class="at-user__name">E. Kwesi Tetteh</div>
+          <div class="at-user__avatar"><img src="img/team/eric.jpg" alt="Eric Tetteh"/></div>
+          <div class="at-user__name">E. Kwesi Tetteh(EKT)</div>
           <div class="at-user__title">Head, SMB Strategy</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -108,8 +108,8 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Eric Tetteh"/></div>
-          <div class="at-user__name">Kesse</div>
+          <div class="at-user__avatar"><img src="img/team/kese.jpg" alt="Eric Tetteh"/></div>
+          <div class="at-user__name">Kesse Kwabena Awuah(KKA)</div>
           <div class="at-user__title">Head, Service Delivery</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -131,7 +131,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Fiifi Tetteh"/></div>
-          <div class="at-user__name">H. Fiifi Tettey-Brown</div>
+          <div class="at-user__name">H. Fiifi Tettey-Brown(FTB)</div>
           <div class="at-user__title">Deputy, SMB Strategy</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -152,9 +152,9 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Ama"/></div>
-          <div class="at-user__name">Ama Yeboah</div>
-          <div class="at-user__title">Head of Marketing/HR/Compliance</div>
+          <div class="at-user__avatar"><img src="img/team/ama.jpg" alt="Ama"/></div>
+          <div class="at-user__name">B. Ama Yeboah(BAY)</div>
+          <div class="at-user__title">Head,Marketing/HR/Compliance</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -174,8 +174,8 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Naa Dede"/></div>
-          <div class="at-user__name">Naa Dedei Aryeetey</div>
+          <div class="at-user__avatar"><img src="img/team/naa.jpg" alt="Naa Dede"/></div>
+          <div class="at-user__name">Naa Dedei Aryeetey(NDA)</div>
           <div class="at-user__title">Head, Treasury</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -218,9 +218,9 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Reuben"/></div>
-          <div class="at-user__name">Reuben</div>
-          <div class="at-user__title">Solutions Head</div>
+          <div class="at-user__avatar"><img src="img/team/reuben.jpg" alt="Reuben"/></div>
+          <div class="at-user__name">R. Kwesi Otoo(RKO)</div>
+          <div class="at-user__title">Head, Solutions Projects</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -240,7 +240,7 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Edwina"/></div>
+          <div class="at-user__avatar"><img src="img/team/edwina.jpg" alt="Edwina" style="width:100px;"/></div>
           <div class="at-user__name">Edwina</div>
           <div class="at-user__title">Contact Center Rep.</div>
           <ul class="at-social">
@@ -260,14 +260,11 @@
         </div>
       </div>
 
-      
-      <!-- 
-      
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="https://s3.amazonaws.com/uifaces/faces/twitter/tonychester/128.jpg"/></div>
-          <div class="at-user__name">George Mitch</div>
-          <div class="at-user__title">UX Designer</div>
+          <div class="at-user__avatar"><img src="img/board/Korshi.jpg"/></div>
+          <div class="at-user__name">E. Kwesi Quansah</div>
+          <div class="at-user__title">Finance Representative</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -283,7 +280,9 @@
                 </svg></a></li>
           </ul>
         </div>
-      </div> -->
+      </div>
+
+   
     </div>
   </div>
 
