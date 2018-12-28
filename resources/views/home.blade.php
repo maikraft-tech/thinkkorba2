@@ -103,7 +103,7 @@
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
-                            <img src="img/home/web-mobile.jpg" style="border-radius: 25px;margin: 30px;">
+                            <img src="img/home/web-mobile.png" style="border-radius: 25px;margin: 30px;">
                         </div>
                     </div>
                 </div>

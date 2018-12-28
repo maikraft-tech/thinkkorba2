@@ -10,7 +10,7 @@
         
         <div class="row what ">
             <div class="col-md-6 col-sm-6 col-lg-6">
-                <img src="img/home/web-mobile.jpg" class="img-responsive">
+                <img src="img/home/web-mobile.png" class="img-responsive">
             </div>
             <div class="col-md-6 col-sm-6 col-lg-6">
                 <div class="row">
@@ -46,7 +46,7 @@
 
 
     <div class="container">
-        <div class="row">
+        <div class="row what">
             <div class="col-md-6 col-sm-6 col-lg-6">
                 <img src="img/other/image_2.jpg" class="img-responsive">
             </div>
