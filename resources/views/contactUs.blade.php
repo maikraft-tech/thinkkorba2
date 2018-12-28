@@ -79,24 +79,24 @@
             </div> 
 
             <!-- for google map -->
-            <div class="row">
+            <!-- <div class="row">
                 <div>
 
                 </div>
             </div> 
             <div style="width: 500px; height: 500px;">
                 {!! Mapper::render() !!}
-            </div>
+            </div> -->
                 
         </div>
 
-        <!-- <div class="container-fluid">
+        <div class="container-fluid">
             <div class="row">
                 <div id="map">
 
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </section>
 

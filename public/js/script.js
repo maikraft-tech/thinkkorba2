@@ -243,12 +243,12 @@ Element.prototype.hasClass = function(className) {
 // 		}
 // 	});
 // });
-$(document).ready(function() {
-	$('#media').carousel({
-	  pause: true,
-	  interval: 3000,
-	});
-  });
+// $(document).ready(function() {
+// 	$('#media').carousel({
+// 	  pause: true,
+// 	  interval: 3000,
+// 	});
+//   });
 
 
 
@@ -256,18 +256,18 @@ $(document).ready(function() {
 /*=================
 |	|	|	Google Map
 ================*/
-// $(window).on('load', function(){
-// 	var addressString = "Awoshie Baah yard";
-// 	var myLatLng = {
-// 		lat: 40.712685,
-// 		lng: -74005920
-// 	};
+$(window).on('load', function(){
+	var addressString = "Awoshie Baah yard";
+	var myLatLng = {
+		lat: 40.712685,
+		lng: -74005920
+	};
 
-// 	// 1 Render Map
-// 	var map = new google.maps.Map(document.getElementById('map'),{
-// 		zoom: 11,
-// 		center: myLatLng
-// 	});
+	// 1 Render Map
+	var map = new google.maps.Map(document.getElementById('map'),{
+		zoom: 11,
+		center: myLatLng
+	});
 
-// });
+});
 

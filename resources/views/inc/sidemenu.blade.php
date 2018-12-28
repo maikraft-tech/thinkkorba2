@@ -23,15 +23,15 @@
                         <li>
                             <a href="whatkorba"><i class="fa fa-angle-right"></i> What is Korba?</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="whokorba"><i class="fa fa-angle-right"></i> Who is Korba for?</a>
-                        </li>
-                        <li>
+                        </li> -->
+                        <!-- <li>
                             <a href="howkorba"><i class="fa fa-angle-right"></i> How Korba Works</a>
-                        </li>
-                        <li>
+                        </li> -->
+                        <!-- <li>
                             <a href="subscribe"><i class="fa fa-angle-right"></i> Subscribe to Korba</a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="access"><i class="fa fa-angle-right"></i> Access Channels</a>
                         </li>

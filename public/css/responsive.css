@@ -892,6 +892,31 @@
 		padding-top: 15px;
 		padding-bottom: 15px;
 	}
+
+	.bod{
+		margin: 20px 0;
+	}
+
+	.popup__text {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		width: 100%;
+		height: 100%;
+		padding: 2rem;
+	}
+	.popup__text h3 {
+		font-size: 2rem;
+		font-weight: 600;
+		margin-bottom: 2rem;
+		text-transform: uppercase;
+		color: #0A0A0A;
+	}
+	.popup__text p {
+		font-size: 9px;
+		color: #686868;
+		line-height: 1.5;
+	}
 	
 	
 

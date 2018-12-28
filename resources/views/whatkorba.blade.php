@@ -8,7 +8,7 @@
     </div>
     <div>
         <div class="img-div" >
-            <img src="img/home/web-mobile.jpg" class="img-responsive">
+            <img src="img/home/web-mobile.png" class="img-responsive">
         </div>
         <div class="info-box1">
             <p>
@@ -19,9 +19,7 @@
             </p>
         </div>
     </div>
-    
-
-    
+     
 </section>
 
 
@@ -46,5 +44,10 @@
     </div>
     
 </div>
+
+
+
+
+
 
 @endsection
