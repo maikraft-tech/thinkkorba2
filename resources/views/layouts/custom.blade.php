@@ -13,6 +13,8 @@
     <link rel="stylesheet" type="text/css" href="css/font-awesome/css/font-awesome.min.css">
     <!-- Bootsrap css -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css">
+
+    <!-- <link rel="stylesheet" type="text/css" href="css/onepage-scroll.css"> -->
     
     <!-- Owl Carousel -->
     <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.min.css">
@@ -47,6 +49,9 @@
     <!-- Bootsrap JS -->
     <!-- <script type="text/javascript" src="js/bootstrap/bootstrap.js"></script> -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery.onepage-scroll.min.js"></script>
+
     <!-- Wow Js -->
     <script type="text/javascript" src="js/wow/wow.min.js"></script>
     <!-- Owl Carousel Js -->

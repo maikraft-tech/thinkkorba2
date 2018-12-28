@@ -150,6 +150,21 @@
 		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	}
 
+	.info-box-r {
+		font-size: 7px;
+		position: absolute;
+		bottom: 55%;
+		right:40px;
+		width: 60%;
+		background-color: #fff;
+		border: 1px solid #fdfdf1;
+		padding: 15px;
+		border-radius: 2px;
+		-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+		-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	}
+
 
 
 }
@@ -266,7 +281,7 @@
 	.info-box-r {
 		font-size: 7px;
 		position: absolute;
-		bottom: 55%;
+		/* bottom: 55%; */
 		right:40px;
 		width: 60%;
 		background-color: #fff;

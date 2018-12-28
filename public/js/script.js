@@ -256,18 +256,43 @@ Element.prototype.hasClass = function(className) {
 /*=================
 |	|	|	Google Map
 ================*/
-$(window).on('load', function(){
-	var addressString = "Awoshie Baah yard";
-	var myLatLng = {
-		lat: 40.712685,
-		lng: -74005920
-	};
+// $(window).on('load', function(){
+// 	var addressString = "Awoshie Baah yard";
+// 	var myLatLng = {
+// 		lat: 40.712685,
+// 		lng: -74005920
+// 	};
 
-	// 1 Render Map
-	var map = new google.maps.Map(document.getElementById('map'),{
-		zoom: 11,
-		center: myLatLng
-	});
+// 	// 1 Render Map
+// 	var map = new google.maps.Map(document.getElementById('map'),{
+// 		zoom: 11,
+// 		center: myLatLng
+// 	});
 
+// });
+
+
+
+var menuToggle = document.querySelector('[data-js="menu-toggle"]');
+
+// Remove this setInterval to trigger the open/close manually through the UI
+var interval = setInterval(function() {
+  menuToggle.click();
+}, 2000);
+
+// Clear the interval on any click
+document.body.addEventListener('click', function () {
+   clearInterval(interval);
 });
 
+menuToggle.addEventListener('click', function () {
+  document.body.classList.toggle('panel-open');
+  menuToggle.classList.toggle('open');
+});
+
+var closePanel = document.querySelector('[data-js="hidden-panel-close"]');
+
+closePanel.addEventListener('click', function () {
+  document.body.classList.remove('panel-open');
+  menuToggle.classList.remove('open');
+});

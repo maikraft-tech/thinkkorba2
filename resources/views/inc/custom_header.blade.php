@@ -1,7 +1,7 @@
 <header>
     <nav class="navbar navbar-fixed-top white-nav-top" style="background-color: #fff;">
         <div class="container-fluid">
-                <!-- <span id="mobile-nav-open-btn">&#9776;</span> -->
+               
             <div class="">
                 <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
                     <div class="col-md-3 col-sm-3 col-xs-3 col-lg-3">
@@ -30,4 +30,11 @@
 
         
     </nav>
+
+    <!-- <header>
+        <div class="menu-toggle" data-js="menu-toggle">
+            <span class="menu-toggle-grippy">Toggle</span>
+            <span class="menu-toggle-label">Menu</span>
+        </div> -->
+        <!-- </header> -->
 </header>
