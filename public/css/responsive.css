@@ -92,6 +92,14 @@
 		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	}
 
+	.at-user__avatar {
+		width: 200px;
+		height: 200px;
+		border-radius: 100%;
+		margin: 0 auto 20px;
+		overflow: hidden;
+	  }
+
 
 }
 

@@ -32,7 +32,7 @@ Route::get('/team', function () {
 });
 
 Route::get('/whatkorba', function () {
-    return view('whatkorba');
+    return view('whatkorba1');
 });
 
 Route::get('/whokorba', function () {
