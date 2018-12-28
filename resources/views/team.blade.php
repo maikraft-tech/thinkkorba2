@@ -241,7 +241,11 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/edwina.jpg" alt="Edwina" style="width:100px;"/></div>
+<<<<<<< HEAD
           <div class="at-user__name">E. SELASSIE NYADOR(ESN)</div>
+=======
+          <div class="at-user__name">Edwina</div>
+>>>>>>> 5404b41b00a52287b978582ad2add3bcff18adac
           <div class="at-user__title">Contact Center Rep.</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -263,7 +267,11 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/board/Korshi.jpg"/></div>
+<<<<<<< HEAD
           <div class="at-user__name">E. Kwesi Quansah(EKQ)</div>
+=======
+          <div class="at-user__name">E. Kwesi Quansah</div>
+>>>>>>> 5404b41b00a52287b978582ad2add3bcff18adac
           <div class="at-user__title">Finance Representative</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">

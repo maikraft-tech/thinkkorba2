@@ -18,15 +18,15 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox" >
                 <div class="item active">
-                    <img src="img/home/ussd.png" alt="first slide" class="img-responsive">
+                    <img src="/img/home/ussd.png" alt="first slide" class="img-responsive">
                     
                 </div>
                 <div class="item ">
-                    <img src="img/home/web-mobile.png" alt="second slide" class="img-responsive">
+                    <img src="/img/home/web-mobile.png" alt="second slide" class="img-responsive">
                     
                 </div>
                 <div class="item">
-                    <img src="img/home/web-app.png" alt="third slide" class="img-responsive">
+                    <img src="/img/home/web-app.png" alt="third slide" class="img-responsive">
                     
                 </div>
                 <div class="item">
