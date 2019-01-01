@@ -27,7 +27,7 @@
                 <img src="img/logo/Layer 3.png" class="other-channels-img">
                 <img src="img/logo/Layer 4.png" class="other-channels-img">
                 <img src="img/logo/Layer 5.png" class="other-channels-img">
-                <img src="img/logo/Layer 6.png" class="other-channels-img">
+                <!-- <img src="img/logo/Layer 6.png" class="other-channels-img"> -->
             </div>
             
         </div>

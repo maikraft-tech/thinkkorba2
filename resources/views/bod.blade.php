@@ -88,10 +88,10 @@
                             </div>
                         </div>
                         </div>
-                        <h4><b>Korshie Da Seglah</b></h4>
-                        <span><b>CEO</b></span>
-                        <h6><b>Founder, HALGES
-                            <br/>Former Gerneral Manager,Banking Technology,UT Bank</b></h6>
+                        <h4><b>Korshi Da Seglah</b></h4>
+                        <span><b>CEO/Founder</b></span>
+                        <h6><b>Former Gerneral Manager,
+                            <br/>Banking Technology,UT Bank</b></h6>
                     </div>
                 </div>
                 
@@ -193,22 +193,22 @@
                             </p>
                             <div class="socials mt-20">
                             <a class="modal-button" href="#popup4">More</a>
-                                        <div class="popup" id="popup4">
-                                            <div class="popup-inner">
-                                               
-                                                <div class="popup__text">
-                                                    <h3>Albert Biga</h3>
-                                                    <p>Albert Biga is an ICT & Business Process Automation expert with over to 20 years’ practice. His professional practice spans software design, implementation & business process automation. His international experience across the sub-region was with Intel Corp, Ford Foundation-West Africa, USAID/West Africa Trade Hub, the SOFT tribe among others. Albert has a BSc in Mathematical Science from the University of Ghana Legon. </p>
-                                                    <p>He is a successful entrepreneur having founded a number of technology businesses as well as Real Estate interests. Albert is very passionate about technology and its application in business. He is currently the Founder & CEO of Zoobashop.com, Ghana’s Premier & Largest e-commerce Retail Store. </p>
-                                                    <p>Zoobashop was founded in 2013 as the first online retail store in Ghana. Albert Biga led the wholly Ghanaian team to grow the business to its current success story. It was adjudged e-Commerce Company of the Year by the Chartered Institute of Marketing Ghana (CIMG) in 2015</p>
-                                                        <!-- <a href="#"><i class="fa fa-facebook"></i></a>
-                                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                                                        <a href="#"><i class="fa fa-envelope"></i></a> -->
-                                                </div>
-                                                <a class="popup__close fa fa-close" href="#"></a>
-                                            </div>
+                                <div class="popup" id="popup4">
+                                    <div class="popup-inner">
+                                        
+                                        <div class="popup__text">
+                                            <h3>Albert Biga</h3>
+                                            <p>Albert Biga is an ICT & Business Process Automation expert with over to 20 years’ practice. His professional practice spans software design, implementation & business process automation. His international experience across the sub-region was with Intel Corp, Ford Foundation-West Africa, USAID/West Africa Trade Hub, the SOFT tribe among others. Albert has a BSc in Mathematical Science from the University of Ghana Legon. </p>
+                                            <p>He is a successful entrepreneur having founded a number of technology businesses as well as Real Estate interests. Albert is very passionate about technology and its application in business. He is currently the Founder & CEO of Zoobashop.com, Ghana’s Premier & Largest e-commerce Retail Store. </p>
+                                            <p>Zoobashop was founded in 2013 as the first online retail store in Ghana. Albert Biga led the wholly Ghanaian team to grow the business to its current success story. It was adjudged e-Commerce Company of the Year by the Chartered Institute of Marketing Ghana (CIMG) in 2015</p>
+                                                <!-- <a href="#"><i class="fa fa-facebook"></i></a>
+                                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                                                <a href="#"><i class="fa fa-envelope"></i></a> -->
                                         </div>
+                                        <a class="popup__close fa fa-close" href="#"></a>
+                                    </div>
+                                </div>
                             </div>
                             </div>
                         </div>
@@ -252,7 +252,7 @@
                         </div>
                         </div>
                         <h4><b>David Kwabena Boafo</b></h4>
-                        <span><b>Member</b></span>
+                        <span><b>Secretary General</b></span>
                         <h6><b>Managing Partner
                             <br/>S.K. Boafo &amp; Company</b></h6>
                     </div>

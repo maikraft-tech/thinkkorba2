@@ -11,7 +11,7 @@
             <p>Korba originated in 2015 with five principles dedicated to integrity and excellence in economic and financial
                 consulting
             </p>
-            <p>Through gaining experience in various economic periods, our team are able to identify the best opportunities
+            <p>Through gaining experience in various economic periods, our team is able to identify the best opportunities
                 whether we are in good times or bad . Good times provide growth in our portfolio and bad times, despite
                 the potential negative effects, can provide opportunities.</p>
         </div>

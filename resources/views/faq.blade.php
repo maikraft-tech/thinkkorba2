@@ -2,7 +2,7 @@
 
 @section('content')
 
-<section style="background-color: #e2ecf5;">
+<section >
     <div class="name-heading">
         <div class="row">
             <h2> FAQ's </h2>

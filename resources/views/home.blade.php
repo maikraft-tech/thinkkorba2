@@ -117,7 +117,7 @@
             <div class="content-box-md">
                 <div class="vertical-heading">
                     <h2 style="text-align: center; margin-bottom: 5vh;">
-                        <strong>Our</strong> Channels</h2>
+                        <strong>Our Channels</strong> </h2>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -246,12 +246,13 @@
                     <div class="col-md-12 text-center">
                         <div class="horizontal-heading ">
                             
-                            <h2>Our Happy <strong>Clients</strong></h2>
+                            <h2><strong>Our Happy Clients</strong></h2>
                         </div>
                     </div>
                 </div>
                 <div class="row wow bounceInLeft">
                     <div class="main_cbrand text-center roomy-100">
+                        
                         <div class="col-md-2 col-sm-4 col-xs-6">
                             <div class="cbrand_item m-bottom-10">
                                 <a href=""><img src="/img/client/awa.png" alt="first" /></a>
@@ -264,7 +265,7 @@
                         </div>
                         <div class="col-md-2 col-sm-4 col-xs-6">
                             <div class="cbrand_item m-bottom-10">
-                                <a href=""><img class="" src="/img/client/surfline.png" alt="third" /></a>
+                                <a href=""><img class="" src="/img/client/UnityLink.png" alt="third" /></a>
                             </div>
                         </div>
                         <div class="col-md-2 col-sm-4 col-xs-6">
@@ -294,7 +295,7 @@
             <div class="content-box-md">
                 <div class="vertical-heading">
                     <h2 style="margin-bottom: 5vh; text-align:center;">
-                        <strong>Other</strong> Products</h2>
+                        <strong>Other Products</strong> </h2>
                 </div>
                 <div class="container">
                     <div class="row">

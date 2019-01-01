@@ -87,7 +87,7 @@ a:visited {
 
 /*Home*/
 #home{
-	background: #fdfdf1;
+	background: #f4f4f4;
 	height: auto;
 }
 #home-bg-img{
@@ -259,6 +259,24 @@ a:visited {
 }
 
 
+.new-page-design h2{
+	font-size: 42px;
+	font-weight: 100;
+	line-height: 45px;
+	text-align: center; 
+	margin-bottom: 5vh;
+	color: #FFF;
+	margin-top: 150px;
+}
+
+.new-page-design li{
+	color: #FFF;
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 45px;
+	text-align: center;
+	}
+
 /*===============================
 |	|	|	|	Other Products Section
 ================================*/
@@ -287,7 +305,7 @@ a:visited {
 
 .other-products-img{
 	/* width: 100px; */
-	height: 60px;
+	height: 50px;
 	margin-top: 15px;
 	
 }
@@ -543,7 +561,7 @@ a:visited {
 		display: flex;
 		align-items: center;
 		max-width: 800px;
-		max-height: 600px;
+		max-height: 800px;
 		width: 60%;
 		height: 80%;
 		background-color: #fff;
@@ -572,14 +590,14 @@ a:visited {
 		padding: 4rem;
 	}
 	.popup__text h3 {
-		font-size: 2rem;
+		font-size: 3rem;
 		font-weight: 600;
 		margin-bottom: 2rem;
 		text-transform: uppercase;
 		color: #0A0A0A;
 	}
 	.popup__text p {
-		font-size: 13px;
+		font-size: 17px;
 		color: #686868;
 		line-height: 1.5;
 	}
