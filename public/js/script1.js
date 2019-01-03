@@ -246,6 +246,8 @@ $(window).on('load', function(){
 
 
 $(".header-menu li a").on("click", function (e) {
+
+	
 	//allow links to be followed if they don't have a sub-menu
 	if ( !$(this).parent().has("ul").length ) { return; }
 
@@ -253,6 +255,9 @@ $(".header-menu li a").on("click", function (e) {
 	e.preventDefault();
 
 	if(!$(this).hasClass("active")) {
+		
+		$("li ul").slideUp(300);
+		$("li a").removeClass("active");
 		//we need to know which 'level' we're on 
 		var currentLevel = $(this).closest('ul')
 		$("li ul", currentLevel).slideUp(300);
@@ -287,6 +292,10 @@ dropdownArray.forEach(function(el){
 
 	button.onclick = function(event) {
 		if(!$(menu).hasClass('show')) {
+			$('.dropdown-menu').removeClass('show');
+			$('.dropdown-menu').addClass('hide');
+			$('i.icon-arrow').removeClass('open');
+			$('i.icon-arrow').addClass('close');
 			menu.classList.add('show');
 			menu.classList.remove('hide');
 			arrow.classList.add('open');

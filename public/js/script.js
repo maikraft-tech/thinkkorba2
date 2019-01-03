@@ -171,11 +171,12 @@ $(".header-menu li a").on("click", function (e) {
 
 
 $(".close").click(function(){
-    $("#menu").toggle();
+	$("#menu").toggle("slow");
+	
 });
 
 $(".menu-bar").click(function(){
-    $("#menu").toggle();
+    $("#menu").slideToggle("slow");
 });
 
 
@@ -191,6 +192,10 @@ dropdownArray.forEach(function(el){
 
 	button.onclick = function(event) {
 		if(!$(menu).hasClass('show')) {
+			$('.dropdown-menu').removeClass('show');
+			$('.dropdown-menu').addClass('hide');
+			$('i.icon-arrow').removeClass('open');
+			$('i.icon-arrow').addClass('close');
 			menu.classList.add('show');
 			menu.classList.remove('hide');
 			arrow.classList.add('open');

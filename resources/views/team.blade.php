@@ -20,7 +20,7 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Korshi"/></div>
+          <div class="at-user__avatar"><img src="/img/team/korshi.jpeg" alt="Korshi"/></div>
           <div class="at-user__name">Korhsi Da Seglah(KDS)</div>
           <div class="at-user__title">Chief Enabling Officer <br>&amp; Head of Operations</div>
           <ul class="at-social">
@@ -130,7 +130,7 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Fiifi Tetteh"/></div>
+          <div class="at-user__avatar"><img src="img/team/henry.jpeg" alt="Fiifi Tetteh"/></div>
           <div class="at-user__name">H. Fiifi Tettey-Brown(FTB)</div>
           <div class="at-user__title">Deputy, SMB Strategy</div>
           <ul class="at-social">

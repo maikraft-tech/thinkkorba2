@@ -93,10 +93,10 @@
 
 <div class="main">
     <section>
-        <div class="" style="left: 0;line-height: 100px;margin-top: -50px;position: absolute;text-align: center;top: 30%;width: 100%;">
+        <div class="container" style="left: 0;line-height: 100px;margin-top: -50px;position: absolute;text-align: center;top: 30%;width: 100%;">
             <div class="row">
                 <div class="col-md-6 col-lg-6 col-sm-12">
-                    <img src="img/other/image_2.jpg" class="img-responsive" style="border-radius: 40px; height: 350px;">
+                    <img src="img/other/image_2.jpg" class="img-responsive" style="border-radius: 40px; height: 350px;text-align:right;">
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-12">
                     <p style="color: black;">
@@ -113,7 +113,7 @@
                 <div class="col-md-6">
                     <div class="new-page-design">
                         <h2><strong>Why Use Korba?</strong> </h2>
-                        <ol>
+                        <ol type="1">
                             <li>On Korba, payments can be made from payment cards(VISA, Master Card, Gh-Link etc.) and mobile money wallet(Airtel, MTN, Tigo, Vodafone).</li>
                             <li>Korba is integrated with all the Banks in Ghana, includingall Rural Banks and Mobile Financial Services provided by four of the Mobile Network Operators in Ghana.</li>
                             <li>Korba enables Payments to be made directly into bank accounts of organizations on the platform without having to enter their accounts details.</li>

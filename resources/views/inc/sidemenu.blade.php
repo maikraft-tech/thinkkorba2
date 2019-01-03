@@ -1,14 +1,14 @@
-<div class="menu menu-bottom" id="menu" style="width: auto; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;transition: 1.64s ease-in-out">
-    <div class="col-md-12 col-xs-12 col-lg-12">
+<div class="menu menu-bottom" id="menu" style="width: 19%; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;transition: 1.64s ease-in-out">
+    <div class="col-md-12 col-xs-12 col-lg-12" style="height:100%;">
         <div class="row">
-            <span><a href="/" style="color: #fff;font-size:18px;">Home</a><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top: 50px;margin-bottom: 20px;"></span>
+            <span><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:20px; margin-bottom: 20px;"></span>
         </div>
-        <div class="row berrymenu">
+        <div class="berrymenu">
             <ul>
-                <!-- <li class="dropdown">
+                <li class="">
                     <a href="/" style="display: block;color: white;
                         text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Home  </a>
-                </li> -->
+                </li>
                 <li class="dropdown">
                     <a href="#" data-toggle="dropdown" >About Us <i class="icon-arrow"></i></a>
                     <ul class="dropdown-menu truedrop">
@@ -53,6 +53,10 @@
                             <a href="whitelabel"><i class="fa fa-angle-right"></i> Korba Exchange</a>
                         </li>
                     </ul>
+                </li>                
+                <li class="">
+                    <a href="partners" style="display: block;color: white;
+                    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Partners </a>
                 </li>
                 <li class="dropdown">
                     <!-- <a href="contactUs.html" style="display: block;color: white;
@@ -73,12 +77,10 @@
                         </li>
                     </ul>
                 </li>
-                <li class="dropdown">
-                    <a href="partners" style="display: block;color: white;
-                    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Partners </a>
-                </li>
-                
-                <li style="margin-top:70px;">
+            </ul>
+
+            <ul style="position:absolute; bottom:2%;">
+                <li style="">
                     <span style="color: white;padding-left:10px;">
                         <a href="http://facebook.com/korbaweb.com" target="_blank"><img src="img/other/side-fb.png" style="height:20px;margin-left:3px;"></a>
                         <a href="https://www.instagram.com/korbaweb/?utm_source=ig_profile_share&igshid=19f6kkchj46rl" target="_blank"><img src="img/other/side-ig.png" style="height:20px;margin-left:3px;"></a>
@@ -86,7 +88,7 @@
                         <a href="http://youtube.com/korbaweb.com" target="_blank"><img src="img/other/side-youtube.png" style="height:20px;"></a>
                     <span style="padding-left:10px;">Korbaweb</span></span>
                 </li>
-                <li class="dropdown">
+                <li class="">
                     <a href="terms" style="display: block;color: white;
                         text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Terms & Conditions  </a>
                 </li>
