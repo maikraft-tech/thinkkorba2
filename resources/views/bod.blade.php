@@ -23,7 +23,7 @@
                                         To view their social profile, click on the link below
                                     </p>
                                     <div class="socials mt-20">
-                                        <a class="modal-button" href="#popup">More</a>
+                                        <a class="modal-button btn btn-default" href="#popup" style="width:auto;">More</a>
                                         <div class="popup" id="popup">
                                             <div class="popup-inner">
                                                

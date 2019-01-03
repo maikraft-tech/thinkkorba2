@@ -93,8 +93,8 @@
 
 <div class="main">
     <section>
-        <div class="container" style="left: 0;line-height: 100px;margin-top: -50px;position: absolute;text-align: center;top: 30%;width: 100%;">
-            <div class="row">
+        <div class="container" style="margin-top:300px;">
+            <div class="row align-middle">
                 <div class="col-md-6 col-lg-6 col-sm-12">
                     <img src="img/other/image_2.jpg" class="img-responsive" style="border-radius: 40px; height: 350px;text-align:right;">
                 </div>
@@ -108,8 +108,8 @@
         </div>
     </section>
     <section style="background-image:url('img/other/korba-bg.png')">
-        <div class="">
-            <div class="row align-middle" style="background-image:url('img/other/korba-bg.png');margin-top:50px;">
+        <div class="container" style="background-color:transparent;">
+            <div class="row align-middle">
                 <div class="col-md-6">
                     <div class="new-page-design">
                         <h2><strong>Why Use Korba?</strong> </h2>

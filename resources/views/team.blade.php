@@ -240,7 +240,7 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/edwina.jpg" alt="Edwina" style="width:100px;"/></div>
+          <div class="at-user__avatar"><img src="img/team/edwina.jpg" alt="Edwina" /></div>
           <div class="at-user__name">E. SELASSIE NYADOR(ESN)</div>
           <div class="at-user__title">Contact Center Rep.</div>
           <ul class="at-social">

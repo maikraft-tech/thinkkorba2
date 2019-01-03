@@ -246,8 +246,6 @@ $(window).on('load', function(){
 
 
 $(".header-menu li a").on("click", function (e) {
-
-	
 	//allow links to be followed if they don't have a sub-menu
 	if ( !$(this).parent().has("ul").length ) { return; }
 
@@ -255,9 +253,6 @@ $(".header-menu li a").on("click", function (e) {
 	e.preventDefault();
 
 	if(!$(this).hasClass("active")) {
-		
-		$("li ul").slideUp(300);
-		$("li a").removeClass("active");
 		//we need to know which 'level' we're on 
 		var currentLevel = $(this).closest('ul')
 		$("li ul", currentLevel).slideUp(300);

@@ -171,12 +171,11 @@ $(".header-menu li a").on("click", function (e) {
 
 
 $(".close").click(function(){
-	$("#menu").toggle("slow");
-	
+    $("#menu").toggle();
 });
 
 $(".menu-bar").click(function(){
-    $("#menu").slideToggle("slow");
+    $("#menu").toggle();
 });
 
 
