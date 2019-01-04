@@ -9,7 +9,7 @@
         </div>
            
     </div>
-    <div class="container">
+    <div class="container-fluid">
         <div class="col-md-12 col-xs-12 col-sm-12">
             <div class="row">
             <div>
