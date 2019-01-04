@@ -5,7 +5,7 @@
 <div class="name-heading">
         <h2> Terms & Conditions</h2>
     </div>
-<section id="home" >
+<section >
     <div class="terms">
         <span>The following terms and conditions govern your use of Korba. By using the Korba platform, you have fully agreed to the terms applicable to its use.</span>
 

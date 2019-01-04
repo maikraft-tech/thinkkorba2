@@ -2,19 +2,26 @@
 
 @section('content')
 
-<div class="name-heading">
-    <h2> Compliance</h2>
-</div>
+
 <section >
+    <div class="name-heading">
+        <h2> Compliance</h2>
+    </div>
+
+    <div class="container-fluid">
+        <div class="col-md-12 col-xs-12 col-sm-12">
+            <div class="row">
+            <div>
+            <img src="img/other/Compliance.png" alt="compliance image" style="width:100%;"/>
+            </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-xs-12 col-sm-12">
                 
-                    <div>
-                        <img src="img/other/Compliance.png" alt="compliance image" style="width:100%;height:50%;"/>
-                    </div>
-                
-
                 <div class="row">
                     <div class="compliance">
                 

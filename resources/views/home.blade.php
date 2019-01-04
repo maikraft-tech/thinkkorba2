@@ -253,12 +253,12 @@
                 <div class="row wow bounceInLeft">
                     <div class="main_cbrand text-center roomy-100">
                         
-                        <div class="col-md-2 col-sm-4 col-xs-6">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
                             <div class="cbrand_item m-bottom-10">
-                                <a href=""><img src="/img/client/awa.png" alt="first" /></a>
+                                <a href=""><img src="/img/client/clients.png" alt="first"  style="width:100%;"/></a>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
+                        <!-- <div class="col-md-2 col-sm-4 col-xs-6">
                             <div class="cbrand_item m-bottom-10">
                                 <a href=""><img src="/img/client/elife.png" alt="second" /></a>
                             </div>
@@ -282,7 +282,7 @@
                             <div class="cbrand_item m-bottom-10">
                                 <a href=""><img src="/img/client/glo.png" alt="sixth" /></a> 
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div><!-- End off row -->
             </div><!-- End off container -->
