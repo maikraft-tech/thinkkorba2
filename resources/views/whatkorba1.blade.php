@@ -99,13 +99,13 @@
                     <img src="img/other/image_2.jpg" class="img-responsive" style="border-radius: 40px; height: 350px;text-align:right;">
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-12">
-                    <p style="color: black;font-size:1.5em;">
+                    <p style="color: black;font-size:1.4em;">
                         Korba is a cross-platform payment system that enables users to securely and congenially perform financial transactions across all the mobile money networks and banks including rural banks via their multiple access points.
                     </p>
 
                     <br/><br/><br/>
 
-                    <p style="color: black;font-size:1.5em;">
+                    <p style="color: black;font-size:1.4em;">
                         Thus on KORBA, funds can be sent from Payment Cards(VISA, Master Card, Gh-Link etc) or Mobile Money wallet(Airtel-Tigo,MTN, Vodafone) and received into any Bank Account(including Rural Banks) or Mobile Money wallets. The settlement is simple,instant,congenial and secure.
                     </p>
                 </div>
@@ -120,10 +120,10 @@
                     <div class="new-page-design">
                         <h2><strong>Why Use Korba?</strong> </h2>
                         <ol type="1" style="text-align:left">
-                            <li>On Korba, payments can be made from payment cards(VISA, Master Card, Gh-Link etc.) and mobile money wallet(Airtel, MTN, Tigo, Vodafone).</li>
-                            <li>Korba is integrated with all the Banks in Ghana, includingall Rural Banks and Mobile Financial Services provided by four of the Mobile Network Operators in Ghana.</li>
-                            <li>Korba enables Payments to be made directly into bank accounts of organizations on the platform without having to enter their accounts details.</li>
-                            <li>Korba enables clients to make payments via a unique USSD Shortcode (*395#) designed to suit our customers' needs without the use of the internet.</li>
+                            <li>On Korba, payments can be made from payment cards (VISA, Master Card, Gh-Link etc.) and mobile money wallet (Airtel, MTN, Tigo, Vodafone).</li>
+                            <li>Korba is integrated with all the Banks in Ghana, including all Rural Banks and Mobile Financial Services provided by four of the Mobile Network Operators in Ghana.</li>
+                            <li>Korba enables payments to be made directly into bank accounts of organizations on the platform without having to enter their accounts details.</li>
+                            <li>Korba enables clients to make payments via a unique USSD Short code (*395#) designed to suit our customers' needs without the use of the internet.</li>
                             <li>Korba is neither a wallet, bank nor a payment system. Korba is an ENABLER.</li>
                         </ol>
                     </div>

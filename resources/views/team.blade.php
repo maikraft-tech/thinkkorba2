@@ -21,7 +21,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="/img/team/korshi.jpeg" alt="Korshi"/></div>
-          <div class="at-user__name">Korhsi Da Seglah(KDS)</div>
+          <div class="at-user__name">N.Korhsi Da Seglah(KDS)</div>
           <div class="at-user__title">Chief Enabling Officer <br>&amp; Head of Operations</div>
           <ul class="at-social">
             <li class="at-social__item"><a href="">

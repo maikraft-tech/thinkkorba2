@@ -88,13 +88,10 @@
                                 <h3>Why Use Korba</h3>
                                 <p>
                                     <ul class="no_bullet" >
-                                        <li class="korba-logo">On Korba, payments can be made from payment cards(VISA, Master Card, Gh-Link etc)
-                                            and mobile money wallet(Airtel,MTN,Tigo,Vodafone).
+                                        <li class="korba-logo">On Korba, payments can be made from payment cards (VISA, Master Card, Gh-Link etc) and mobile money wallet (Airtel, MTN, Tigo, Vodafone).
                                         </li>
-                                        <li class="korba-logo">Korba is integrated with all the Banks in Ghana, including all Rural Banks and Mobile
-                                            Financial Services provided by four of the Mobile Network Providers</li>
-                                        <li class="korba-logo">Korba enables payments to be made directly into bank accounts of organizations on
-                                            the platform without having to enter their bank details.</li>
+                                        <li class="korba-logo">Korba is integrated with all the Banks in Ghana, including all Rural Banks and Mobile Financial Services provided by four of the Mobile Network Providers.</li>
+                                        <li class="korba-logo">Korba enables payments to be made directly into bank accounts of organizations on the platform without having to enter their bank details.</li>
                                     </ul>
                                 </p>
                                 <div id="services-02-btn-02" style="text-align: center;">

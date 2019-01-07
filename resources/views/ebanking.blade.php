@@ -9,7 +9,7 @@
 <section style="height:90%;">
    
     
-    <div class="info-box">
+    <div class="info-box-ebank">
         <p>
             Bespoke remote banking platform to enable customers of financial institutions remotely access banking services anywhere, any time. Just dial *395*9998#
         </p>

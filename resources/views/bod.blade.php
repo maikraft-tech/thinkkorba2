@@ -47,9 +47,7 @@
                         </div>
                         <h4 style="font-weight;bold;"><b>Professor Francis Dodoo</b></h4>
                         <span><b>Chairman</b></span>
-                        <h6><b>President, Ghana Olympic Committee
-                            <br/> Professor,Pennsylvania State University</b>
-                        </h6>
+                        
                     </div>
                 </div>
             
@@ -69,7 +67,7 @@
                                             <div class="popup-inner">
                                                
                                                 <div class="popup__text">
-                                                    <h3>Korshie Da Seglah</h3>
+                                                    <h3>N.Korshi Da Seglah</h3>
                                                     <p>Nelson Da Seglah is an information Technology consultant with over 15 years experience in developing and delivering Technology strategies, projects and solutions. Nelson has worked in various industries including manufacturing and financials services.</p>
                                                     <p>Nelson was Head of Technology of UT Bank for 10 years, leading the bank’s technology strategy development and implementation from Unique Trust financial services through growth, expansions into other industries including Insurance, Real Estates and Logistics and haulage. He was also a member of the teams that established UT in Nigeria, Germany and South Africa. He was the lead technology architect through the acquisition and merger of BPI Bank and UT financial services to form UT Bank. Nelson’s core responsibility was to ensure a technology strategy, systems and processes were in alignment with the business strategy, values and culture of the institution.</p>
                                                     <p>He supported in the migration of the various legacy systems of the 2 merging entities onto a single Temenos T24 banking platform.Under his leadership, Nelson established the e-business of the bank and electronic products including Internet and mobile banking, ATMs and card products including Visa. He also established the first EMV card personalization plant in Ghana. These successes led to UT bank being recognized as the Best bank IT/e-Business in 2011. Nelson is also the brain behind innovations like the UT Bank bank-on-wheels and bank-on-feet. </p>
@@ -88,10 +86,9 @@
                             </div>
                         </div>
                         </div>
-                        <h4><b>Korshi Da Seglah</b></h4>
+                        <h4><b>N.Korshi Da Seglah</b></h4>
                         <span><b>CEO/Founder</b></span>
-                        <h6><b>Former Gerneral Manager,
-                            <br/>Banking Technology,UT Bank</b></h6>
+                        
                     </div>
                 </div>
                 
@@ -128,9 +125,7 @@
                         </div>
                         <h4><b>Daniel Kertoglo Amuzu</b></h4>
                         <span><b>CFO</b></span>
-                        <h6><b>CEO,Cudis Farms
-                            <br/>Former Finance Manager, UT Financial Services</b>
-                        </h6>
+                        
                     </div>
                 </div>
             
@@ -174,10 +169,7 @@
                         </div>
                         <h4 style="font-weight;bold;"><b>Pearl Essuah-Mensah</b></h4>
                         <span><b>Member</b></span>
-                        <h6><b>CEO,Feniks Limited,
-                            <br/>Chairperson, Ashesi University,
-                            <br/>Former Deputy Managing Director, UT Bank</b>
-                        </h6>
+                        
                     </div>
                 </div>
             
@@ -215,9 +207,7 @@
                         </div>
                         <h4><b>Albert Biga</b></h4>
                         <span><b>Member</b></span>
-                        <h6><b>CEO, Zoobashop
-                            <br/> CEO, Tropical Business Solutions</b>
-                        </h6>
+                        
                     </div>
                 </div>
                 
@@ -252,9 +242,8 @@
                         </div>
                         </div>
                         <h4><b>David Kwabena Boafo</b></h4>
-                        <span><b>Secretary General</b></span>
-                        <h6><b>Managing Partner
-                            <br/>S.K. Boafo &amp; Company</b></h6>
+                        <span><b>Secretary </b></span>
+                        
                     </div>
                 </div>
             
