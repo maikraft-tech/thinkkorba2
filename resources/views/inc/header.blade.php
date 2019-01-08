@@ -16,7 +16,7 @@
                         </div>
                         
                     </div>
-                    <div class="col-md-3 col-sm-3 col-xs-3  col-lg-3" style="text-align:right;margin-top: 10px;text-align:right;">
+                    <div class="col-md-3 col-sm-3 col-xs-3 col-lg-3 hidden-xs" style="text-align:right;margin-top: 10px;text-align:right;">
                         <a class="pull-right" href="/" class="" style=" color:black;">
                             <img src="img/logo/korba-logo.png" alt="logo" style="width: 120px; color:black;">
                         </a>

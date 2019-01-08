@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="name-heading">
-    <h2> Korba Exchange ( White Lable )</h2>
+    <h2> Korba Exchange ( White Label )</h2>
 </div>
 <section id="home" style="height:100%;">
     

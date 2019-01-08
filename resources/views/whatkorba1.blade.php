@@ -93,20 +93,20 @@
 
 <div class="main">
     <section>
-        <div class="container" style="margin-top:200px;">
+        <div class="container what-is-korba" >
             <div class="row align-middle">
                 <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">
-                    <img src="img/other/image_2.jpg" class="img-responsive" style="border-radius: 40px; height: 300px;text-align:right;">
+                    <img src="img/other/image_2.jpg" class="img-responsive what-is-image">
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-12">
                     <h2><strong>What Is Korba?</strong> </h2>
-                    <p style="color: black;font-size:1.1em; margin-top:20px;">
+                    <p >
                         Korba is a cross-platform payment system that enables users to securely and congenially perform financial transactions across all the mobile money networks and banks including rural banks via their multiple access points.
                     </p>
 
-                    <br/><br/>
+                    <br/>
 
-                    <p style="color: black;font-size:1.1em;">
+                    <p >
                         Thus on KORBA, funds can be sent from Payment Cards(VISA, Master Card, Gh-Link etc) or Mobile Money wallet(Airtel-Tigo,MTN, Vodafone) and received into any Bank Account(including Rural Banks) or Mobile Money wallets. The settlement is simple,instant,congenial and secure.
                     </p>
                 </div>
@@ -115,7 +115,7 @@
         </div>
     </section>
     <section style="background-image:url('img/other/korba-bg.png')">
-        <div class="container" style="background-color:transparent;margin-top:20px;">
+        <div class="container what-is-korba2" style="background-color:transparent;margin-top:20px;">
             <div class="row align-middle">
                 <div class="col-md-6 col-sm-12 col-lg-6 col-xs-12">
                     <div class="new-page-design">
@@ -130,7 +130,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-sm-12 col-lg-6" >
+                <div class="col-md-6 col-sm-12 col-lg-6 hidden-xs" >
                     <img src="img/other/korba-phone.png" alt="full phone image" class="img-responsive" style="max-height:600px;margin-top:80px;margin-left:40px;">
                 </div>
             </div>
