@@ -79,7 +79,7 @@
                 </li>
             </ul>
 
-            <ul style="position:absolute; bottom:2%;">
+            <ul style="position:absolute; bottom:20px;">
                 <li style="">
                     <span style="color: white;padding-left:10px;">
                         <a href="http://facebook.com/korbaweb.com" target="_blank"><img src="img/other/side-fb.png" style="height:20px;margin-left:3px;"></a>
