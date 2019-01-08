@@ -8,7 +8,7 @@
 <section id="home" style="height:100%;">
     
     <div class="img-div ">
-        <img src="img/Exchange.png">
+        <img src="img/Exchange.jpg">
     </div>
     <div class="info-box-white ">
         <p>
