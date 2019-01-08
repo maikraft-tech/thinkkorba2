@@ -1,7 +1,7 @@
-<div class="menu menu-bottom" id="menu" style="width: 20%; position:fixed; display:none; left:0px; height:95vh; background-color:#444141ed; z-index:9;transition: 1.64s ease-in-out">
+<div class="menu menu-bottom" id="menu" style="width: 20%; position:fixed; display:none; left:0px; height:97vh; background-color:#444141ed; z-index:9;transition: 2.64s ease-in-out">
     <div class="col-md-12 col-xs-12 col-lg-12" style="height:100%;">
         <div class="row">
-            <span><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:20px; margin-bottom: 20px;"></span>
+            <span><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:30px; margin-bottom: 20px;"></span>
         </div>
         <div class="berrymenu">
             <ul>

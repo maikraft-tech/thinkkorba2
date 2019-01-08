@@ -1,4 +1,4 @@
-@extends('layouts.custom')
+@extends('layouts.map')
 
 @section('content')
 
