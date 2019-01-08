@@ -2,7 +2,7 @@
 
 @section('content')
 
-<section style="height:100%;">
+<section >
         <div class="name-heading">
             <div class="row">
                 <h2>  Partners <img src="img/logo/partner-icon.png" style="position: relative; float: right; width: 60px;  padding-bottom: 10px;"> </h2>
@@ -21,7 +21,7 @@
         </div>
         <div class="row" >
             
-            <div class="col-xs-12 col-sm-12 col-md-12" style="text-align:center;">
+            <div class="col-xs-12 col-sm-12 col-md-12" style="text-align:center; margin-bottom:20px;">
                 <img src="img/logo/Layer 1.png" class="other-channels-img">
                 <img src="img/logo/Layer 2.png" class="other-channels-img">
                 <img src="img/logo/Layer 3.png" class="other-channels-img">

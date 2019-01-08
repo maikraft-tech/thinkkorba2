@@ -23,7 +23,7 @@
                                         To view their social profile, click on the link below
                                     </p>
                                     <div class="socials mt-20">
-                                        <a class="modal-button btn btn-default" href="#popup" style="width:auto;">More</a>
+                                        <a class="modal-button " href="#popup" style="width:auto;">More</a>
                                         <div class="popup" id="popup">
                                             <div class="popup-inner">
                                                
@@ -228,7 +228,11 @@
                                        
                                         <div class="popup__text">
                                             <h3>David Kwabena Boafo</h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ex velit, viverra non vulputate vitae, blandit vitae nisl. Nullam fermentum orci et erat viverra bibendum. Aliquam sed varius nibh, vitae mattis purus. Mauris elementum sapien non ullamcorper vulputate. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget felis sit amet eros viverra pulvinar.</p>
+                                            <p>David Boafo is a Lawyer with over eighteen years of practice experience and is currently the Managing Partner of S.K. Boafo & Company. David’s practice areas include Litigation, Construction, Real Estate, Land and Corporate Law. 
+                                                David has advised and represented both local and international Clients on various legal matters in Ghana.</p>
+
+                                            <p>David sits on the boards of Companies in the financial, technology, construction, agro processing, real estate, land and media sectors. David is the Co-Founder of Land Seal Ghana Ltd and Cake Accessories. 
+                                                David is also a Reverend Minister and heads a church in Accra.</p>
                                                 <!-- <a href="#"><i class="fa fa-facebook"></i></a>
                                                 <a href="#"><i class="fa fa-twitter"></i></a>
                                                 <a href="#"><i class="fa fa-google-plus"></i></a>

@@ -1,7 +1,7 @@
-<div class="menu menu-bottom" id="menu" style="width: 20%; position:fixed; display:none; left:0px; height:97vh; background-color:#444141ed; z-index:9;transition: 2.64s ease-in-out">
+<div class="menu menu-bottom" id="menu" style="width: 25%; position:fixed; display:none; left:0px; height:97vh; background-color:#444141ed; z-index:9;transition: 2.64s ease-in-out">
     <div class="col-md-12 col-xs-12 col-lg-12" style="height:100%;">
         <div class="row">
-            <span><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:30px; margin-bottom: 20px;"></span>
+            <span><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:30px; margin-bottom: 15px;"></span>
         </div>
         <div class="berrymenu">
             <ul>
@@ -79,7 +79,7 @@
                 </li>
             </ul>
 
-            <ul style="position:absolute; bottom:20px;">
+            <ul style="position:relative; bottom:10px;">
                 <li style="">
                     <span style="color: white;padding-left:10px;">
                         <a href="http://facebook.com/korbaweb.com" target="_blank"><img src="img/other/side-fb.png" style="height:20px;margin-left:3px;"></a>
@@ -90,7 +90,7 @@
                 </li>
                 <li class="">
                     <a href="terms" style="display: block;color: white;
-                        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Terms & Conditions  </a>
+                        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 16px;font-weight: 200;"> Terms & Conditions  </a>
                 </li>
             </ul>
         </div>
