@@ -59,6 +59,9 @@
   	<script type="text/javascript" src="js/owl-carousel/owl.carousel.min.js"></script>
     <!-- Responsive tabs -->
     <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script>
+
+    {!! $map['js'] !!}
+    
     <!-- Custom js -->
     <script type="text/javascript" src="js/script1.js"></script>
     @stack('scripts')

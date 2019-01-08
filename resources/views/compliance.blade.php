@@ -80,11 +80,11 @@
 
                         <ul class="no_bullet">
                             <p><b>How you can keep your account safe</b></p>
-                            <li class="korba-logo">The security of your account depends on you keeping your account password confidential. You should not share your account name or password with anyone. Sharing this with others exposes your account to them.</li>
-                            <li class="korba-logo">Delete any emails requesting personal details such as PINs or password, and do not open them. <b>We will never ask you to provide this information over email.</b></li>
-                            <li class="korba-logo">Be particularly suspicious of attachments ending in .zip or .exe from unknown senders.</li>
-                            <li class="korba-logo">Check for a secure connection. Secure website addresses have “https” at the start, the ‘s’ indicates security.</li>
-                            <li class="korba-logo">Immediately report it to us if you suspect that you have experienced or received a phishing scam or virus.<br> Consider whether the message you have received is one that you expect to receive from us – incorrect spellings or images are usually warning signs.</li>
+                            <li class="korba-logo-compliance">The security of your account depends on you keeping your account password confidential. You should not share your account name or password with anyone. Sharing this with others exposes your account to them.</li>
+                            <li class="korba-logo-compliance">Delete any emails requesting personal details such as PINs or password, and do not open them. <b>We will never ask you to provide this information over email.</b></li>
+                            <li class="korba-logo-compliance">Be particularly suspicious of attachments ending in .zip or .exe from unknown senders.</li>
+                            <li class="korba-logo-compliance">Check for a secure connection. Secure website addresses have “https” at the start, the ‘s’ indicates security.</li>
+                            <li class="korba-logo-compliance">Immediately report it to us if you suspect that you have experienced or received a phishing scam or virus. Consider whether the message you have received is one that you expect to receive from us – incorrect spellings or images are usually warning signs.</li>
                         </ul>
                     </div>
                 </div>

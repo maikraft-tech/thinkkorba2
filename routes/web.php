@@ -80,7 +80,20 @@ Route::get('/chargeback', function () {
 });
 
 Route::get('/contactUs', function () {
-    return view('contactUs');
+    $config['center'] = '5.624143, -0.075986';
+    $config['zoom'] = '17';
+    $config['map_height'] = '500px';
+    $config['scrollwheel'] = false;
+
+    GMaps::initialize($config);
+    $marker['position'] = '5.624143, -0.075986';
+    $marker['infowindow_content'] = 'HALGES MAIN OFFICE';
+
+    GMaps::add_marker($marker);
+
+    $map = GMaps::create_map();
+
+    return view('contactUs')->with('map',$map);
 });
 
 Route::get('/partners', function () {

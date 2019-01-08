@@ -2,6 +2,7 @@
 
 @section('content')
 
+
 <section id="contact"  >
     <div class="name-heading">
         <div class="row">
@@ -78,24 +79,14 @@
                 </div>
             </div> 
 
-            <!-- for google map -->
-            <!-- <div class="row">
-                <div>
-
-                </div>
-            </div> 
-            <div style="width: 500px; height: 500px;">
-                {!! Mapper::render() !!}
-            </div> -->
+            
                 
         </div>
 
         <div class="container-fluid">
-            <div class="row">
-                <div id="map">
-
-                </div>
-            </div>
+           
+                {!! $map['html'] !!}
+            
         </div>
     </div>
 </section>

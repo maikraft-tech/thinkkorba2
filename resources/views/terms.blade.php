@@ -26,8 +26,8 @@
         <ul class="no_bullet">
             <p><b>Transactional / Daily Limits</b></p>
             <li>Korba has no limits. It is possible your mobile money service provider would apply both a transactional and daily limits to your wallet. To increase or reduce these limits, you need to contact your service provider and not the Korba team.</li>
-            <li class="korba-logo">You may access the available funds in your wallet at any time using your cell phone and or the internet. While we will make every reasonable attempt to provide the service at all times, we shall provide the service “as is” and without any warranties.</li>
-            <li class="korba-logo">You must authorize your transactions with your secret PIN, which you create when you register with the mobile money service provider, or by such other method we may prescribe from time to time.</li>
+            <li class="korba-logo-terms">You may access the available funds in your wallet at any time using your cell phone and or the internet. While we will make every reasonable attempt to provide the service at all times, we shall provide the service “as is” and without any warranties.</li>
+            <li class="korba-logo-terms">You must authorize your transactions with your secret PIN, which you create when you register with the mobile money service provider, or by such other method we may prescribe from time to time.</li>
         </ul>
 
         <ul class="no_bullet">
@@ -39,10 +39,10 @@
 
         <ul class="no_bullet">
             <p><b>Customer Responsibilities</b></p>
-            <li class="korba-logo">It is the responsibility of the wallet owner to ensure that he/she provides accurate personal information to Korba. To this end, Korba subscriber warrants that any information is true and correct and that he/she is obligated to provide any additional information that is required from time to time. Failing will result in suspension or closure of your account.</li>
-            <li class="korba-logo">The Korba user will be responsible for payment of all applicable fees for any transaction effected using the platform whether these were made by you or someone else with or without your authority or knowledge.</li>
-            <li class="korba-logo">In the event of damage, loss or theft of the SIM, you are obliged to inform your service provider immediately of such damage, loss or theft.  This will prevent any possible use of the service until the SIM card has been replaced. Any loss incurred during this period will be a personal liability for which Korba shall not be responsible.</li>
-            <li class="korba-logo">You must comply with any instructions that Korba may issue from time to time about the use of the platform.</li>
+            <li class="korba-logo-terms">It is the responsibility of the wallet owner to ensure that he/she provides accurate personal information to Korba. To this end, Korba subscriber warrants that any information is true and correct and that he/she is obligated to provide any additional information that is required from time to time. Failing will result in suspension or closure of your account.</li>
+            <li class="korba-logo-terms">The Korba user will be responsible for payment of all applicable fees for any transaction effected using the platform whether these were made by you or someone else with or without your authority or knowledge.</li>
+            <li class="korba-logo-terms">In the event of damage, loss or theft of the SIM, you are obliged to inform your service provider immediately of such damage, loss or theft.  This will prevent any possible use of the service until the SIM card has been replaced. Any loss incurred during this period will be a personal liability for which Korba shall not be responsible.</li>
+            <li class="korba-logo-terms">You must comply with any instructions that Korba may issue from time to time about the use of the platform.</li>
         </ul>
 
         <ul class="no_bullet">

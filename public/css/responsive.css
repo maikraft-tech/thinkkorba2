@@ -354,6 +354,18 @@
 
 /*Extra small Devices(Landscape Phone & Portrait Tablets)*/
 @media(max-width: 767px){
+	#status{
+		background-image: url("../img/preloader/Webloader.gif");
+		background-repeat: no-repeat;
+		width: 200px;
+		height: 200px;
+		
+		position: absolute;
+		left: 30%;
+		top: 40%;
+		margin-top: -35px;
+		margin-left: -35px;
+	}
 
 	/*Navigation*/
 	.navbar{
