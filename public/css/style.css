@@ -1679,9 +1679,9 @@ ul.no_bullet{
 
 li.korba-logo{
 	background: url('../img/logo/list_icon.png') no-repeat left top;
-	height: 55px;
+	/* height: 55px; */
 	padding-left: 44px;
-	padding-top: 4px;
+	/* padding-top: 4px; */
 }
 
 li.korba-logo-terms{

@@ -61,10 +61,10 @@
             <div id="service-tab-1" class="service-tab">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInLeft">
+                        <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
                             <img src="img/home/image3.jpg" style="border-radius: 25px;">
                         </div>
-                        <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
+                        <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                             <div class="tab-bg">
                                 <h3>About Korba</h3>
                                 <p>Korba is a cross-platform payment system that enables users to securely and congenially perform
