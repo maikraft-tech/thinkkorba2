@@ -21,7 +21,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="/img/team/korshi.jpeg" alt="Korshi"/></div>
-          <div class="at-user__name">N.Korhsi Da Seglah(KDS)</div>
+          <div class="at-user__name">N. Korhsi Da Seglah(KDS)</div>
           <div class="at-user__title">Chief Enabling Officer <br>&amp; Head of Operations</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -43,7 +43,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Daniel"/></div>
-          <div class="at-user__name">Daniel K. Amuzu(DKA)</div>
+          <div class="at-user__name">D. K. Amuzu(DKA)</div>
           <div class="at-user__title">Director, Finance and Sales</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -65,7 +65,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/nana.jpg" alt="Nana Bonku"/></div>
-          <div class="at-user__name">Nana Bonku Eshun(NBE)</div>
+          <div class="at-user__name">N. Bonku Eshun(NBE)</div>
           <div class="at-user__title">Head, Corporate Strategy</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -109,7 +109,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/kese.jpg" alt="Eric Tetteh"/></div>
-          <div class="at-user__name">Kesse Kwabena Awuah(KKA)</div>
+          <div class="at-user__name">K. Kwabena Awuah(KKA)</div>
           <div class="at-user__title">Head, Service Delivery</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -175,7 +175,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/naa.jpg" alt="Naa Dede"/></div>
-          <div class="at-user__name">Naa Dedei Aryeetey(NDA)</div>
+          <div class="at-user__name">N. Dedei Aryeetey(NDA)</div>
           <div class="at-user__title">Head, Treasury</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -197,7 +197,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Gideon"/></div>
-          <div class="at-user__name">Gideon Adjapong(GA) </div>
+          <div class="at-user__name">G. Adjapong(GA) </div>
           <div class="at-user__title">Tech Team Lead</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -241,7 +241,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/edwina.jpg" alt="Edwina" /></div>
-          <div class="at-user__name">E. SELASSIE NYADOR(ESN)</div>
+          <div class="at-user__name">E. Selassie Nyador(ESN)</div>
           <div class="at-user__title">Contact Center Rep.</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
