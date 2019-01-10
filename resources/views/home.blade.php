@@ -55,63 +55,69 @@
     </section>
 
     <!-- About Korba section -->
-    <div id="services-02">
-        <div class="content-box-md">
-            
-            <div id="service-tab-1" class="service-tab">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
-                            <img src="img/home/image3.jpg" style="border-radius: 25px;">
-                        </div>
-                        <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
-                            <div class="tab-bg">
-                                <h3>About Korba</h3>
-                                <p>Korba is a cross-platform payment system that enables users to securely and congenially perform
-                                    financial transactions across all the mobile money networks and banks including rural
-                                    banks via their multiple access points.
-                                </p>
-                                <div id="services-02-btn-01" style="text-align: center;">
-                                    <a class="btn btn-general btn-red hover-effect-all" href="/whatkorba" title="learn more" role="button">LEARN MORE</a>
+    <section id="about">
+        <div id="services-02">
+            <div class="content-box-md">
+                
+                <div id="service-tab-1" class="service-tab">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
+                                <img src="img/home/image3.jpg" style="border-radius: 25px;">
+                            </div>
+                            <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
+                                <div class="tab-bg">
+                                    <h3>About Korba</h3>
+                                    <p>Korba is a cross-platform payment system that enables users to securely and congenially perform
+                                        financial transactions across all the mobile money networks and banks including rural
+                                        banks via their multiple access points.
+                                    </p>
+                                    <div id="services-02-btn-01" style="text-align: center;">
+                                        <a class="btn btn-general btn-red hover-effect-all" href="/whatkorba" title="learn more" role="button">LEARN MORE</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            
-            <div id="service-tab-2" class="service-tab">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInLeft">
-                            <div class="tab-bg">
-                                <h3>Why Use Korba</h3>
-                                <p>
-                                    <ul class="no_bullet" >
-                                        <li class="korba-logo">On Korba, payments can be made from payment cards (VISA, Master Card, Gh-Link etc) and mobile money wallet (Airtel, MTN, Tigo, Vodafone).
-                                        </li>
-                                        <li class="korba-logo">Korba is integrated with all the Banks in Ghana, including all Rural Banks and Mobile Financial Services provided by four of the Mobile Network Providers.</li>
-                                        <li class="korba-logo">Korba enables payments to be made directly into bank accounts of organizations on the platform without having to enter their bank details.</li>
-                                    </ul>
-                                </p>
-                                <div id="services-02-btn-02" style="text-align: center;">
-                                    <a class="btn btn-general btn-red hover-effect-all" href="https://liveweb.korbaweb.com/" title="sign up" role="button">SIGN UP</a>
+                
+                <div id="service-tab-2" class="service-tab">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInLeft">
+                                <div class="tab-bg">
+                                    <h3>Why Use Korba</h3>
+                                    <p>
+                                        <ul class="no_bullet" >
+                                            <li class="korba-logo">On Korba, payments can be made from payment cards (VISA, Master Card, Gh-Link etc) and mobile money wallet (Airtel, MTN, Tigo, Vodafone).
+                                            </li>
+                                            <li class="korba-logo">Korba is integrated with all the Banks in Ghana, including all Rural Banks and Mobile Financial Services provided by four of the Mobile Network Providers.</li>
+                                            <li class="korba-logo">Korba enables payments to be made directly into bank accounts of organizations on the platform without having to enter their bank details.</li>
+                                        </ul>
+                                    </p>
+                                    <div id="services-02-btn-02" style="text-align: center;">
+                                        <a class="btn btn-general btn-red hover-effect-all" href="https://liveweb.korbaweb.com/" title="sign up" role="button">SIGN UP</a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
-                            <img src="img/home/web-mobile.png" style="border-radius: 25px;margin: 30px;">
+                            <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
+                                <img src="img/home/web-mobile.png" style="border-radius: 25px;margin: 30px;">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
+    
 
-    <!-- Our Channels -->
+    
+
+   
+    <!-- Other products -->
     <section id="other-products">
         <div id="about-02">
-            <div class="content-box-md">
+            <div class="content-box-sm">
                 <div class="vertical-heading">
                     <h2 style="text-align: center; margin-bottom: 5vh;">
                         <strong>Our Channels</strong> </h2>
@@ -174,122 +180,9 @@
                 </div>
             </div>
 
-           
-        </div>
-
-    </section>
-
-    <!-- Clients section -->
-  	<!-- <section id="clients">
-  		<div class="content-box-sm">
-  			<div class="container">
-  				<div class="row">
-  					<div class="col-md-12 text-center">
-  						<div class="horizontal-heading ">
-  							
-  							<h2>Our Happy <strong>Clients</strong></h2>
-  						</div>
-  					</div>
-  				</div>
-  				<div class="row wow bounceInLeft" data-wow-duration="1s" data-wow-delay=".5s">
-  					<div class="col-md-12">
-  						<div id="clients-list" class="owl-carousel owl-theme">
-  							
-  							<div class="client">
-  								<img src="img/client/client-1.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-2.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-3.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-4.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-5.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-6.png" class="img-responsive" alt="client">
-  							</div>
-  						
-  							<div class="client">
-  								<img src="img/client/client-7.png" class="img-responsive" alt="client">
-  							</div>
-  							
-  							<div class="client">
-  								<img src="img/client/client-8.png" class="img-responsive" alt="client">
-  							</div>
-  						</div>
-  					</div>
-  				</div>
-  			</div>
-  		</div>
-        
-
-        
-    </section> -->
-
-    <!--client brand section-->
-        <section id="cbrand" class="cbrand">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <div class="horizontal-heading ">
-                            
-                            <h2><strong>Our Happy Clients</strong></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row wow bounceInLeft">
-                    <div class="main_cbrand text-center roomy-100">
-                        
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="cbrand_item m-bottom-10">
-                                <a href=""><img src="/img/client/clients.png" alt="first"  style="width:100%;"/></a>
-                            </div>
-                        </div>
-                        <!-- <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="cbrand_item m-bottom-10">
-                                <a href=""><img src="/img/client/elife.png" alt="second" /></a>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="cbrand_item m-bottom-10">
-                                <a href=""><img class="" src="/img/client/UnityLink.png" alt="third" /></a>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="cbrand_item m-bottom-10">
-                                <a href=""><img src="/img/client/fameko.png" alt="fourth" /></a>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="cbrand_item m-bottom-10">
-                                <a href=""><img src="/img/client/busy.png" alt="fifth" /></a>
-                            </div>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6">
-                            <div class="cbrand_item m-bottom-10">
-                                <a href=""><img src="/img/client/glo.png" alt="sixth" /></a> 
-                            </div>
-                        </div> -->
-                    </div>
-                </div><!-- End off row -->
-            </div><!-- End off container -->
-        </section><!-- End off Cbrand section -->
 
 
-    <!-- Other products -->
-    <section id="other-products">
-        <div id="about-02">
-            <div class="content-box-md">
+            <div class="content-box-sm">
                 <div class="vertical-heading">
                     <h2 style="margin-bottom: 5vh; text-align:center;">
                         <strong>Other Products</strong> </h2>
@@ -337,9 +230,37 @@
                         </div>
                     </div>
                 </div>
+  
+            </div>
+
+            
+            <div class="content-box-sm">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <div class="horizontal-heading ">
+                                
+                                <h2><strong>Our Happy Clients</strong></h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row wow bounceInLeft">
+                        <div class="main_cbrand text-center roomy-100">
+                            
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="cbrand_item m-bottom-10">
+                                    <a href=""><img src="/img/client/clients.png" alt="first"  style="width:100%;"/></a>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div><!-- End off row -->
+                </div>
             </div>
         </div>
     </section>
+
+
 @endsection
         
 
