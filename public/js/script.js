@@ -4,7 +4,7 @@ $(window).on('load', function(){
 		interval: 2000
 	});
 	$('#status').fadeOut();
-	$('#preloader').delay(350).fadeOut('slow');
+	$('#preloader').delay(250).fadeOut('slow');
 });
 
 /*=================

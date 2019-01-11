@@ -26,7 +26,7 @@
                     
                 </div>
                 <div class="item">
-                    <img src="/img/home/web-app.png" alt="third slide" class="img-responsive">
+                    <img src="/img/home/web-app.jpg" alt="third slide" class="img-responsive">
                     
                 </div>
                 <div class="item">

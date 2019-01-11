@@ -1,7 +1,7 @@
 @extends('layouts.custom')
 
 @section('content')
-<section>
+<section class="team-view">
     <div class="name-heading">
         <div class="row">
             <h2> Our Team <img src="img/logo/Team.png" style="position: relative; float: right; width: 50px; padding-bottom: 10px;"> </h2>
