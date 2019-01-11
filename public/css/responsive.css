@@ -1128,7 +1128,7 @@
 
 	.info-box {
 		position: absolute;
-		bottom: 5%;
+		bottom: -5%;
 		/* z-index: 1; */
 		left:0;
 		width: 100%;
