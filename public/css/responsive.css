@@ -863,13 +863,13 @@
 
 	.info-box {
 		position: absolute;
-		bottom: 2%;
+		bottom: 5%;
 		/* z-index: 1; */
 		left:0;
 		width: 100%;
 		background-color: #fff;
 		border: 1px solid #fdfdf1;
-		padding: 50px 10px;;
+		padding: 30px 10px;;
 		border-radius: 2px;
 		-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 		-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -1130,7 +1130,7 @@
 
 	.info-box {
 		position: absolute;
-		bottom: 2%;
+		bottom: -2%;
 		/* z-index: 1; */
 		left:0;
 		width: 100%;
