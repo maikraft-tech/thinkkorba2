@@ -42,7 +42,7 @@
 
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Korshi.jpg" alt="Daniel"/></div>
+          <div class="at-user__avatar"><img src="img/board/Daniel.jpg" alt="Daniel"/></div>
           <div class="at-user__name">D. K. Amuzu(DKA)</div>
           <div class="at-user__title">Director, Finance and Sales</div>
           <!-- <ul class="at-social">
