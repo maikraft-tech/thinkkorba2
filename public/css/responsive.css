@@ -368,6 +368,20 @@
 		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	}
 
+	.info-box-white{
+		position: absolute;
+		bottom: -110px;
+		left: 20px;
+		width: 35%;
+		background-color: #fff;
+		border: 1px solid #fdfdf1;
+		padding: 20px;
+		border-radius: 2px;
+		-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+		-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	}
+
 	.what-korba{
 		height: 75%;
 	}
