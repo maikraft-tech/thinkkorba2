@@ -94,7 +94,8 @@ a:visited {
 
 #about{
 	background: #f4f4f4;
-	height: 90%;margin-top: 80px;
+	height: auto;
+	margin-top: 80px;
 }
 
 
