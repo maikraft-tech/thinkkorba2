@@ -24,6 +24,7 @@
 
     <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
     
     
     <!-- Responsive tabs -->

@@ -96,6 +96,8 @@ Route::get('/contactUs', function () {
     return view('contactUs')->with('map',$map);
 });
 
+Route::post('/contactUs','ContactusController@postContact')->name('contact.store');
+
 Route::get('/partners', function () {
     return view('partners');
 });

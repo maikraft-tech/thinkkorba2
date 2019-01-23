@@ -1509,15 +1509,17 @@ ul.navbar-nav > li > a:focus{
   	position: relative;
   	padding-top: 50px;
   	width: 100%;
-  	background-color: #ed1944;
+	  background-color: #ed1944;
+	  
   }
   
 
   .name-heading  h2{
-  	padding: 25px 80px;
+  	padding: 25px 45px;
   	color: #fff;
   	margin: 20px auto 0px;
-  	font-weight: 900;
+	  font-weight: 900;
+	  font-family: 'Raleway' !important;
   }
   
 
@@ -1535,9 +1537,10 @@ ul.navbar-nav > li > a:focus{
 
 
 .info-box {
+	word-wrap: break-word;
 	position: absolute;
 	bottom: -140px;
-	left:70px;
+	left:30px;
 	width: 35%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
@@ -1546,13 +1549,18 @@ ul.navbar-nav > li > a:focus{
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+
+
 }
 
 .info-box-ebusiness{
+	word-wrap: break-word;
 	position: absolute;
 	bottom: -100px;
-	left:70px;
-	width: 35%;
+	left:50px;
+	width: 40%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 10px;
@@ -1560,11 +1568,16 @@ ul.navbar-nav > li > a:focus{
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+
+
 }
 
 .info-box-white{
+	word-wrap: break-word;
 	position: absolute;
-	bottom: -70px;
+	bottom: -90px;
 	left:120px;
 	width: 26%;
 	background-color: #fff;
@@ -1574,9 +1587,14 @@ ul.navbar-nav > li > a:focus{
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+
+
 }
 
 .info-box-ebank{
+	word-wrap: break-word;
 	position: absolute;
 	bottom: -60px;
 	left:90px;
@@ -1588,9 +1606,14 @@ ul.navbar-nav > li > a:focus{
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+
+
 }
 
 .info-box-r {
+	word-wrap: break-word;
 	position: absolute;
 	opacity: 3;
 	bottom: -150px;
@@ -1604,10 +1627,15 @@ ul.navbar-nav > li > a:focus{
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+
+
 }
 
 
 .info-box1 {
+	word-wrap: break-word;
 	position: absolute;
 	bottom: 20%;
 	right:5%;
@@ -1619,9 +1647,14 @@ ul.navbar-nav > li > a:focus{
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+
+
 }
 
 .info-box2 {
+	word-wrap: break-word;
 	position: absolute;
 	bottom: 20%;
 	left:7%;
@@ -1633,6 +1666,10 @@ ul.navbar-nav > li > a:focus{
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+
+
 }
 
 .info-box p {
@@ -2139,7 +2176,7 @@ li.korba-logo{
 	float: left;
 	
 	background: #fff !important;
-	margin-top: 20%;
+	margin-top: 15%;
 	margin-bottom: 20%;
 	
 }

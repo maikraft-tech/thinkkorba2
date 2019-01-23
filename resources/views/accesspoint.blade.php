@@ -14,19 +14,19 @@
         <div class="content-box-md" >
             <div class="vertical-heading">
                 <h2 style="text-align: center; margin-bottom: 10vh;margin-top:10vh;">
-                    <strong>Our</strong> Channels</h2>
+                    <strong>Our Channels</strong> </h2>
             </div>
             <div class="container" style="height:100%;">
             <div class="row">
                     <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft other-products">
                         
-                        <div class="about-item text-center hover-effect-all" style="border-radius: 25px;height: 300px; padding-top:35px;" >
+                        <div class="about-item text-center hover-effect-all" style="border-radius: 25px;height: 300px; padding-top:25px;" >
                             <!-- <div class="col-md-5 col-sm-5 col-xs-5">
                                 <h3>Web App</h3>
                             </div> -->
                             <div class="col-md-12 col-sm-12 col-xs-12">
                             <h2>Web App</h2>
-                                <img src="img/logo/Laptop.png" class="other-products-img" style="height: 90px;">
+                                <img src="img/logo/Laptop.png" class="other-products-img" style="height: 110px;">
                                 <h2>Visit <a href="https://liveweb.korbaweb.com/" target="_blank" style="border-bottom:0.5px solid red; color: red;">Now</a></h2>
                             </div>
                             

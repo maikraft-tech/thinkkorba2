@@ -5,7 +5,7 @@
 <section >
     <div class="name-heading">
         <div class="row">
-            <h2> FAQ's </h2>
+            <h2> Engage Us </h2>
         </div>
            
     </div>

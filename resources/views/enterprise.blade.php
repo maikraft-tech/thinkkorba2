@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="name-heading">
-        <h2> Korba Enterprise</h2>
+        <h2 style=> Korba Enterprise</h2>
     </div>
 <section id="home" style="height:100%;">
     
