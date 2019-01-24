@@ -6,7 +6,7 @@
     <h2> Korba E-Banking</h2>
 </div>
 
-<section style="height:90%;">
+<section style="height:90%;background-image: url('../img/other/E-Banking background.png') ;">
    
     
     <div class="info-box-ebank">

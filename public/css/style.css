@@ -1519,7 +1519,7 @@ ul.navbar-nav > li > a:focus{
   	color: #fff;
   	margin: 20px auto 0px;
 	  font-weight: 900;
-	  font-family: 'Raleway' !important;
+	  font-family: 'Merriweather' !important;
   }
   
 
@@ -1538,8 +1538,9 @@ ul.navbar-nav > li > a:focus{
 
 .info-box {
 	word-wrap: break-word;
+	font-family: 'Raleway',sans-serif;
 	position: absolute;
-	bottom: -140px;
+	bottom: -100px;
 	left:30px;
 	width: 35%;
 	background-color: #fff;
@@ -1556,11 +1557,12 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 }
 
 .info-box-ebusiness{
+	font-family: 'Raleway',sans-serif;
 	word-wrap: break-word;
 	position: absolute;
-	bottom: -100px;
+	bottom: -80px;
 	left:50px;
-	width: 40%;
+	width: 37%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 10px;
@@ -1575,15 +1577,16 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 }
 
 .info-box-white{
+	font-family: 'Raleway',sans-serif;
 	word-wrap: break-word;
 	position: absolute;
-	bottom: -90px;
-	left:120px;
-	width: 26%;
+	bottom: -100px;
+	left:100px;
+	width: 27%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 20px;
-	border-radius: 2px;
+	border-radius: 5px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -1594,25 +1597,27 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 }
 
 .info-box-ebank{
+	font-family: 'Raleway',sans-serif;
 	word-wrap: break-word;
 	position: absolute;
 	bottom: -60px;
-	left:90px;
+	left:40px;
 	width: 32%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
+	border-radius: 10px;
 	padding: 20px;
-	border-radius: 2px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
 
 }
 
 .info-box-r {
+	font-family: 'Raleway',sans-serif;
 	word-wrap: break-word;
 	position: absolute;
 	opacity: 3;
@@ -2172,12 +2177,13 @@ li.korba-logo{
 
 /* css for new Ebanking page */
 .static{
-	width: 40%;
+	width: 30%;
 	float: left;
-	
-	background: #fff !important;
+	/* background-image: url('../img/other/E-Banking background.png') ; */
+	/* background: #fff !important; */
 	margin-top: 15%;
 	margin-bottom: 20%;
+	padding-left: 60px;
 	
 }
 
