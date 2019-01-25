@@ -13,7 +13,7 @@
         <div class="col-md-12 col-xs-12 col-sm-12">
             <div class="row">
             <div>
-                <img src="img/other/faq-image.png" style="width:100%;height:50%;">
+                <img src="img/other/faq-image.jpg" style="width:100%;height:50%;">
             </div>
             </div>
         </div>

@@ -22,7 +22,7 @@
                     
                 </div>
                 <div class="item ">
-                    <img src="/img/home/web-mobile.png" alt="second slide" class="img-responsive">
+                    <img src="/img/home/web-mobile.jpg" alt="second slide" class="img-responsive">
                     
                 </div>
                 <div class="item">
@@ -30,7 +30,7 @@
                     
                 </div>
                 <div class="item">
-                    <img src="img/home/who-we-are.png" alt="fourth slide" class="img-responsive">
+                    <img src="img/home/who-we-are.jpg" alt="fourth slide" class="img-responsive">
                     
                 </div>
                 <div class="item">
@@ -101,7 +101,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
-                                <img src="img/home/web-mobile.png" style="border-radius: 25px;margin: 30px;">
+                                <img src="img/home/web-mobile.jpg" style="border-radius: 25px;margin: 30px;">
                             </div>
                         </div>
                     </div>
