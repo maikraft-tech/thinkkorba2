@@ -133,7 +133,7 @@
                                 <div class="col-md-12 col-sm-12 col-xs-12">
                                     <h2>KORBA WEB</h2>
                                     <img src="img/logo/Laptop.png" class="other-products-img" style="height: 110px;">
-                                    <h2>Visit <a href="https://liveweb.korbaweb.com/" target="_blank" style="border-bottom:0.5px solid red; color: red;">Now</a></h2>
+                                    <h3>Visit <a href="https://liveweb.korbaweb.com/" target="_blank" style="border-bottom:0.5px solid red; color: red;">Now</a></h3>
                                 </div>
                                 
                             </div>
