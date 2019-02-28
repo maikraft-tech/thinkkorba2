@@ -13,12 +13,11 @@
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-                <li data-target="#carousel-example-generic" data-slide-to="4"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox" >
                 <div class="item active">
-                    <img src="/img/home/ussd.jpg" alt="first slide" class="img-responsive">
+                    <img src="/img/home/Banner.jpg" alt="first slide" class="img-responsive">
                     
                 </div>
                 <div class="item ">
@@ -26,15 +25,11 @@
                     
                 </div>
                 <div class="item">
-                    <img src="/img/home/web-app.jpg" alt="third slide" class="img-responsive">
+                    <img src="/img/home/Banner1.jpg" alt="third slide" class="img-responsive">
                     
                 </div>
                 <div class="item">
-                    <img src="img/home/who-we-are.jpg" alt="fourth slide" class="img-responsive">
-                    
-                </div>
-                <div class="item">
-                    <img src="img/home/why-choose-us.png" alt="fifth slide" class="img-responsive">
+                    <img src="img/home/web-app.jpg" alt="fourth slide" class="img-responsive">
                     
                 </div>
                
