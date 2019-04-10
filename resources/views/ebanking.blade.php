@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="name-heading">
-    <h2> Korba E-Banking</h2>
+    <h2>Korba E-Banking</h2>
 </div>
 
 <section style="height:90%;background-image: url('../img/other/E-Banking background.png') ;">
@@ -11,7 +11,7 @@
     
     <div class="info-box-ebank">
         <p>
-            Bespoke remote banking platform to enable customers of financial institutions remotely access banking services anywhere, any time. Just dial *395*9998#
+        Simplified access to remote banking services to clients of banking/financial Institutions anywhere, anytime.
         </p>
     </div> 
 

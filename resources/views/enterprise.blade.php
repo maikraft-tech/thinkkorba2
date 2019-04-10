@@ -12,7 +12,9 @@
     </div>
     <div class="info-box" >
         <p>
-            A bulk payment platform to enable institutions to make payments to employees, agents and other recipients irrespective of their Account type, Bank or Mobile network. This product is also targeted at Product buyers, Contractors, Insurance companies etc.  
+        Korba enterprise creates access points to institutions to enable bulk payments to individuals of any financial platform such as banks, rural banks, savings and loans and any mobile money wallet. 
+This service is highly beneficial for the payment of insurance claims, salaries, loan disbursements etc. 
+
         </p>
     </div>
   

@@ -10,9 +10,11 @@
     <div class="img-div ">
         <img src="img/Exchange.jpg">
     </div>
-    <div class="info-box-white ">
+    <div class="info-box-white">
         <p>
-            A white lable system to enable other businesses integrate, receive payments and collections into their applications and website.
+        Uniquely designed platform specifically for institutions with payment functionalities integrated into their systems for direct collection purposes.
+This solution proprietary rights belong to the engaged company.
+
         </p>
     </div>
     

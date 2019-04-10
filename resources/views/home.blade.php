@@ -63,9 +63,7 @@
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                                 <div class="tab-bg">
                                     <h3>About Korba</h3>
-                                    <p>Korba is a cross-platform payment system that enables users to securely and congenially perform
-                                        financial transactions across all the mobile money networks and banks including rural
-                                        banks via their multiple access points.
+                                    <p>Korba is a cross-platform system that creates a need-fit access to users to perform financial transactions securely across all mobile networks and banks including rural banks via their multiple access points.
                                     </p>
                                     <div id="services-02-btn-01" style="text-align: center;">
                                         <a class="btn btn-general btn-red hover-effect-all" href="/whatkorba" title="learn more" role="button">LEARN MORE</a>
@@ -84,10 +82,11 @@
                                     <h3>Why Use Korba</h3>
                                     <p>
                                         <ul class="no_bullet" >
-                                            <li class="korba-logo">On Korba, payments can be made from payment cards (VISA, Master Card, Gh-Link etc) and mobile money wallet (Airtel, MTN, Tigo, Vodafone).
-                                            </li>
-                                            <li class="korba-logo">Korba is integrated with all the Banks in Ghana, including all Rural Banks and Mobile Financial Services provided by four of the Mobile Network Providers.</li>
-                                            <li class="korba-logo">Korba enables payments to be made directly into bank accounts of organizations on the platform without having to enter their bank details.</li>
+                                            <li class="korba-logo">We provide multiple payment access channels to the convienience of our clients.</li>
+                                            <li class="korba-logo">Intergrated with all banks and telcos in Ghana Korba provides tailor-made payment solutions to meet your organizational needs.</li>
+                                            <li class="korba-logo">No internet? No worries. With Korba, access to payment platforms is not limited to access to internet or sophisticated phones. Transactions can be performed with the most basic telephone technology. Just download the Korba App or dial *395#.</li>
+                                            <li class="korba-logo">At Korba, our clients are our partners and their needs come first. With our dedicated proactive customer service team, your issue resolution is just a call away.</li>
+                                            <li class="korba-logo">Korba has highly skilled professionals well equipped to develop new technology solutions and manage them to the maximum profitability of our clients be it individual or an organization</li>
                                         </ul>
                                     </p>
                                     <div id="services-02-btn-02" style="text-align: center;">
@@ -96,7 +95,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
-                                <img src="img/home/web-mobile.jpg" style="border-radius: 25px;margin: 30px;">
+                                <img src="img/home/web-mobile.jpg" style="border-radius: 25px;margin-top: 70px;">
                             </div>
                         </div>
                     </div>

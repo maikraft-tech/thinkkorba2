@@ -12,8 +12,9 @@
     </div>
     <div class="info-box-ebusiness">
         <p>
-            A bespoke solution to enable customers of institutions signed on to remotely access services. This solution is targeted at insurance companies and general businesses.
-        </p>
+        E-Business is a bespoke solution that enables organizations to reach their customers remotely. This solution gives a wide variety of customer’s access to their services at their convenience.
+        </p> 
+        <p>This will be highly beneficial to companies that need to reach their customers in the most effective way possible.</p>
     </div>
     
 </section>
