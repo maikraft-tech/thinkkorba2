@@ -58,13 +58,19 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
-                                <img src="img/home/image3.jpg" style="border-radius: 25px;">
+                                <img src="img/home/image3.jpg" style="border-radius: 25px;margin-top: 50px;">
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                                 <div class="tab-bg">
                                     <h3>About Korba</h3>
                                     <p>Korba is a cross-platform system that creates a need-fit access to users to perform financial transactions securely across all mobile networks and banks including rural banks via their multiple access points.
+                                        <ul class="no_bullet" >
+                                            <li class="korba-logo">Korba enables multiple access payments through payment cards and all mobile money wallets..</li>
+                                            <li class="korba-logo">Thus on Korba, funds can be transferred from payment cards and all mobile money wallets and received into any bank account including rural banks, savings and loans and mobile money wallets</li>
+                                        </ul>    
                                     </p>
+                                   
+
                                     <div id="services-02-btn-01" style="text-align: center;">
                                         <a class="btn btn-general btn-red hover-effect-all" href="/whatkorba" title="learn more" role="button">LEARN MORE</a>
                                     </div>
