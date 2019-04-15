@@ -1564,19 +1564,39 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 	word-wrap: break-word;
 	position: absolute;
 	bottom: -80px;
-	left:50px;
-	width: 37%;
+	left:45px;
+	width: 36%;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
+	border-radius: 10px;
 	padding: 10px;
 	border-radius: 2px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
+/* clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
 
+}
+
+.info-box-ebank{
+	font-family: 'Raleway',sans-serif;
+	word-wrap: break-word;
+	position: absolute;
+	bottom: -20px;
+	z-index: 1;
+	left:40px;
+	width: 32%;
+	background-color: #fff;
+	border: 1px solid #fdfdf1;
+	border-radius: 10px;
+	padding: 20px;
+	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 }
 
 .info-box-white{
@@ -1599,25 +1619,7 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 
 }
 
-.info-box-ebank{
-	font-family: 'Raleway',sans-serif;
-	word-wrap: break-word;
-	position: absolute;
-	bottom: -60px;
-	left:40px;
-	width: 32%;
-	background-color: #fff;
-	border: 1px solid #fdfdf1;
-	border-radius: 10px;
-	padding: 20px;
-	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
-
-}
 
 .info-box-r {
 	font-family: 'Raleway',sans-serif;
@@ -2180,20 +2182,23 @@ li.korba-logo{
 
 /* css for new Ebanking page */
 .static{
-	width: 30%;
-	float: left;
-	/* background-image: url('../img/other/E-Banking background.png') ; */
+	width: 20%;
+	/* float: left; */
+	/* background-image: url('../img/other/ebanking-logo.png') ; */
 	/* background: #fff !important; */
-	margin-top: 15%;
-	margin-bottom: 20%;
-	padding-left: 60px;
-	
+	/* margin-top: 15%; */
+	/* margin-bottom: 20%; */
+	/* padding-left: 60px; */
+	position: absolute;
+	z-index: 2;	
 }
 
 .dynamic{
-	width: 60%;
+	width: 80%;
 	float: right;
 	max-height: 800px;
+	position: relative;
+	z-index: 0;
 }
 
 /* client slider */
