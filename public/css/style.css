@@ -594,7 +594,7 @@ a:visited {
 		color: #0A0A0A;
 	}
 	.popup__text p {
-		font-size: 15px;
+		font-size: 14px;
 		color: #686868;
 		line-height: 1.5;
 	}
@@ -1632,13 +1632,14 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 	font-size: 11px;
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
+	border-radius: 10px;
 	padding: 15px;
 	border-radius: 2px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
+/* clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
 
 }

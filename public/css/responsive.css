@@ -206,7 +206,7 @@
 		background-color: #fff;
 		border: 1px solid #fdfdf1;
 		padding: 15px;
-		border-radius: 2px;
+		border-radius: 10px;
 		-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 		-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -334,7 +334,7 @@
 		background-color: #fff;
 		border: 1px solid #fdfdf1;
 		padding: 15px;
-		border-radius: 2px;
+		border-radius: 10px;
 		-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 		-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -754,7 +754,7 @@
 		background-color: #dcdddf;
 		border: 1px solid #d5d5d6;
 		padding: 15px;
-		border-radius: 2px;
+		border-radius: 10px;
 		-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 		-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 		box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -1133,7 +1133,7 @@
 	background-color: #dcdddf;
 	border: 1px solid #d5d5d6;
 	padding: 15px;
-	border-radius: 2px;
+	border-radius: 10px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
