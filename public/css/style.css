@@ -95,7 +95,7 @@ a:visited {
 #about{
 	background: #f4f4f4;
 	height: auto;
-	margin-top: 80px;
+	margin-top: 40px;
 }
 
 
@@ -1549,12 +1549,12 @@ ul.navbar-nav > li > a:focus{
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 10px;
-	border-radius: 2px;
+	border-radius: 10px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
 
 }
@@ -1570,7 +1570,7 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 	border: 1px solid #fdfdf1;
 	border-radius: 10px;
 	padding: 10px;
-	border-radius: 2px;
+	border-radius: 10px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -1609,12 +1609,12 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 20px;
-	border-radius: 5px;
+	border-radius: 10px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
 
 }
@@ -1634,7 +1634,7 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 	border: 1px solid #fdfdf1;
 	border-radius: 10px;
 	padding: 15px;
-	border-radius: 2px;
+	border-radius: 10px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
@@ -1654,12 +1654,12 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 15px;
-	border-radius: 2px;
+	border-radius: 10px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
 
 }
@@ -1673,12 +1673,12 @@ clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
 	background-color: #fff;
 	border: 1px solid #fdfdf1;
 	padding: 15px;
-	border-radius: 2px;
+	border-radius: 10px;
 	-webkit-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	-moz-box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
 	box-shadow: 3px 3px 20px 1px rgba(158,158,158,1);
-	-webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+	/* -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 86% 100%, 0% 100%); */
 
 
 }

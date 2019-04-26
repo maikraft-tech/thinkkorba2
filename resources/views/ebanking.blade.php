@@ -7,7 +7,7 @@
 </div>
 
 <section style="height:94vh;">
-   <div class="containerd">
+   <div class="container">
         <div>
             <img src="img/other/ebanking-logo.png" class="img-responsive" style="position:absolute;z-index:1;"/>
         </div>
