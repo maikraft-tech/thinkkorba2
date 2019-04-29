@@ -7,12 +7,12 @@
 </div>
 
 <section style="height:94vh;">
-   <div class="container">
-        <div>
-            <img src="img/other/ebanking-logo.png" class="img-responsive" style="position:absolute;z-index:1;"/>
+   <div class="container-fluid">
+        <div style="position:absolute;z-index:1;height:94vh;">
+            <img src="img/other/ebanking-logo.png" class="img-responsive" />
         </div>
 
-        <div>
+        <div >
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
                 <ol class="carousel-indicators">

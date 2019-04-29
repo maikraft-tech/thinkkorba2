@@ -96,7 +96,7 @@
                 <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member last text-center">
                         <div class="team-img">
-                        <img src="/img/board/Daniel.jpg" alt="Daniel Amuzu" style="margin-bottom:25px;">
+                        <img src="/img/board/DanOld.jpg" alt="Daniel Amuzu" style="margin-bottom:25px;">
                         <div class="overlay">
                             <div class="team-details text-center">
                             <p>

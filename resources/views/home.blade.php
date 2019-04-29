@@ -64,10 +64,10 @@
                                 <div class="tab-bg">
                                     <h3>About Korba</h3>
                                     <p>Korba is a cross-platform system that creates a need-fit access to users to perform financial transactions securely across all mobile networks and banks including rural banks via their multiple access points.
-                                        <ul class="no_bullet" >
+                                        <!-- <ul class="no_bullet" >
                                             <li class="korba-logo">Korba enables multiple access payments through payment cards and all mobile money wallets.</li>
                                             <li class="korba-logo">Thus on Korba, funds can be transferred from payment cards and all mobile money wallets and received into any bank account including rural banks, savings and loans and mobile money wallets.</li>
-                                        </ul>    
+                                        </ul>     -->
                                     </p>
                                    
 
@@ -91,8 +91,8 @@
                                             <li class="korba-logo">We provide multiple payment access channels to the convienience of our clients.</li>
                                             <li class="korba-logo">Intergrated with all banks and telcos in Ghana Korba provides tailor-made payment solutions to meet your organizational needs.</li>
                                             <li class="korba-logo">No internet? No worries. With Korba, access to payment platforms is not limited to access to internet or sophisticated phones. Transactions can be performed with the most basic telephone technology. Just download the Korba App or dial *395#.</li>
-                                            <li class="korba-logo">At Korba, our clients are our partners and their needs come first. With our dedicated proactive customer service team, your issue resolution is just a call away.</li>
-                                            <li class="korba-logo">Korba has highly skilled professionals well equipped to develop new technology solutions and manage them to the maximum profitability of our clients be it individual or an organization.</li>
+                                            <!-- <li class="korba-logo">At Korba, our clients are our partners and their needs come first. With our dedicated proactive customer service team, your issue resolution is just a call away.</li>
+                                            <li class="korba-logo">Korba has highly skilled professionals well equipped to develop new technology solutions and manage them to the maximum profitability of our clients be it individual or an organization.</li> -->
                                         </ul>
                                     </p>
                                     <div id="services-02-btn-02" style="text-align: center;">
