@@ -7,6 +7,7 @@ $(window).on('load', function(){
 	$('#preloader').delay(250).fadeOut('slow');
 });
 
+
 /*=================
 |	|	|	Team
 ================*/
@@ -110,23 +111,7 @@ $(function(){
 
 
 
-/*=================
-|	|	|	Mobile menu
-================*/
-// $(function(){
-// 	// show mobile navigation
-// 	$("#mobile-nav-open-btn").click(function(){
 
-// 		$("#berrymenu").css("height","100%");
-// 		$("#berrymenu").css("width","100%");
-// 	});
-
-// 	// hide mobile navigation
-// 	$("#mobile-nav-close-btn, #mobile-nav a").click(function(){
-// 		$("#mobile-nav").css("height","0%");
-		
-// 	});
-// });
 
 
 /*=================
@@ -218,62 +203,6 @@ Element.prototype.hasClass = function(className) {
 
 
 
-/*=================
-|	|	|	Clients
-================*/
-// $(function(){
-// 	$("#clients-list").owlCarousel({
-// 		items:5,
-// 		autoplay:true,
-// 		smartSpeed: 700,
-// 		loop: true,
-// 		autoplayHoverPause: true,
-// 		nav: true,
-// 		dots: false,
-// 		navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
-// 		esponsive: {
-// 			// breakpoint from 0 Up
-// 			0: {
-// 				items: 2
-// 			},
-// 			// breakpoint from 480 up
-// 			480: {
-// 				items: 3
-// 			} ,
-// 			// breakpoint from 768 up
-// 			768: {
-// 				items: 6
-// 			}
-// 		}
-// 	});
-// });
-// $(document).ready(function() {
-// 	$('#media').carousel({
-// 	  pause: true,
-// 	  interval: 3000,
-// 	});
-//   });
-
-
-
-
-/*=================
-|	|	|	Google Map
-================*/
-// $(window).on('load', function(){
-// 	var addressString = "Awoshie Baah yard";
-// 	var myLatLng = {
-// 		lat: 40.712685,
-// 		lng: -74005920
-// 	};
-
-// 	// 1 Render Map
-// 	var map = new google.maps.Map(document.getElementById('map'),{
-// 		zoom: 11,
-// 		center: myLatLng
-// 	});
-
-// });
 
 
 
@@ -300,3 +229,6 @@ closePanel.addEventListener('click', function () {
   document.body.classList.remove('panel-open');
   menuToggle.classList.remove('open');
 });
+
+
+

@@ -32,8 +32,10 @@
     <link rel="stylesheet" type="text/css" href="css/responsive-tabs/responsive-tabs.css">
     <!-- Animate css -->
     <link rel="stylesheet" type="text/css" href="css/animate/animate.css">
-    
-    
+
+    <!-- Lightbox css -->
+    <link rel="stylesheet" type="text/css" href="css/lightbox.css">
+
     <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous"> -->
     <!-- Custom CSS -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -56,7 +58,7 @@
     <!-- Footer section -->
     @include('inc.footer')
     <!-- JQuery library -->
-    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.js"  ></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Bootsrap JS -->
     <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script> -->
@@ -67,7 +69,9 @@
     <script type="text/javascript" src="js/wow/wow.min.js"></script>
     <!-- Owl Carousel Js -->
       <script type="text/javascript" src="js/owl-carousel/owl.carousel.min.js"></script>
-      
+
+      <!-- Lightbox js -->
+    <link rel="stylesheet" type="text/css" href="css/lightbox.js">
 
     <!-- Responsive tabs -->
     <!-- <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script> -->

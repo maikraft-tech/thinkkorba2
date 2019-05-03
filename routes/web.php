@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/access', function () {
+Route::get('/gallery', function () {
     return view('accesspoint');
 });
 

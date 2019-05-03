@@ -61,22 +61,6 @@ $(function(){
 });
 
 
-// /*=================
-// |	|	|	Testimonials
-// ================*/
-// $(function(){
-// 	$("#testimonial-slider").owlCarousel({
-// 		items:1,
-// 		autoplay:false,
-// 		smartSpeed: 700,
-// 		loop: true,
-// 		autoplayHoverPause: true,
-// 		nav: true,
-// 		dots: false,
-// 		navText: ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>']
-// 	});
-// });
-
 
 
 
@@ -111,46 +95,6 @@ $(function(){
 	});
 });
 
-
-/*=================
-|	|	|	Google Map
-================*/
-// $(window).on('load', function(){
-// 	var addressString = "Awoshie Baah yard";
-// 	var myLatLng = {
-// 		lat: 40.712685,
-// 		lng: -74005920
-// 	};
-
-// 	// 1 Render Map
-// 	var map = new google.maps.Map(document.getElementById('map'),{
-// 		zoom: 11,
-// 		center: myLatLng
-// 	});
-
-	// 2. Add Marker
-	// var marker = new google.maps.Marker({
-	// 	position: myLatLng,
-	// 	map: map,
-	// 	 title: "Click to see Address"
-	// });
-
-	// 3. Add Info window
-	// var infowindow = new google.maps.InfoWindow({
-	// 	content = addressString
-	// });
-
-	// marker.addListener('click', function(){
-	// 	infowindow.open(map,marker);
-	// });
-
-	// resize function
-	// google.maps.event.addDomListener(window,'resize', function(){
-	// 	var center = map.getCenter();
-	// 	google.maps.event.trigger(map, 'resize');
-	// 	map.setCenter(center);
-	// });
-// });
 
 
 /*=================
