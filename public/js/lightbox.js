@@ -323,7 +323,7 @@
         if (self.options.maxWidth && self.options.maxWidth < maxImageWidth) {
           maxImageWidth = self.options.maxWidth;
         }
-        if (self.options.maxHeight && self.options.maxHeight < maxImageHeight) {
+        if (self.options.maxHeight && self.options.maxHeight < maxImageWidth) {
           maxImageHeight = self.options.maxHeight;
         }
 

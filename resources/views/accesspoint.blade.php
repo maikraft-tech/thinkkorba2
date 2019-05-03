@@ -620,7 +620,7 @@
                 <div class="gallery_item">
                    
                     <span class="gallery_item_preview">
-                        <a class="demo" href="img/gallery/Vals 4.jpg" data-lightbox="gallery">
+                        <a class="demo example-image-link" href="img/gallery/Vals 4.jpg" data-lightbox="gallery">
                             <img class="example-image" src="img/gallery/Vals 4.jpg" alt="image-1">
                         </a>
                     </span>
