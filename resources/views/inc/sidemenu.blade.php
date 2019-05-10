@@ -61,7 +61,7 @@
                 <li class="dropdown">
                     <!-- <a href="contactUs.html" style="display: block;color: white;
                     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Contact Us </a> -->
-                    <a href="#" data-toggle="dropdown">Contacts <i class="icon-arrow"></i></a>
+                    <a href="#" data-toggle="dropdown">Library <i class="icon-arrow"></i></a>
                     <ul class="dropdown-menu truedrop">
                         <li>
                             <a href="faq"><i class="fa fa-angle-right"></i> FAQs</a>
@@ -72,14 +72,15 @@
                         <li>
                             <a href="chargeback"><i class="fa fa-angle-right"></i> Refund & Chargeback Policy</a>
                         </li>
-                        <li>
-                            <a href="contactUs"><i class="fa fa-angle-right"></i> Contact Us</a>
+                        <li class="">
+                            <a href="terms" ><i class="fa fa-angle-right"></i> Terms & Conditions  </a>
                         </li>
+                        
                     </ul>
                 </li>
             </ul>
 
-            <ul style="position:relative; bottom:10px;">
+            <ul style="position:relative; ">
                 <li style="">
                     <span style="color: white;padding-left:10px;">
                         <a href="http://facebook.com/korbaweb.com" target="_blank"><img src="img/other/side-fb.png" style="height:20px;margin-left:3px;"></a>
@@ -88,9 +89,9 @@
                         <a href="http://youtube.com/korbaweb.com" target="_blank"><img src="img/other/side-youtube.png" style="height:20px;"></a>
                     <span style="padding-left:10px;">Korbaweb</span></span>
                 </li>
-                <li class="">
-                    <a href="terms" style="display: block;color: white;
-                        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 16px;font-weight: 200;"> Terms & Conditions  </a>
+                <!-- sometn goes here -->
+                <li>
+                    <a href="contactUs" style="display: block;color: white;text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 16px;font-weight: 200;"> Contact Us</a>
                 </li>
             </ul>
         </div>
