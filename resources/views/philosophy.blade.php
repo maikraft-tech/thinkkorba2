@@ -8,12 +8,12 @@
     <div class="container-fluid" style="padding:0;">
         <img class="img-responsive" src="img/other/philo-wallpaper.jpg" alt="our philosophy" style="height: 47%;width: 100%; margin: 0;padding: 0;">
         <div class="info-box-r">
-            <p>Korba originated in 2015 with five principles dedicated to integrity and excellence in economic and financial
-                consulting
+            <p>Korba is a financial technology solution founded in 2015, on five core principles that form its character of dedication to integrity and excellence in economic and financial consulting.
             </p>
-            <p>Through gaining experience in various economic periods, our team is able to identify the best opportunities
-                whether we are in good times or bad . Good times provide growth in our portfolio and bad times, despite
-                the potential negative effects, can provide opportunities.</p>
+            <p>As the gap between the unbanked and self-service convenience was identified by Korba, so is the possibility of creative solutions, hence KORBA.
+            </p>
+            <p>Driven by our centered belief in People, Purpose and Possibilities, the Korba team of highly experienced professionals identify best opportunities in any given situation; and are able to create unique solutions to peculiar challenges or needs, relevant in the economic space.
+            </p>
         </div>
     </div>
 
