@@ -42,8 +42,8 @@
 <!-- finance -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Eli.jpg" alt="Daniel"/></div>
-          <div class="at-user__name">Eli Tsegah(DKA)</div>
+          <div class="at-user__avatar"><img src="img/board/Eli.jpg" alt="Eli"/></div>
+          <div class="at-user__name">Eli Tsegah</div>
           <div class="at-user__title">Role</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -223,7 +223,7 @@
         <!-- </div>
       </div> -->
 <!-- head projects -->
-      {{-- <div class="at-column">
+      <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/reuben.jpg" alt="Reuben"/></div>
           <div class="at-user__name">R. Kwesi Otoo(RKO)</div>
@@ -243,7 +243,7 @@
                 </svg></a></li>
           </ul> -->
         </div>
-      </div> --}}
+      </div>
 
       
 
