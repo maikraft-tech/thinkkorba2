@@ -196,8 +196,8 @@
                             <div class="about-item text-center hover-effect-all" style="border-radius: 25px; min-height: 300px;">
                                 <img src="img/other-products/korba-logo.jpg" class="other-products-img ">
                                 <hr>
-                                <h3>E-Solution</h3>
-                                <p>Bespoke remote banking platform to enable customers of financial institutions remotely access...
+                                <h3>E-Business</h3>
+                                <p>E-Business is a custom-made solution ready to be tailored for organisations that need real time...
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="/ebusiness" style="background: #ed1944;">Learn More</a>
                             </div>
@@ -210,8 +210,7 @@
                                 <img src="img/other-products/enterprise.png" class="other-products-img">
                                 <hr>
                                 <h3>Korba Enterprise</h3>
-                                <p>This module enables partner institutions to make bulk payments to individuals irrespective
-                                    of where financial...<br/>
+                                <p>Korba enterprise creates the possibility for institutions to make bulk payments.This process involves debiting...<br/>
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="/enterprise" style="background: #ed1944;">Learn More</a>
                             </div>
@@ -223,9 +222,8 @@
                             <div class="about-item text-center hover-effect-all" style="border-radius: 25px; min-height: 300px;">
                                 <img src="img/other-products/korba-exchange.jpg" class="other-products-img">
                                 <hr>
-                                <h3>Korba Exchange</h3>
-                                <p>The platform can also enable the provision of APIs with payment functionality to be plugged
-                                    into systems ...<br/>
+                                <h3>Korba Exchange (White Label)</h3>
+                                <p>Korba Exchange is a uniquely designed platform for institutions that need payment functionalities integrated into their systems...<br/>
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="/whitelabel" style="background: #ed1944;">Learn More</a>
                             </div>

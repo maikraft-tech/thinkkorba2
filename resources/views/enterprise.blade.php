@@ -12,10 +12,10 @@
     </div>
     <div class="info-box" >
         <p>
-        Korba enterprise creates access points to institutions to enable bulk payments to individuals of any financial platform such as banks, rural banks, savings and loans and any mobile money wallet. 
-This service is highly beneficial for the payment of insurance claims, salaries, loan disbursements etc. 
-
+            Korba enterprise creates the possibility for institutions to make bulk payments.
         </p>
+        <p>This process involves debiting one account and crediting multiple recipients on different financial platforms such as banks, rural banks, savings and loans and any mobile money wallet with just a click of a button. </p>
+        <p>This service is highly beneficial for the payment of insurance claims, salaries, loan disbursements, donations etc.</p>
     </div>
   
 </section>

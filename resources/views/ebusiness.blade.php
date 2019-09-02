@@ -11,10 +11,8 @@
         <img src="img/E-Business.jpg" >
     </div>
     <div class="info-box-ebusiness">
-        <p>
-        E-Business is a bespoke solution that enables organizations to reach their customers remotely. This solution gives a wide variety of customer’s access to their services at their convenience.
-        </p> 
-        <p>This will be highly beneficial to companies that need to reach their customers in the most effective way possible.</p>
+        <p>E-Business is a custom-made solution ready to be tailored for organisations that need real time online services for their customers.</p> 
+        <p>It is very beneficial for organisations keen on customer care and are happy to provide their customers convenience</p>
     </div>
     
 </section>

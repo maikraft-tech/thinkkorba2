@@ -12,10 +12,9 @@
     </div>
     <div class="info-box-white">
         <p>
-        Uniquely designed platform specifically for institutions with payment functionalities integrated into their systems for direct collection purposes.
-This solution proprietary rights belong to the engaged company.
-
+            Korba Exchange is a uniquely designed platform for institutions that need payment functionalities integrated into their systems that will enable direct payment collections.
         </p>
+        <p>Proprietary rights of this solution belongs to the engaged institution and will not be associated to the Korba brand in any form. Korba will also not be involved in the direct processing of transactions.</p>
     </div>
     
     
