@@ -255,7 +255,7 @@
                                 </div>
                                 <div class="col-md-2">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/MTN.jpg" alt="Mtn"/>
+                                        <img src="/img/client/Mtn.jpg" alt="Mtn"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
