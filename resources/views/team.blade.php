@@ -42,9 +42,9 @@
 <!-- finance -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Daniel.jpg" alt="Daniel"/></div>
-          <div class="at-user__name">D. K. Amuzu(DKA)</div>
-          <div class="at-user__title">Director, Finance and Sales</div>
+          <div class="at-user__avatar"><img src="img/board/Eli.jpg" alt="Daniel"/></div>
+          <div class="at-user__name">Eli Tsegah(DKA)</div>
+          <div class="at-user__title">Role</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -64,9 +64,9 @@
       <!-- head service delivery -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/kese.jpg" alt="Eric Tetteh"/></div>
-          <div class="at-user__name">K. Kwabena Awuah(KKA)</div>
-          <div class="at-user__title">Head, Service Delivery</div>
+          <div class="at-user__avatar"><img src="img/team/Clara.jpg" alt="Clara"/></div>
+          <div class="at-user__name">Clara</div>
+          <div class="at-user__title">Role</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -88,9 +88,9 @@
 <!-- head corporate -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/nana.jpg" alt="Nana Bonku"/></div>
-          <div class="at-user__name">N. Bonku Eshun(NBE)</div>
-          <div class="at-user__title">Head, Corporate Strategy</div>
+          <div class="at-user__avatar"><img src="img/team/Christy.jpg" alt="Christy"/></div>
+          <div class="at-user__name">Christy</div>
+          <div class="at-user__title">Role</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -109,7 +109,7 @@
       </div>
 
       <!-- retail -->
-      <div class="at-column">
+      {{-- <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img  alt="Edith Nadou"/></div>
           <div class="at-user__name">Edith Nadou Lawson(ENL)</div>
@@ -129,10 +129,10 @@
                 </svg></a></li>
           </ul> -->
         </div>
-      </div>
+      </div> --}}
 
 <!-- head smb -->
-      <div class="at-column">
+      {{-- <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/eric.jpg" alt="Eric Tetteh"/></div>
           <div class="at-user__name">E. Kwesi Tetteh(EKT)</div>
@@ -152,12 +152,12 @@
                 </svg></a></li>
           </ul> -->
         </div>
-      </div>
+      </div> --}}
 
 
       
 <!-- hr complinace -->
-      <div class="at-column">
+      {{-- <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/ama.jpg" alt="Ama"/></div>
           <div class="at-user__name">B. Ama Yeboah(BAY)</div>
@@ -177,9 +177,9 @@
                 </svg></a></li>
           </ul> -->
         </div>
-      </div>
+      </div> --}}
 <!-- head treasury -->
-      <div class="at-column">
+      {{-- <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/naa.jpg" alt="Naa Dede"/></div>
           <div class="at-user__name">N. Dedei Aryeetey(NDA)</div>
@@ -199,7 +199,7 @@
                 </svg></a></li>
           </ul> -->
         </div>
-      </div>
+      </div> --}}
 
       <!-- <div class="at-column">
         <div class="at-user">
@@ -223,7 +223,7 @@
         <!-- </div>
       </div> -->
 <!-- head projects -->
-      <div class="at-column">
+      {{-- <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/reuben.jpg" alt="Reuben"/></div>
           <div class="at-user__name">R. Kwesi Otoo(RKO)</div>
@@ -243,7 +243,7 @@
                 </svg></a></li>
           </ul> -->
         </div>
-      </div>
+      </div> --}}
 
       
 
