@@ -250,7 +250,18 @@
                             
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="cbrand_item m-bottom-10">
-                                    <img src="/img/client/clients.png" alt="first"  style="width:100%;"/>
+                                    <img src="/img/client/Prudential.jpg" alt="Prudential"  style="width:100%;"/>
+                                    <img src="/img/client/MTN.jpg" alt="MTN"  style="width:100%;"/>
+                                    <img src="/img/client/Busy.jpg" alt="Busy"  style="width:100%;"/>
+                                    <img src="/img/client/Airtel.jpg" alt="Airtel"  style="width:100%;"/>
+                                </div>
+                            </div>
+                            <div class="col-md-12 col-sm-12 col-xs-12">  
+                                <div class="cbrand_item m-bottom-10"> 
+                                    <img src="/img/client/Enterprise.jpg" alt="Enterprise"  style="width:100%;"/>
+                                    <img src="/img/client/Surfline.jpg" alt="Surfline"  style="width:100%;"/>
+                                    <img src="/img/client/UGCCU.jpg" alt="UGCCU"  style="width:100%;"/>
+                                    <img src="/img/client/Vodafone.jpg" alt="vodafone"  style="width:100%;"/>
                                 </div>
                             </div>
                             
