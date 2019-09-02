@@ -268,29 +268,29 @@
                                         <img src="/img/client/Airtel.jpg" alt="Airtel"/>
                                     </div>
                                 </div>
+                                <div class="col-md-2">
+                                    <div class="cbrand_item m-bottom-2">
+                                        <img src="/img/client/Enterprise.jpg" alt="Enterprise" />
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="cbrand_item m-bottom-2">
+                                        <img src="/img/client/Surfline.jpg" alt="Surfline"/>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="row">
-                                    <div class="col-md-2">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/Enterprise.jpg" alt="Enterprise" />
-                                        </div>
+                            <div class="row"> 
+                                <div class="col-md-6">
+                                    <div class="cbrand_item m-bottom-2">
+                                        <img src="/img/client/UGCCU.jpg" alt="UGCCU"/>
                                     </div>
-                                    <div class="col-md-2">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/Surfline.jpg" alt="Surfline"/>
-                                        </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="cbrand_item m-bottom-2">
+                                        <img src="/img/client/Vodafone.jpg" alt="Vodafone"/>
                                     </div>
-                                    <div class="col-md-2">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/UGCCU.jpg" alt="UGCCU"/>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/Vodafone.jpg" alt="Vodafone"/>
-                                        </div>
-                                    </div>
-                                </div> 
+                                </div>
+                            </div> 
                         </div>
                     </div><!-- End off row -->
                 </div>
