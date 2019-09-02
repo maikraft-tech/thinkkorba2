@@ -222,8 +222,8 @@
                             <div class="about-item text-center hover-effect-all" style="border-radius: 25px; min-height: 300px;">
                                 <img src="img/other-products/korba-exchange.jpg" class="other-products-img">
                                 <hr>
-                                <h3>Korba Exchange (White Label)</h3>
-                                <p>Korba Exchange is a uniquely designed platform for institutions that need payment functionalities integrated into their systems...<br/>
+                                <h3>Korba Exchange</h3>
+                                <p>Korba Exchange is a uniquely designed platform for institutions that need payment functionalities...<br/>
                                 </p>
                                 <a class="btn  btn-lg btn-block btn-danger pro-button" href="/whitelabel" style="background: #ed1944;">Learn More</a>
                             </div>

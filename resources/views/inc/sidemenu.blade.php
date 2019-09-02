@@ -1,4 +1,4 @@
-<div class="menu menu-bottom" id="menu" style="width: 25%; position:fixed; display:none; left:0px; height:97vh; background-color:#ed1944; opacity: 0.7; z-index:9;transition: 2.64s ease-in-out">
+<div class="menu menu-bottom" id="menu" style="width: 25%; position:fixed; display:none; left:0px; height:97vh; background-color:#ed1944; opacity: 0.9; z-index:9;transition: 2.64s ease-in-out">
     <div class="col-md-12 col-xs-12 col-lg-12" style="height:100%;">
         <div class="row">
             <span><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:30px; margin-bottom: 15px;"></span>
@@ -7,7 +7,7 @@
             <ul>
                 <li class="">
                     <a href="/" style="display: block;color: white;
-                        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Home  </a>
+                        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 250;"> Home  </a>
                 </li>
                 <li class="dropdown">
                     <a href="#" data-toggle="dropdown" >About Us <i class="icon-arrow"></i></a>
@@ -56,7 +56,7 @@
                 </li>                
                 <li class="">
                     <a href="partners" style="display: block;color: white;
-                    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 200;"> Partners </a>
+                    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 250;"> Partners </a>
                 </li>
                 <li class="dropdown">
                     <!-- <a href="contactUs.html" style="display: block;color: white;
