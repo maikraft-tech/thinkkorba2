@@ -248,7 +248,7 @@
                     <div class="row wow bounceInLeft">
                         <div class="main_cbrand text-center roomy-100">
                             <div class="row">
-                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="col-md-2">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Prudential.jpg" alt="Prudential" />
                                         <img src="/img/client/MTN.jpg" alt="MTN"/>
@@ -258,7 +258,7 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-md-12 col-sm-12 col-xs-12">  
+                                <div class="col-md-2">  
                                     <div class="cbrand_item m-bottom-2"> 
                                         <img src="/img/client/Enterprise.jpg" alt="Enterprise"/>
                                         <img src="/img/client/Surfline.jpg" alt="Surfline" />
