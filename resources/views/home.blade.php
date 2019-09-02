@@ -255,7 +255,7 @@
                                 </div>
                                 <div class="col-md-2">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/MTN.jpg" alt="MTN"/>
+                                        <img src="/img/client/MTN.jpg" alt="Mtn"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
@@ -280,12 +280,12 @@
                                 </div>
                             </div>
                             <div class="row"> 
-                                <div class="col-md-6">
+                                <div class="col-md-2">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/UGCCU.jpg" alt="UGCCU"/>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-2">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Vodafone.jpg" alt="Vodafone"/>
                                     </div>
