@@ -20,9 +20,9 @@
   <!-- ceo -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="/img/team/korshi.jpeg" alt="Korshi"/></div>
+          <div class="at-user__avatar"><img src="/img/team/korshi.jpeg" alt="N. Korhsi Da Seglah"/></div>
           <div class="at-user__name">N. Korhsi Da Seglah(KDS)</div>
-          <div class="at-user__title">Chief Enabling Officer <br>&amp; Head of Operations</div>
+          <div class="at-user__title">Chief Enabling Officer <br>&amp; Chief Solutions Architect</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -42,9 +42,9 @@
 <!-- finance -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/reuben.jpg" alt="Reuben"/></div>
+          <div class="at-user__avatar"><img src="img/team/reuben.jpg" alt="Reuben Otoo Darlington"/></div>
           <div class="at-user__name">Reuben Otoo Darlington (ROD)</div>
-          <div class="at-user__title">Role</div>
+          <div class="at-user__title">Head, Service Delivery</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -64,9 +64,9 @@
       <!-- head service delivery -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/Clara.jpg" alt="Clara"/></div>
-          <div class="at-user__name">Clara</div>
-          <div class="at-user__title">Role</div>
+          <div class="at-user__avatar"><img src="img/team/korkor.jpg" alt="Sam Korkor Owus"/></div>
+          <div class="at-user__name">Sam Korkor Owusu (SKO)</div>
+          <div class="at-user__title">Manager, Settlements and Revenue Assurance</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -88,9 +88,9 @@
 <!-- head corporate -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/Christy.jpg" alt="Christy"/></div>
-          <div class="at-user__name">Christy</div>
-          <div class="at-user__title">Role</div>
+          <div class="at-user__avatar"><img src="img/team/eli.jpg" alt="Eli Tsegah"/></div>
+          <div class="at-user__name">Eli Tsegah (ET)</div>
+          <div class="at-user__title">Manager, Brands & Marketing</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
@@ -225,9 +225,9 @@
 <!-- head projects -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/Eli.jpg" alt="Eli"/></div>
-          <div class="at-user__name">Eli Tsegah</div>
-          <div class="at-user__title">Role</div>
+          <div class="at-user__avatar"><img src="img/team/christy.jpg" alt="Christy Kweikor Sampson"/></div>
+          <div class="at-user__name">Christy Kweikor Sampson (CKS)</div>
+          <div class="at-user__title">Manager, SMB Strategy</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">
