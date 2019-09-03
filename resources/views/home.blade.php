@@ -183,8 +183,6 @@
                 </div>
             </div>
 
-
-
             <div class="content-box-sm">
                 <div class="vertical-heading">
                     <h2 style="margin-bottom: 5vh; text-align:center;">
@@ -233,7 +231,8 @@
                 </div>
   
             </div>
-
+        </div>
+    </section>
     <style>
     .img {
         position: relative;
@@ -244,6 +243,7 @@
         background-repeat:   no-repeat;
         background-size:     cover;
     }</style>
+    <section>
             <div class="content-box-sm">
                 <div class="container">
                     <div class="row">
@@ -307,7 +307,6 @@
                     </div><!-- End off row -->
                 </div>
             </div>
-        </div>
     </section>
 
 
