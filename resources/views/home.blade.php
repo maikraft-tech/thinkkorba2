@@ -272,22 +272,22 @@
                             <div class="row">
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Enterprise.jpg" alt="Enterprise" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Enterprise.jpg" alt="Enterprise" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Surfline.jpg" alt="Surfline" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Surfline.jpg" alt="Surfline" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/UGCCU.jpg" alt="UGCCU" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/UGCCU.jpg" alt="UGCCU" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Vodafone.jpg" alt="Vodafone" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Vodafone.jpg" alt="Vodafone" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                             </div> 
