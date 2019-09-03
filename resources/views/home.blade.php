@@ -244,7 +244,8 @@
         background-repeat:   no-repeat;
         background-size:     cover;
     }</style>
-            <div class="content-box-sm">
+        <div class="content-box-sm">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 text-center">
@@ -330,6 +331,7 @@
                             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:40px;"></span>
                             <span class="sr-only">Next</span>
                         </a>
+                    </div>
                 </div>
             </div>
         </div>
