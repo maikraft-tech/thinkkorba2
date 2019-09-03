@@ -256,55 +256,55 @@
                     </div>
                     <div class="row wow bounceInLeft">
                         <div class="main_cbrand text-center roomy-100">
-                            {{-- <div class="row"> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                            <div class="row">
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/Prudential.png" alt="Prudential" />
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/Mtn.png" alt="Mtn"/>
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/Busy.png" alt="Busy"  />
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/Airtel.png" alt="Airtel" />
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/Enterprise.png" alt="Enterprise" />
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/Surfline.png" alt="Surfline" />
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/UGCCU.png" alt="UGCCU" />
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/vodafone.png" alt="Vodafone" />
                                     </div>
-                                {{-- </div> --}}
-                                {{-- <div class="col-md-1 col-sm-1 col-xs-12"> --}}
+                                </div>
+                                <div class="col-md-2 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                     </div>
-                                {{-- </div> --}}
+                                </div>
                             </div>
                             {{-- <div class="row">
                                 <div class="col-md-1 col-sm-1 col-xs-12">
@@ -337,7 +337,7 @@
                                 </div>
                             </div>  --}}
                         </div>
-                    {{-- </div><!-- End off row --> --}}
+                    </div><!-- End off row -->
                 </div>
             </div>
         </div>
