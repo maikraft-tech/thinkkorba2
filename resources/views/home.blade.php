@@ -263,7 +263,7 @@
                             
                         </ol>
                         <!-- Wrapper for slides -->
-                        <div class="carousel-inner" role="listbox" >
+                        <div class="carousel-inner">
                             <div class="item active">
                                 <div class="main_cbrand text-center">
                                     <div class="row">
