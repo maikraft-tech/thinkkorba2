@@ -64,8 +64,8 @@
       <!-- head service delivery -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/korkor.jpg" alt="Sam Korkor Owus"/></div>
-          <div class="at-user__name">Sam Korkor Owusu (SKO)</div>
+          <div class="at-user__avatar"><img src="img/team/korkor.jpg" alt="Sam Korkor Owusu"/></div>
+          <div class="at-user__name">Sam Korkor Owusu(SKO)</div>
           <div class="at-user__title">Manager, Settlements and Revenue Assurance</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -89,7 +89,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/eli.jpg" alt="Eli Tsegah"/></div>
-          <div class="at-user__name">Eli Tsegah (ET)</div>
+          <div class="at-user__name">Eli Tsegah(ET)</div>
           <div class="at-user__title">Manager, Brands & Marketing</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -226,7 +226,7 @@
       <div class="at-column">
         <div class="at-user">
           <div class="at-user__avatar"><img src="img/team/christy.jpg" alt="Christy Kweikor Sampson"/></div>
-          <div class="at-user__name">Christy Kweikor Sampson (CKS)</div>
+          <div class="at-user__name">Christy Kweikor Sampson(CKS)</div>
           <div class="at-user__title">Manager, SMB Strategy</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
