@@ -257,10 +257,6 @@
                     <div class="row wow bounceInLeft">
                         <div class="main_cbrand text-center roomy-100">
                             <div class="row">
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                    </div>
-                                </div>
                                 <div class="col-md-2  col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/Prudential.png" alt="Prudential" />
@@ -293,49 +289,10 @@
                                 </div>
                                 <div class="col-md-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/UGCCU.png" alt="UGCCU" />
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
                                         <img src="/img/client/vodafone.png" alt="Vodafone" />
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                    </div>
-                                </div>
                             </div>
-                            {{-- <div class="row">
-                                <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                    </div>
-                                </div>
-                                <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Enterprise.png" alt="Enterprise" style="width: 100%; min-height: 100px; max-height: 100px "/>
-                                    </div>
-                                </div>
-                                <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Surfline.png" alt="Surfline" style="width: 100%; min-height: 100px; max-height: 100px "/>
-                                    </div>
-                                </div>
-                                <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/UGCCU.png" alt="UGCCU" style="width: 100%; min-height: 100px; max-height: 100px "/>
-                                    </div>
-                                </div>
-                                <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/vodafone.png" alt="Vodafone" style="width: 100%; min-height: 100px; max-height: 100px "/>
-                                    </div>
-                                </div>
-                                <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                    </div>
-                                </div>
-                            </div>  --}}
                         </div>
                     </div><!-- End off row -->
                 </div>
