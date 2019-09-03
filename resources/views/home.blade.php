@@ -110,10 +110,6 @@
         </div>
     </section>
     
-
-    
-
-   
     <!-- Other products -->
     <section id="other-products">
         <div id="about-02">
@@ -299,7 +295,7 @@
                                 </div>
                                 <div class="col-md-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/UGCCU.png" alt="UGCCU" style="min-height: 50px; width:100%"/>
+                                        <img src="/img/client/UGCCU.png" alt="UGCCU" style="max-height: 60px; width:100%"/>
                                     </div>
                                 </div>
                             </div>
