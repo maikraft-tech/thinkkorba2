@@ -15,7 +15,7 @@
     <div class="container" style="padding-top: 30px; position: relative;">
         <div class="row">
             <h2 style="text-align:center;">Our Partners</h2>
-            <div class="col-md-12 col-sm-12 col-xs-12 ">
+            <div class="col-md-12 col-sm-12 col-xs-12 " style="text-align:center;">
                 <img src="img/other/Our Partners 2.png" class="partners">  
             </div>
         </div>
