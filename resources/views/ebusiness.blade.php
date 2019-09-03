@@ -11,8 +11,8 @@
         <img src="img/E-Business.jpg" >
     </div>
     <div class="info-box-ebusiness">
-        <p>E-Business is a custom-made solution ready to be tailored for organisations that need real time online services for their customers.</p> 
-        <p>It is very beneficial for organisations keen on customer care and are happy to provide their customers convenience</p>
+        <p>E-Business is a custom made solution ready to be tailored for organisations that need real time online services for their customers.</p>
+        <p>It is very beneficial for organisations who care much about their customers and are happy to provide them convenience.</p>    
     </div>
     
 </section>
