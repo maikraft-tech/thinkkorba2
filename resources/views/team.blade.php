@@ -42,8 +42,8 @@
 <!-- finance -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/Eli.jpg" alt="Eli"/></div>
-          <div class="at-user__name">Eli Tsegah</div>
+          <div class="at-user__avatar"><img src="img/board/reuben.jpg" alt="Reuben"/></div>
+          <div class="at-user__name">Reuben Otoo Darlington (ROD)</div>
           <div class="at-user__title">Role</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
@@ -225,9 +225,9 @@
 <!-- head projects -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/reuben.jpg" alt="Reuben"/></div>
-          <div class="at-user__name">R. Kwesi Otoo(RKO)</div>
-          <div class="at-user__title">Head, Solutions Projects</div>
+          <div class="at-user__avatar"><img src="img/team/Eli.jpg" alt="Eli"/></div>
+          <div class="at-user__name">Eli Tsegah</div>
+          <div class="at-user__title">Role</div>
           <!-- <ul class="at-social">
             <li class="at-social__item"><a href="">
                 <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg">

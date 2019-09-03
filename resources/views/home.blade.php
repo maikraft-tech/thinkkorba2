@@ -248,44 +248,44 @@
                     <div class="row wow bounceInLeft">
                         <div class="main_cbrand text-center roomy-100">
                             <div class="row">
-                                <div class="col-md-2">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Prudential.jpg" alt="Prudential" />
+                                        <img src="/img/client/Prudential.jpg" alt="Prudential" style="width: 100%"/>
                                     </div>
                                 </div>
-                                <div class="col-md-2">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Mtn.jpg" alt="Mtn"/>
+                                        <img src="/img/client/Mtn.jpg" alt="Mtn" style="width: 100%"/>
                                     </div>
                                 </div>
-                                <div class="col-md-2">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Busy.jpg" alt="Busy"/>
+                                        <img src="/img/client/Busy.jpg" alt="Busy" style="width: 100%"/>
                                     </div>
                                 </div>
-                                <div class="col-md-2">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Airtel.jpg" alt="Airtel"/>
+                                        <img src="/img/client/Airtel.jpg" alt="Airtel" style="width: 100%"/>
                                     </div>
                                 </div>
-                                <div class="col-md-2">
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Enterprise.jpg" alt="Enterprise" />
                                     </div>
                                 </div>
-                                <div class="col-md-2">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Surfline.jpg" alt="Surfline"/>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row"> 
-                                <div class="col-md-2">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/UGCCU.jpg" alt="UGCCU"/>
                                     </div>
                                 </div>
-                                <div class="col-md-2">
+                                <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Vodafone.jpg" alt="Vodafone"/>
                                     </div>
