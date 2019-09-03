@@ -16,7 +16,7 @@
         <div class="row">
             <h2 style="text-align:center;">Our Partners</h2>
             <div class="col-md-12 col-sm-12 col-xs-12 " style="text-align:center;">
-                <img src="img/other/Our Partners 2.png" class="partners" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">  
+                <img src="img/other/Our Partners 2.png" class="partners" style="display: block; margin-left: auto; margin-right: auto;">  
             </div>
         </div>
         <div class="row" >
