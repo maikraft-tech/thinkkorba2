@@ -42,7 +42,7 @@
 <!-- finance -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/board/reuben.jpg" alt="Reuben"/></div>
+          <div class="at-user__avatar"><img src="img/team/reuben.jpg" alt="Reuben"/></div>
           <div class="at-user__name">Reuben Otoo Darlington (ROD)</div>
           <div class="at-user__title">Role</div>
           <!-- <ul class="at-social">
