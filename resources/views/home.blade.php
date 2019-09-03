@@ -250,44 +250,44 @@
                             <div class="row">
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Prudential.jpg" alt="Prudential" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Prudential.jpg" alt="Prudential" style="width: 100%; min-height: 50px; max-height: 50px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Mtn.jpg" alt="Mtn" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Mtn.jpg" alt="Mtn" style="min-height: 50px; max-height: 50px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Busy.jpg" alt="Busy" style="min-height: 100px; max-height: 100px " />
+                                        <img src="/img/client/Busy.jpg" alt="Busy" style="min-height: 50px; max-height: 50px " />
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Airtel.jpg" alt="Airtel" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Airtel.jpg" alt="Airtel" style="width: 100%; min-height: 50px; max-height: 50px "/>
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Enterprise.jpg" alt="Enterprise" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Enterprise.jpg" alt="Enterprise" style="min-height: 50px; max-height: 50px "/>
+                                    </div>50px
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="cbrand_item m-bottom-2">
+                                        <img src="/img/client/Surfline.jpg" alt="Surfline" style="min-height: 50px; max-height: 50px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Surfline.jpg" alt="Surfline" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/UGCCU.jpg" alt="UGCCU" style="min-height: 50px; max-height: 50px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/UGCCU.jpg" alt="UGCCU" style="min-height: 100px; max-height: 100px "/>
-                                    </div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Vodafone.jpg" alt="Vodafone" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Vodafone.jpg" alt="Vodafone" style="min-height: 50px; max-height: 50px "/>
                                     </div>
                                 </div>
                             </div> 
