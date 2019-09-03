@@ -294,7 +294,7 @@
                                 </div>
                                 <div class="col-md-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Unity.png" alt="Unity Link" style="min-height: 30px; max-height: 70px; width:100%"/>
+                                        <img src="/img/client/Unity.png" alt="Unity Link" style="min-height: 30px; max-height: 50px; width:80%"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-xs-12">
