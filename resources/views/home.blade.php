@@ -259,7 +259,7 @@
                             <div class="row">
                                 <div class="col-md-2  col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Prudential.png" alt="Prudential" />
+                                        <img src="/img/client/Prudential.png" alt="Prudential" style="min-height: 30px; max-height: 50px; width:100%"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-xs-12">
