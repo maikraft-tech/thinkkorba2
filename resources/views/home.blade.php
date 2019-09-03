@@ -255,12 +255,12 @@
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Mtn.jpg" alt="Mtn" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Mtn.jpg" alt="Mtn" style="min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Busy.jpg" alt="Busy" style="width: 100%; min-height: 100px; max-height: 100px " />
+                                        <img src="/img/client/Busy.jpg" alt="Busy" style="min-height: 100px; max-height: 100px " />
                                     </div>
                                 </div>
                                 <div class="col-md-3">
@@ -272,22 +272,22 @@
                             <div class="row">
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Enterprise.jpg" alt="Enterprise" />
+                                        <img src="/img/client/Enterprise.jpg" alt="Enterprise" style="min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Surfline.jpg" alt="Surfline"/>
+                                        <img src="/img/client/Surfline.jpg" alt="Surfline" style="min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/UGCCU.jpg" alt="UGCCU"/>
+                                        <img src="/img/client/UGCCU.jpg" alt="UGCCU" style="min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                                 <div class="col-md-3">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Vodafone.jpg" alt="Vodafone"/>
+                                        <img src="/img/client/Vodafone.jpg" alt="Vodafone" style="min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
                             </div> 
