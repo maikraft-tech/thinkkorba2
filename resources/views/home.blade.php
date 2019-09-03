@@ -299,7 +299,7 @@
                                 </div>
                                 <div class="col-md-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/UGCCU.png" alt="UGCCU" style="max-height: 100px; width:100%"/>
+                                        <img src="/img/client/UGCCU.png" alt="UGCCU" style="max-height: 100px; width:150%"/>
                                     </div>
                                 </div>
                             </div>
