@@ -252,61 +252,90 @@
                                     <div class="cbrand_item m-bottom-2">
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Prudential.png" alt="Prudential" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Mtn.png" alt="Mtn" style="min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Busy.png" alt="Busy" style="min-height: 100px; max-height: 100px " />
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-2 col-sm-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Enterprise.png" alt="Enterprise" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
+                                        <div class="cbrand_item m-bottom-2">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-1 col-sm-1 col-xs-12">
+                                        <div class="cbrand_item m-bottom-2">
+                                            <img src="/img/client/Enterprise.png" alt="Enterprise" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-1 col-sm-1 col-xs-12">
+                                        <div class="cbrand_item m-bottom-2">
+                                            <img src="/img/client/Surfline.png" alt="Surfline" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-1 col-sm-1 col-xs-12">
+                                        <div class="cbrand_item m-bottom-2">
+                                            <img src="/img/client/UGCCU.png" alt="UGCCU" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-1 col-sm-1 col-xs-12">
+                                        <div class="cbrand_item m-bottom-2">
+                                            <img src="/img/client/vodafone.png" alt="Vodafone" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-1 col-sm-1 col-xs-12">
+                                        <div class="cbrand_item m-bottom-2">
+                                        </div>
+                                    </div>
+                            </div>
+                            {{-- <div class="row">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
+                                    <div class="cbrand_item m-bottom-2">
+                                    </div>
+                                </div>
+                                <div class="col-md-1 col-sm-1 col-xs-12">
+                                    <div class="cbrand_item m-bottom-2">
+                                        <img src="/img/client/Enterprise.png" alt="Enterprise" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                    </div>
+                                </div>
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/Surfline.png" alt="Surfline" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                         <img src="/img/client/UGCCU.png" alt="UGCCU" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Vodafone.png" alt="Vodafone" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/vodafone.png" alt="Vodafone" style="width: 100%; min-height: 100px; max-height: 100px "/>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
                                     </div>
                                 </div>
-                            </div> 
+                            </div>  --}}
                         </div>
                     </div><!-- End off row -->
                 </div>
