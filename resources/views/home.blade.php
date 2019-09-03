@@ -255,7 +255,7 @@
                         </div>
                     </div>
                     <div class="row wow bounceInLeft">
-                        <div class="main_cbrand text-center roomy-100">
+                        <div class="main_cbrand text-center">
                             <div class="row">
                                 <div class="col-md-2  col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
@@ -289,7 +289,7 @@
                                 </div>
                                 <div class="col-md-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/vodafone.png" alt="Vodafone" />
+                                        <img src="/img/client/vodafone.png" alt="Vodafone" style="min-height: 30px; max-height: 50px; width:100%"/>
                                     </div>
                                 </div>
                             </div>
