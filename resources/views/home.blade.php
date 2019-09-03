@@ -254,22 +254,22 @@
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Prudential.jpg" alt="Prudential" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Prudential.jpg" alt="Prudential"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Mtn.jpg" alt="Mtn" style="min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Mtn.jpg" alt="Mtn"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Busy.jpg" alt="Busy" style="min-height: 100px; max-height: 100px " />
+                                        <img src="/img/client/Busy.jpg" alt="Busy"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Airtel.jpg" alt="Airtel" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <img src="/img/client/Airtel.jpg" alt="Airtel"/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-2 col-xs-12">
