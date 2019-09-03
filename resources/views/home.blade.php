@@ -274,7 +274,7 @@
                                 </div>
                                 <div class="col-md-2 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Airtel.png" alt="Airtel" />
+                                        <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 100px; max-height: 100px/>
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-xs-12">
