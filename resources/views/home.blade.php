@@ -255,56 +255,81 @@
                         </div>
                     </div>
                     <div class="row wow bounceInLeft">
-                        <div class="main_cbrand text-center">
-                            <div class="row">
-                                <div class="col-md-2  col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Prudential.png" alt="Prudential" style="min-height: 30px; max-height: 50px; width:100%"/>
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                            
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox" >
+                            <div class="item active">
+                                <div class="main_cbrand text-center">
+                                    <div class="row">
+                                        <div class="col-md-2  col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/Prudential.png" alt="Prudential" style="min-height: 30px; max-height: 50px; width:100%"/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/Mtn.png" alt="Mtn"/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/Busy.png" alt="Busy"  />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 30px; max-height: 60px; width:100%"/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/Enterprise.png" alt="Enterprise" style="min-height: 30px; max-height: 50px; width:100%" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/Surfline.png" alt="Surfline" style="min-height: 30px; max-height: 50px; width:100%" />
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Mtn.png" alt="Mtn"/>
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Busy.png" alt="Busy"  />
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 30px; max-height: 60px; width:100%"/>
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Enterprise.png" alt="Enterprise" style="min-height: 30px; max-height: 50px; width:100%" />
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Surfline.png" alt="Surfline" style="min-height: 30px; max-height: 50px; width:100%" />
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/vodafone.png" alt="Vodafone" style="min-height: 30px; max-height: 50px; width:100%"/>
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Unity.png" alt="Unity Link" style="min-height: 30px; max-height: 50px; width:80%"/>
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/UGCCU.png" alt="UGCCU" style="min-height: 50px; width:100%"/>
+                            </div>
+                            <div class="item ">
+                                <div class="main_cbrand text-center">
+                                    <div class="row"> 
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/vodafone.png" alt="Vodafone" style="min-height: 30px; max-height: 50px; width:100%"/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/Unity.png" alt="Unity Link" style="min-height: 30px; max-height: 50px; width:80%"/>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2 col-xs-12">
+                                            <div class="cbrand_item m-bottom-2 img">
+                                                <img src="/img/client/UGCCU.png" alt="UGCCU" style="min-height: 50px; width:100%"/>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div><!-- End off row -->
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true" style="font-size:40px;"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:40px;"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
                 </div>
             </div>
         </div>
