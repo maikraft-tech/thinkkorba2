@@ -283,37 +283,28 @@
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
                                     <div class="cbrand_item m-bottom-2 img">
-                                        <img src="/img/client/Enterprise.png" alt="Enterprise"/>
+                                        <img src="/img/client/Enterprise.png" alt="Enterprise" />
                                     </div>
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2 img">
-                                        </div>
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/Surfline.png" alt="Surfline" />
                                     </div>
-                                    <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2 img">
-                                            <img src="/img/client/Enterprise.png" alt="Enterprise" />
-                                        </div>
+                                </div>
+                                <div class="col-md-1 col-sm-1 col-xs-12">
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/UGCCU.png" alt="UGCCU" />
                                     </div>
-                                    <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2 img">
-                                            <img src="/img/client/Surfline.png" alt="Surfline" />
-                                        </div>
+                                </div>
+                                <div class="col-md-1 col-sm-1 col-xs-12">
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/vodafone.png" alt="Vodafone" />
                                     </div>
-                                    <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2 img">
-                                            <img src="/img/client/UGCCU.png" alt="UGCCU" />
-                                        </div>
+                                </div>
+                                <div class="col-md-1 col-sm-1 col-xs-12">
+                                    <div class="cbrand_item m-bottom-2 img">
                                     </div>
-                                    <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2 img">
-                                            <img src="/img/client/vodafone.png" alt="Vodafone" />
-                                        </div>
-                                    </div>
-                                    <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2 img">
-                                        </div>
-                                    </div>
+                                </div>
                             </div>
                             {{-- <div class="row">
                                 <div class="col-md-1 col-sm-1 col-xs-12">
