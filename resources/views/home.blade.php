@@ -234,7 +234,16 @@
   
             </div>
 
-            
+    <style>
+    .img {
+        position: relative;
+        float: left;
+        width:  100px;
+        height: 100px;
+        background-position: 50% 50%;
+        background-repeat:   no-repeat;
+        background-size:     cover;
+    }</style>
             <div class="content-box-sm">
                 <div class="container">
                     <div class="row">
@@ -253,56 +262,56 @@
                                     </div>
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Prudential.png" alt="Prudential" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/Prudential.png" alt="Prudential" />
                                     </div>
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Mtn.png" alt="Mtn" style="min-height: 100px; max-height: 100px "/>
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/Mtn.png" alt="Mtn"/>
                                     </div>
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Busy.png" alt="Busy" style="min-height: 100px; max-height: 100px " />
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/Busy.png" alt="Busy"  />
                                     </div>
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 100px; max-height: 100px "/>
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/Airtel.png" alt="Airtel" />
                                     </div>
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
-                                    <div class="cbrand_item m-bottom-2">
-                                        <img src="/img/client/Enterprise.png" alt="Enterprise" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                    <div class="cbrand_item m-bottom-2 img">
+                                        <img src="/img/client/Enterprise.png" alt="Enterprise"/>
                                     </div>
                                 </div>
                                 <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2">
+                                        <div class="cbrand_item m-bottom-2 img">
                                         </div>
                                     </div>
                                     <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/Enterprise.png" alt="Enterprise" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <div class="cbrand_item m-bottom-2 img">
+                                            <img src="/img/client/Enterprise.png" alt="Enterprise" />
                                         </div>
                                     </div>
                                     <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/Surfline.png" alt="Surfline" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <div class="cbrand_item m-bottom-2 img">
+                                            <img src="/img/client/Surfline.png" alt="Surfline" />
                                         </div>
                                     </div>
                                     <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/UGCCU.png" alt="UGCCU" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <div class="cbrand_item m-bottom-2 img">
+                                            <img src="/img/client/UGCCU.png" alt="UGCCU" />
                                         </div>
                                     </div>
                                     <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2">
-                                            <img src="/img/client/vodafone.png" alt="Vodafone" style="width: 100%; min-height: 100px; max-height: 100px "/>
+                                        <div class="cbrand_item m-bottom-2 img">
+                                            <img src="/img/client/vodafone.png" alt="Vodafone" />
                                         </div>
                                     </div>
                                     <div class="col-md-1 col-sm-1 col-xs-12">
-                                        <div class="cbrand_item m-bottom-2">
+                                        <div class="cbrand_item m-bottom-2 img">
                                         </div>
                                     </div>
                             </div>
