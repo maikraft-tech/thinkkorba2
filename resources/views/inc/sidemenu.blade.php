@@ -32,9 +32,9 @@
                         <!-- <li>
                             <a href="subscribe"><i class="fa fa-angle-right"></i> Subscribe to Korba</a>
                         </li> -->
-                        <li>
+                        {{-- <li>
                             <a href="gallery"><i class="fa fa-angle-right"></i> Gallery</a>
-                        </li>
+                        </li> --}}
                     </ul>
                 </li>
                 <li class="dropdown">

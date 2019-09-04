@@ -6,7 +6,7 @@
 <section id="contact"  >
     <div class="name-heading">
         <div class="row">
-            <h2> Contact Us </h2>
+            <h3> Contact Us </h3>
         </div>  
     </div>
     
@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side -->
-                    <div id="contact-left">
+                    <div>
                         <div class="vertical-heading">
                             <h2 style="margin-bottom: 10px;">Need help?</h2>
                         </div>
@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div id="contact-right">
+                    <div>
                         <form action="{{ url('contactUs') }}" method="POST">
                             <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
