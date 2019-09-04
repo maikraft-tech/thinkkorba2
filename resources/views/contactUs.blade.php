@@ -15,12 +15,13 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br><br>
-                    <div id="contact-right">
+                    <div id="contact-left">
+                        <h3>Need help?</h3>
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
-                                            <h3 class="text-center">Need help?</h3>
+
                                         <ul style="list-style: none; margin-left: 40px;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
