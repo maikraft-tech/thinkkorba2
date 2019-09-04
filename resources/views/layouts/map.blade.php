@@ -14,7 +14,12 @@
     <link rel="stylesheet" type="text/css" href="css/font-awesome/css/font-awesome.min.css">
     <!-- Bootsrap css -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css">
-
+    
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+    
     <!-- <link rel="stylesheet" type="text/css" href="css/onepage-scroll.css"> -->
     
     <!-- Owl Carousel -->
