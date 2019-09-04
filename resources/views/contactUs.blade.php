@@ -16,9 +16,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side -->
                     <div id="contact-left">
-                        <div class="vertical-heading">
-                            <h3 style="margin-bottom: 10px;">Need help?</h3>
-                        </div>
+                    <form>
+                            <h3>Need help?</h3>
 
                         <div id="offices">
                             <div class="row">
@@ -48,7 +47,7 @@
                                 </div>
                             </div>
                         </div>
-
+                    </form>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
