@@ -1,14 +1,13 @@
 @extends('layouts.map')
+
 @section('content')
 
 
 <section id="contact"  >
     <div class="name-heading">
         <div class="row">
-            <h2>  Contact Us </h2>
-        </div>
-        
-         
+            <h2> Contact Us </h2>
+        </div>  
     </div>
     
     <div class="content-box-md">
@@ -16,35 +15,44 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side -->
-                    <div>
+                    <div id="contact-left">
                         <div class="vertical-heading">
                             <h2 style="margin-bottom: 10px;">Need help?</h2>
                         </div>
-                        <div class="row">
-                            <ul style="list-style: none; margin-left: 40px;">
-                                <li >
-                                    <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
-                                    <span>1st Floor,Fodai Plaza,
-                                    <br>Community 18 Junction
-                                    <br>Baatsona, Accra</span>
-                                </li>
-                                <li>
-                                    <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Phone</b></h5>
-                                    <!-- <i class="fa fa-mobile"></i> -->
-                                    <span>(+233) 2040 4010</span>
-                                </li>
-                                <li>
-                                        <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Mailing Address</b></h5>
-                                    <span>P.O.Box GP 18376,
-                                    <br>Accra,Ghana.</span>
-                                </li>
-                                
-                            </ul>
+
+                        <div id="offices">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="office" >
+
+                                        <ul style="list-style: none; margin-left: 40px;">
+                                            <li >
+                                                <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
+                                                <span>1st Floor,Fodai Plaza,
+                                                <br>Community 18 Junction
+                                                <br>Baatsona, Accra</span>
+                                            </li>
+                                            <li>
+                                                <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Phone</b></h5>
+                                                <!-- <i class="fa fa-mobile"></i> -->
+                                                <span>(+233) 2040 4010</span>
+                                            </li>
+                                            <li>
+                                                    <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Mailing Address</b></h5>
+                                                <span>P.O.Box GP 18376,
+                                                <br>Accra,Ghana.</span>
+                                            </li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div>
+                    <div id="contact-right">
                         <form action="{{ url('contactUs') }}" method="POST">
                             <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
