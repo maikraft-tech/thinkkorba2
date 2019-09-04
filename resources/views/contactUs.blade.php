@@ -17,13 +17,13 @@
                     <!-- contact left side -->
                     <div id="contact-left">
                         <div class="vertical-heading">
-                            <h2 style="margin-bottom: 10px;">Need help?</h2>
+                            <h3 style="margin-bottom: 10px;">Need help?</h3>
                         </div>
 
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <div class="office" >
+                                    <div>
 
                                         <ul style="list-style: none; margin-left: 40px;">
                                             <li >
