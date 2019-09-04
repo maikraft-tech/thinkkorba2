@@ -14,9 +14,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
-                    <!-- contact left side --><br><br>
+                    <!-- contact left side --><br>
                     <div id="contact-left">
-                        <h3>Need help?</h3>
+                        <h3 class="text-right">Need help?</h3>
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
