@@ -20,7 +20,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
-                                            <h3>Need help?</h3>
+                                            <h3 class="text-center">Need help?</h3>
                                         <ul style="list-style: none; margin-left: 40px;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
