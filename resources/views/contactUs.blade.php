@@ -6,7 +6,7 @@
 <section id="contact"  >
     <div class="name-heading">
         <div class="row">
-            <h2> Contact Us </h2>
+            <h2 style="font-family: 'Merriweather' !important;"> Contact Us </h2>
         </div>  
     </div>
     
