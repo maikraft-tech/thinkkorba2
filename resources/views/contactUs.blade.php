@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br><br>
-                    <div id="contact-left">
+                    <div id="contact-right">
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
