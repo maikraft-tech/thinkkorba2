@@ -1207,6 +1207,12 @@ ul.social-list li:nth-child(3) a:hover{
 	;padding-bottom: 15px;
 }
 /*contact left*/
+#contact-left{
+	padding: 25px 30px;
+	-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0 0.1);
+	box-shadow: 0 0 10px 0 rgba(0,0,0 0.1);
+	border-radius: 4px; 
+}
 #contact-left p{
 	margin: 25px 0 20px 0;
 }
