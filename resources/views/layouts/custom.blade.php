@@ -83,7 +83,7 @@
                 }
                 });
         
-            $('.menu-bar').on('click', () => {
+            $('.dropdown-menu').on('click', () => {
                 $menu.toggleClass('is-active');
         });</script>
 <!-- this is the chat plugin -->
