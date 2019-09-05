@@ -14,7 +14,7 @@
             <div class="row">
                 
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div id="contact-right">
+                    <div id="contact-left">
                         <form action="{{ url('contactUs') }}" method="POST">
                             <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br>
-                    <div id="contact-left">
+                    <div id="contact-right">
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
