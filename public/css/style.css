@@ -544,7 +544,7 @@ a:visited {
 		height: 100vh;
 		bottom: 0;
 		right: 0;
-		background-color: #a8a8a8;
+		background-color: rgba(0, 0, 0, 0.8);
 		z-index: 2;
 		visibility: hidden;
 		opacity: 0;
