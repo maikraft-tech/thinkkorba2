@@ -10,8 +10,7 @@
         </div>  
     </div>
     
-    <div class="content-box-md">
-        <div class="container">
+        <div class="container" style="padding-top: 30px; position: relative;">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br>
@@ -70,7 +69,7 @@
                             </div>
 
                             <div class="form-group">
-                                <textarea class="form-control" name="message" id="message" placeholder="Message goes here"></textarea>
+                                <textarea class="form-control" rows="4" style="width:50%" name="message" id="message" placeholder="Message goes here"></textarea>
                             </div>
                             <div id="submit-btn">
                                 <a href="#" class="btn btn-general" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
@@ -84,7 +83,6 @@
                 
         </div>
 
-    </div>
 </section>
 
 @endsection
