@@ -16,6 +16,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br>
                     <div id="contact-left">
+                            {!! $map['html'] !!}
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
