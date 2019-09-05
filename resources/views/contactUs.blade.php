@@ -10,8 +10,7 @@
         </div>  
     </div>
     
-    <div class="content-box-md">
-        <div class="container">
+        <div class="container" style="padding-top: 30px; position: relative;">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --> 
@@ -27,7 +26,7 @@
                                         <ul style="list-style: none; margin-left: 40px;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
-                                                <span>1st Floor,Fodai Plaza,
+                                                <span>1st Floor, Fodai Plaza,
                                                 <br>Community 18 Junction
                                                 <br>Baatsona, Accra</span>
                                             </li>
@@ -81,7 +80,6 @@
             
                 
         </div>
-    </div>
 </section>
 
 @endsection
