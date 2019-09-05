@@ -852,7 +852,7 @@
 		max-height: 600px;
 		width: 75%;
 		height: 85%;
-		background-color: #fff;
+		background-color: #a8a8a8;
 		-webkit-transform: rotate(32deg);
 						transform: rotate(32deg);
 		transition: .64s ease-in-out;
