@@ -13,9 +13,37 @@
     <div class="content-box-md">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12"> 
-                    <!-- contact left side --><br>
+               
+                <div class="col-md-6 col-sm-6 col-xs-12">
                     <div id="contact-left">
+                        <form action="{{ url('contactUs') }}" method="POST">
+                            <h3>Leave a Message</h3>
+                            <p>Please fill out the form and we will get in touch soon</p>
+                            <div class="row">
+                            <div class="col-md-6 col-sm-6">
+                                <div class="form-group">
+                                <input type="text" name="username" class="form-control" id="name" placeholder="Enter your name here">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-6">
+                                <div class="form-group">
+                                <input type="email" name="email" class="form-control" id="email" placeholder="Enter your email here">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <textarea class="form-control" name="message" id="message" placeholder="Message goes here"></textarea>
+                            </div>
+                            <div id="submit-btn">
+                                <a href="#" class="btn btn-general" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                 <div class="col-md-6 col-sm-6 col-xs-12"> 
+                    <!-- contact left side --><br>
+                    {!! $map['html'] !!}
+                    <div id="contact-right">
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
@@ -47,43 +75,17 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div id="contact-right">
-                        <form action="{{ url('contactUs') }}" method="POST">
-                            <h3>Leave a Message</h3>
-                            <p>Please fill out the form and we will get in touch soon</p>
-                            <div class="row">
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-group">
-                                <input type="text" name="username" class="form-control" id="name" placeholder="Enter your name here">
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6">
-                                <div class="form-group">
-                                <input type="email" name="email" class="form-control" id="email" placeholder="Enter your email here">
-                                </div>
-                            </div>
-
-                            <div class="form-group">
-                                <textarea class="form-control" name="message" id="message" placeholder="Message goes here"></textarea>
-                            </div>
-                            <div id="submit-btn">
-                                <a href="#" class="btn btn-general" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
-                            </div>
-                        </form>
-                    </div>
-                </div>
             </div> 
 
             
                 
         </div>
 
-        <div class="container-fluid">
+        {{-- <div class="container-fluid">
            
-                {!! $map['html'] !!}
+               
             
-        </div>
+        </div> --}}
     </div>
 </section>
 
