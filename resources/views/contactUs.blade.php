@@ -15,7 +15,12 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br>
-                    <div id="contact-right">
+                    <div id="contact-right">          
+                        <div class="container-fluid">
+                        
+                                {!! $map['html'] !!}
+                            
+                        </div> 
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
@@ -79,11 +84,6 @@
                 
         </div>
 
-        <div class="container-fluid">
-           
-                {!! $map['html'] !!}
-            
-        </div>
     </div>
 </section>
 
