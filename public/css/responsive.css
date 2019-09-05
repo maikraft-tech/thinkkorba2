@@ -1064,11 +1064,11 @@
 		font-weight: 600;
 		margin-bottom: 2rem;
 		text-transform: uppercase;
-		color: #0A0A0A;
+		color: #fff;
 	}
 	.popup__text p {
 		font-size: 9px;
-		color: #686868;
+		color: #fff;
 		line-height: 1.5;
 	}
 
