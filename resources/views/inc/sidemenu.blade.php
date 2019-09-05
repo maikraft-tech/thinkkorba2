@@ -44,9 +44,6 @@
                             <a href="ebusiness"><i class="fa fa-angle-right"></i> Korba E-Business</a>
                         </li>
                         <li>
-                            <a href="ebanking"><i class="fa fa-angle-right"></i> Korba E-Banking</a>
-                        </li>
-                        <li>
                             <a href="enterprise"><i class="fa fa-angle-right"></i> Korba Enterprise</a>
                         </li>
                         <li>
