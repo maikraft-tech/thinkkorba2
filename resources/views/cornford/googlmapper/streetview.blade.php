@@ -1,4 +1,4 @@
-<div id="map-canvas-{!! $id !!}" style="height: 100%; margin: 0; padding: 0;"></div>
+<div id="map-canvas-{!! $id !!}" style="height: 50%; margin: 0; padding: 0;"></div>
 
 <script type="text/javascript">
 
