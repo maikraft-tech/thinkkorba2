@@ -14,8 +14,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
-                    <!-- contact left side --><br><br> <h2 style="margin-left: 40px;">Visit Our Office</h2><br>
+                    <!-- contact left side --><br> 
                     <div id="contact-left">
+                            <h2 style="margin-left: 40px;">Visit Our Office</h2>
                             {!! $map['html'] !!}
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
@@ -50,8 +51,8 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div id="contact-right">
-                        <form action="{{ url('contactUs') }}" method="POST">
-                                <h2 style="margin-left: 40px;">Have a Question?</h2>
+                            <h2 style="margin-left: 40px;">Have a Question?</h2>
+                        <form action="{{ url('contactUs') }}" method="POST"><br>
                             <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
                             <div class="row">
@@ -70,7 +71,7 @@
                                 <textarea class="form-control" name="message" id="message" placeholder="Message goes here"></textarea>
                             </div>
                             <div id="submit-btn">
-                                <a href="#" class="btn btn-general" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
+                                <a href="#" class="btn btn-general" style="float:right" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
                             </div>
                         </form>
                     </div>
