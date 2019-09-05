@@ -14,10 +14,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
-                    <!-- contact left side --><br> 
+                    <!-- contact left side --> 
                     <div id="contact-left">
                             <h2 style="margin-left: 40px;">Visit Our Office</h2>
-                            {!! $map['html'] !!}
+                            <div id="map"> {!! $map['html'] !!} </div>
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
