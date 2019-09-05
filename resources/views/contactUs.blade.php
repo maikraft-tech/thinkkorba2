@@ -42,19 +42,18 @@
 
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br>
-                    <div id="contact-left">          
-                        <div class="container-fluid">
-                                <h2>Our Office</h2>
-                                {!! $map['html'] !!}
-                            
-                        </div> 
-                        <h3 style="margin-right: 40px;">Need help?</h3>
+                    <div id="contact-right"> 
+                        <h2>Our Office</h2>
+
+                        {!! $map['html'] !!}
+
+                        <h3>Need help?</h3>
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
 
-                                        <ul style="list-style: none; margin-left: 40px;">
+                                        <ul style="list-style: none; margin-right: 60px;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
                                                 <span>1st Floor,Fodai Plaza,
