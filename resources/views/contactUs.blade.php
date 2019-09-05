@@ -10,7 +10,7 @@
         </div>  
     </div>
     
-    <div class="content-box-md">
+    <div class="container" style="padding-top: 30px; position: relative;">
         <div class="container">
             <div class="row">
                 
@@ -73,10 +73,7 @@
                         </div>
                     </div>
                 </div>
-            </div> 
-
-            
-                
+            </div>        
         </div>
 
         {{-- <div class="container-fluid">
