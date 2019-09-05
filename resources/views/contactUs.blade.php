@@ -13,8 +13,8 @@
     <div class="container" style="padding-top: 30px; position: relative;">
             <div class="row">
                 
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div id="contact-left">
+                <div class="col-md-6">
+                    <div id="contact-right">
                         <form action="{{ url('contactUs') }}" method="POST">
                             <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
@@ -39,13 +39,11 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12"> 
+                <div class="col-md-6"> 
                     <!-- contact left side --><br>
-                    <div id="contact-right">
+                    <div id="contact-left">
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
-                            <div class="row">
-                                <div class="col-md-12">
                                     <div>
                                         <ul style="list-style: none; margin-left: 40px;">
                                             <li >
@@ -67,8 +65,7 @@
                                             
                                         </ul>
                                     </div>
-                                </div>
-                            </div>
+                                
                         </div>
                     </div>
                 </div>
