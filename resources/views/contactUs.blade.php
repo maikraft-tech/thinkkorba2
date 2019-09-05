@@ -42,14 +42,13 @@
 
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br>
-                    
-                    <div id="contact-right">          
+                    <div id="contact-left">          
                         <div class="container-fluid">
                                 <h2>Our Office</h2>
                                 {!! $map['html'] !!}
                             
                         </div> 
-                        <h3 style="margin-left: 40px;">Need help?</h3>
+                        <h3 style="margin-right: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
