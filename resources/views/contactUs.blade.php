@@ -10,12 +10,13 @@
         </div>  
     </div>
     
-        <div class="container" style="padding-top: 30px; position: relative;">
+    <div class="content-box-md">
+        <div class="container">
             <div class="row">
+                
                 <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div id="contact-left">
+                    <div id="contact-right">
                         <form action="{{ url('contactUs') }}" method="POST">
-                            <h2>Have a Question?</h2><br>
                             <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
                             <div class="row">
@@ -31,29 +32,25 @@
                             </div>
 
                             <div class="form-group">
-                                <textarea class="form-control" rows="4" style="width:100%" name="message" id="message" placeholder="Message goes here"></textarea>
+                                <textarea class="form-control" name="message" id="message" placeholder="Message goes here"></textarea>
                             </div>
                             <div id="submit-btn">
-                                <a href="#" class="btn btn-general" style="float:right" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
+                                <a href="#" class="btn btn-general" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
                             </div>
                         </form>
                     </div>
                 </div>
-
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --><br>
-                    <div id="contact-right"> 
-                        <h2>Our Office</h2>
-
-                        {!! $map['html'] !!}
-
-                        <h3>Need help?</h3>
+                    <div id="contact-left">
+                           <div style="width:50%; margin-left: 40px"> {!! $map['html'] !!}</div>
+                        <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
 
-                                        <ul style="list-style: none; margin-right: 60px;">
+                                        <ul style="list-style: none; margin-left: 40px;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
                                                 <span>1st Floor,Fodai Plaza,
@@ -78,13 +75,18 @@
                         </div>
                     </div>
                 </div>
-                
             </div> 
 
             
                 
         </div>
 
+        {{-- <div class="container-fluid">
+           
+                
+            
+        </div> --}}
+    </div>
 </section>
 
 @endsection
