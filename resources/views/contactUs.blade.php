@@ -10,8 +10,6 @@
         </div>  
     </div>
     
-    <div class="content-box-md">
-        <div class="container">
             <div class="row">
                 <div class="col-md-6"> 
                     <!-- contact left side -->
