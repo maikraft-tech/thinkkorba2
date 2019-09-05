@@ -17,7 +17,7 @@
                     <!-- contact left side --> 
                     <div id="contact-left">
                             <h2 style="margin-left: 40px;">Visit Our Office</h2>
-                            <div style="height:250px"> {!! $map['html'] !!} </div>
+                            {!! $map['html'] !!
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
