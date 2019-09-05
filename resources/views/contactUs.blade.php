@@ -14,7 +14,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
-                    <!-- contact left side --><br>
+                    <!-- contact left side --> <h2 style="margin-left: 40px;">Visit Our Office</h2><br>
                     <div id="contact-left">
                             {!! $map['html'] !!}
                         <h3 style="margin-left: 40px;">Need help?</h3>
@@ -51,6 +51,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div id="contact-right">
                         <form action="{{ url('contactUs') }}" method="POST">
+                                <h2 style="margin-left: 40px;">Have a Question?</h2>
                             <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
                             <div class="row">
@@ -78,12 +79,6 @@
 
             
                 
-        </div>
-
-        <div class="container-fluid">
-           
-                {!! $map['html'] !!}
-            
         </div>
     </div>
 </section>
