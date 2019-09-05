@@ -11,7 +11,6 @@
     </div>
     
     <div class="container" style="padding-top: 30px; position: relative;">
-        <div class="container">
             <div class="row">
                 
                 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -73,8 +72,7 @@
                         </div>
                     </div>
                 </div>
-            </div>        
-        </div>
+            </div>  
 
         {{-- <div class="container-fluid">
            
