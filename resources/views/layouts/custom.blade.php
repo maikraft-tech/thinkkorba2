@@ -73,7 +73,7 @@
 
 
     <script>
-            const $menu = $('.menu');
+            const $menu = $('.menu-bar');
         
             $(document).mouseup(e => {
                 if (!$menu.is(e.target) // if the target of the click isn't the container...
@@ -83,7 +83,7 @@
                 }
                 });
         
-            $('.menu-bar').on('click', () => {
+            $('#menu').on('click', () => {
                 $menu.toggleClass('is-active');
         });</script>
 <!-- this is the chat plugin -->
