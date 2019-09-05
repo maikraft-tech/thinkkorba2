@@ -46,9 +46,8 @@
                         <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-12">
                                     <div>
-
                                         <ul style="list-style: none; margin-left: 40px;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
