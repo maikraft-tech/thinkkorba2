@@ -1,11 +1,15 @@
-const $menu = $('#menu');
-$(document).mouseup(e => {
-    if (!$menu.is(e.target) // if the target of the click isn't the container...
-        && $menu.has(e.target).length === 0) // ... nor a descendant of the container
-    {
-        $menu.removeClass('is-active');
-    }
-});
-$('.berrymenu').on('click', () => {
-    $menu.toggleClass('is-active');
+$(document).ready(function() {
+    $("#menu").click(function(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        $(this).toggleClass("active");
+        $(".berrymenu").toggleClass("active");
+    });
+	$(document).click(function(e){
+      if(!e.target.closest("ul") && $(".menu a").hasClass("active")){
+         $(".berrymenu").toggleClass("active");
+         $(".toggle-nav").toggleClass("active");
+      }
+    })
+	
 });
