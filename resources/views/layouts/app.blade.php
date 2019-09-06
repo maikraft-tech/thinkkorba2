@@ -72,7 +72,7 @@
       <script type="text/javascript" src="js/owl-carousel/owl.carousel.min.js"></script>
 
       <!-- Lightbox js -->
-    <link rel="stylesheet" type="text/css" href="css/lightbox.js">
+    <link rel="stylesheet" type="text/javascript" href="js/lightbox.js">
 
     <!-- Responsive tabs -->
     <!-- <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script> -->
