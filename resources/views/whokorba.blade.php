@@ -13,13 +13,9 @@
     <div class="info-box2">
         <p>
             Korba is a cross-platform payment system that enables users to securely and congenially perform financial transactions across all the mobile money networks and banks including rural banks via their multiple access points.
-        </p>
-        
+        </p>   
     </div>
-    </div>
-    
-
-    
+    </div>  
 </section>
 
 

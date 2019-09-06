@@ -15,15 +15,14 @@
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --> 
                     <div id="contact-left">
-                            <h2 style="margin-left: 40px;">Visit Our Office</h2>
+                            <h2 style="margin-left: 40px;">Locate Our Office</h2><br>
                             {!! $map['html'] !!}
-                        <h3 style="margin-left: 40px;">Need help?</h3>
                         <div id="offices">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div>
 
-                                        <ul style="list-style: none; margin-left: 40px;">
+                                        <ul style="list-style: none;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
                                                 <span>1st Floor, Fodai Plaza,
@@ -50,9 +49,8 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div id="contact-right">
-                            <h2 style="margin-left: 40px;">Have a Question?</h2>
+                            <h3 style="margin-left: 40px;">Have a Question? Please leave a Message</h3>
                         <form action="{{ url('contactUs') }}" method="POST"><br>
-                            <h3>Leave a Message</h3>
                             <p>Please fill out the form and we will get in touch soon</p>
                             <div class="row">
                             <div class="col-md-6 col-sm-6">
@@ -65,9 +63,10 @@
                                 <input type="email" name="email" class="form-control" id="email" placeholder="Enter your email here">
                                 </div>
                             </div>
-
+                            <div class="col-md-6 col-sm-6">
                             <div class="form-group">
                                 <textarea class="form-control" name="message" id="message" placeholder="Message goes here"></textarea>
+                            </div>
                             </div>
                             <div id="submit-btn">
                                 <a href="#" class="btn btn-general" style="float:right" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
