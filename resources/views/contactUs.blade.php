@@ -15,7 +15,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --> 
                     <div id="contact-left">
-                            <h2 style="margin-left: 40px;">Locate Our Office</h2><br>
+                            <h2>Locate Our Office</h2><br>
                             {!! $map['html'] !!}
                         <div id="offices">
                             <div class="row">
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div id="contact-right">
-                            <h3 style="margin-left: 40px;">Have a Question? Please leave a Message</h3>
+                            <h3>Have a Question? Please leave a Message</h3>
                         <form action="{{ url('contactUs') }}" method="POST"><br>
                             <p>Please fill out the form and we will get in touch soon</p>
                             <div class="row">
@@ -63,7 +63,7 @@
                                 <input type="email" name="email" class="form-control" id="email" placeholder="Enter your email here">
                                 </div>
                             </div>
-                            <div class="col-md-6 col-sm-6">
+                            <div class="col-md-12 col-sm-12">
                             <div class="form-group">
                                 <textarea class="form-control" name="message" id="message" placeholder="Message goes here"></textarea>
                             </div>
