@@ -51,6 +51,7 @@
     @include('inc.footer')
     <!-- JQuery library -->
     <script type="text/javascript" src="js/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.5/waypoints.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Bootsrap JS -->
     <script type="text/javascript" src="js/bootstrap/bootstrap.js"></script>
