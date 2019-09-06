@@ -243,9 +243,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <div class="horizontal-heading ">
+                    <div class="vertical-heading ">
                         
-                        <h2><strong>Our Happy Clients</strong></h2>
+                        <h2 style="margin-bottom: 5vh; text-align:center;"><strong>Our Happy Clients</strong></h2>
                     </div>
                 </div>
             </div>
