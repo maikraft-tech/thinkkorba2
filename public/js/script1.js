@@ -5,7 +5,7 @@ $(window).on('load', function () { $('.carousel').carousel({ interval: 2000 }); 
         $("li ul", currentLevel).slideUp(300); $("li a", currentLevel).removeClass("active"); $(this).next("ul").slideDown(300); $(this).addClass("active")
     } else { $(this).removeClass("active"); $(this).next("ul").slideUp(300) }
 }); $(".close").click(function () { $("#menu").toggle() }); 
-$(".menu-bar").click(function (e) { $("#menu").toggle() });
+$(".menu-bar").click(function () { $("#menu").toggle() });
  var dropdown = document.querySelectorAll('.dropdown'); var dropdownArray = Array.prototype.slice.call(dropdown, 0); dropdownArray.forEach(function (el) {
     var button = el.querySelector('a[data-toggle="dropdown"]'), menu = el.querySelector('.dropdown-menu'), arrow = button.querySelector('i.icon-arrow'); button.onclick = function (event) {
         if (!$(menu).hasClass('show')) { $('.dropdown-menu').removeClass('show'); $('.dropdown-menu').addClass('hide'); $('i.icon-arrow').removeClass('open'); $('i.icon-arrow').addClass('close'); menu.classList.add('show'); menu.classList.remove('hide'); arrow.classList.add('open'); arrow.classList.remove('close'); event.preventDefault() }

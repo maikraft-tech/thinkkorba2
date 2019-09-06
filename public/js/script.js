@@ -7,7 +7,7 @@ $(window).on('load', function () { $('.carousel').carousel({ interval: 2000 }); 
 }); 
 $(".close").click(function () { 
     $("#menu").toggle() }); 
-$(".menu-bar").click(function (e) { 
+$(".menu-bar").click(function () { 
     $("#menu").toggle() }); 
 var dropdown = document.querySelectorAll('.dropdown'); 
 var dropdownArray = Array.prototype.slice.call(dropdown, 0); dropdownArray.forEach(function (el) {
