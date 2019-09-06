@@ -15,7 +15,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --> 
                     <div id="contact-left">
-                            <h2>Locate Our Office</h2><br>
+                            <h3>Locate Our Office</h3><br>
                             {!! $map['html'] !!}
                         <div id="offices">
                             <div class="row">
