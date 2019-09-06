@@ -92,6 +92,20 @@
         })();
     </script>
     <!--End of Tawk.to Script-->
+    <script>
+        const $menu = $('.menu_bar');
+
+        $(document).mouseup(e => {
+        if (!$menu.is(e.target) // if the target of the click isn't the container...
+        && $menu.has(e.target).length === 0) // ... nor a descendant of the container
+        {
+            $menu.removeClass('is-active');
+        }
+        });
+
+        $('#menu').on('click', () => {
+        $menu.toggleClass('is-active');
+        });</script>
 </body>
 
 </html>
