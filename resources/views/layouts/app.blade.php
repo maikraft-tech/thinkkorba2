@@ -77,6 +77,8 @@
     <!-- <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script> -->
     <!-- Custom js -->
     <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+
 
 <!-- this is the chat plugin -->
     <!--Start of Tawk.to Script-->
@@ -92,20 +94,6 @@
         })();
     </script>
     <!--End of Tawk.to Script-->
-    <script>
-        const $menu = $('#menu');
-
-        $(document).mouseup(e => {
-        if (!$menu.is(e.target) // if the target of the click isn't the container...
-        && $menu.has(e.target).length === 0) // ... nor a descendant of the container
-        {
-            $menu.removeClass('is-active');
-        }
-        });
-
-        $('.berrymenu').on('click', () => {
-        $menu.toggleClass('is-active');
-        });</script>
 </body>
 
 </html>
