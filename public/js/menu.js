@@ -1,1 +1,1 @@
-$(document).click(function() { $(".menu-bar").hide(); }); $("#menu").click(function(e) { e.stopPropagation(); return false; });
+$(document).click(function() { $("nav").hide(); }); $("#menu").click(function(e) { e.stopPropagation(); return false; });
