@@ -6,7 +6,7 @@ $(document).ready(function() {
         $(".berrymenu").toggleClass("active");
     });
 	$(document).click(function(e){
-      if(!e.target.closest("ul") && $(".menu a").hasClass("active")){
+      if(!e.target.closest("ul") && $(".berrymenu").hasClass("active")){
          $(".berrymenu").toggleClass("active");
          $(".toggle-nav").toggleClass("active");
       }
