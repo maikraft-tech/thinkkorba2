@@ -8,7 +8,7 @@ $(document).ready(function() {
 	$(document).click(function(e){
       if(!e.target.closest("ul") && $(".berrymenu").hasClass("active")){
          $(".berrymenu").toggleClass("active");
-         $(".toggle-nav").toggleClass("active");
+         $("#menu").toggleClass("active");
       }
     })
 	
