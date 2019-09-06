@@ -70,7 +70,6 @@
     
     <!-- Custom js -->
     <script type="text/javascript" src="js/script1.js"></script>
-    <script type="text/javascript" src="js/menu.js"></script>
 
     @stack('scripts')
 

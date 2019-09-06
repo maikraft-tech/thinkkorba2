@@ -78,7 +78,6 @@
     <!-- <script type="text/javascript" src="js/responsive-tabs/jquery.responsiveTabs.min.js"></script> -->
     <!-- Custom js -->
     <script type="text/javascript" src="js/script.js"></script>
-    <script type="text/javascript" src="js/menu.js"></script>
 
 
 <!-- this is the chat plugin -->
