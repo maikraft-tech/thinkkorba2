@@ -93,7 +93,7 @@
     </script>
     <!--End of Tawk.to Script-->
     <script>
-        const $menu = $('.menu_bar');
+        const $menu = $('#menu');
 
         $(document).mouseup(e => {
         if (!$menu.is(e.target) // if the target of the click isn't the container...
@@ -103,7 +103,7 @@
         }
         });
 
-        $('#menu').on('click', () => {
+        $('.berrymenu').on('click', () => {
         $menu.toggleClass('is-active');
         });</script>
 </body>
