@@ -238,7 +238,7 @@
         background-position: 50% 50%;
         background-repeat:   no-repeat;
         background-size:     cover;
-    }</style>
+    }</style><br><br>
     <section>
         <div class="container">
             <div class="row">
