@@ -62,15 +62,14 @@ $(this).addClass("active")}
 else{
     $(this).removeClass("active");
     $(this).next("ul").slideUp(300)}});
-// $(".close").click(function(){
-//     $("#menu").toggle()
-
-// });
+$(".close").click(function(){
+    $("#menu").toggle()
+});
 var $body = $('body');
 $body.on('click', function(event) {
-  var clickedOutside = $(event.target).closest('#menu').length == 0;
+  var clickedOutside = $(event.target).closest('#menu-bar').length == 0;
   if (clickedOutside && $body.hasClass('open')) {
-    $body.removeClass('open');
+    $("#menu").toggle();
   }
 })
     $(".menu-bar").click(function(){
