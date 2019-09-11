@@ -96,7 +96,7 @@
 </div>
 
 <script type="text/javascript">
-    $('#menu-button').click(function(e){
+    $('#menu').click(function(e){
         e.stopPropagation();
         $('#hide-menu').toggleClass('show');
     });
