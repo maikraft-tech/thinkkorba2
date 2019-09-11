@@ -1,9 +1,9 @@
 <div class="menu menu-bottom" id="menu" style="width: 25%; position:fixed; display:none; left:0px; height:97vh; background-color:#ed1944; opacity: 0.9; z-index:9;transition: 2.64s ease-in-out">
     <div class="col-md-12 col-xs-12 col-lg-12" style="height:100%;">
         <div class="row">
-            <span><img class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:30px; margin-bottom: 15px;"></span>
+            <span><img id="hide-menu" class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:30px; margin-bottom: 15px;"></span>
         </div>
-        <div id="hide-menu" class="berrymenu">
+        <div class="berrymenu">
             <ul>
                 <li class="">
                     <a href="/" style="display: block;color: white;
