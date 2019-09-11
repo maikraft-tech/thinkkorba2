@@ -86,19 +86,6 @@
         })();
         </script>
         <!--End of Tawk.to Script-->
-        <script type="text/javascript">
-            $('#menu').click(function(e){
-                e.stopPropagation();
-                $('#hide-menu').toggleClass('menu');
-            });
-            
-            $('#hide-menu').click(function(e){
-                e.stopPropagation();
-            });
-            
-            $('body,html').click(function(e){
-               $('#hide-menu').removeClass('menu');
-            });</script>
 </body>
 
 </html>

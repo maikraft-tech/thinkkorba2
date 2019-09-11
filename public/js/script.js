@@ -65,13 +65,27 @@ else{
 $(".close").click(function(){
     $("#menu").toggle()
 });
-var $body = $('body');
-$body.on('click', function(event) {
-  var clickedOutside = $(event.target).closest('#menu-bar').length == 0;
-  if (clickedOutside && $body.hasClass('open')) {
-    $("#menu").toggle();
+// $(document).mouseup(e => {
+//     if (!$menu.is(e.target)
+// $('body').on('click', function(event) {
+//   var clickedOutside = $(event.target).closest('#menu-bar').length == 0;
+//   if (clickedOutside && $body.hasClass('open')) {
+//     $("#menu").toggle();
+//   }
+// })
+const $menu = $('.dropdown');
+
+$(document).mouseup(e => {
+   if (!$menu.is(e.target) // if the target of the click isn't the container...
+   && $menu.has(e.target).length === 0) // ... nor a descendant of the container
+   {
+     $menu.removeClass('is-active');
   }
-})
+ });
+
+$('.toggle').on('click', () => {
+  $menu.toggleClass('is-active');
+});
     $(".menu-bar").click(function(){
         $("#menu").toggle()});
         var dropdown=document.querySelectorAll('.dropdown');var dropdownArray=Array.prototype.slice.call(dropdown,0);dropdownArray.forEach(function(el){var button=el.querySelector('a[data-toggle="dropdown"]'),menu=el.querySelector('.dropdown-menu'),arrow=button.querySelector('i.icon-arrow');button.onclick=function(event){if(!$(menu).hasClass('show')){$('.dropdown-menu').removeClass('show');$('.dropdown-menu').addClass('hide');$('i.icon-arrow').removeClass('open');$('i.icon-arrow').addClass('close');menu.classList.add('show');menu.classList.remove('hide');arrow.classList.add('open');arrow.classList.remove('close');event.preventDefault()}
