@@ -69,7 +69,7 @@
                             </div>
                             </div>
                             <div id="submit-btn">
-                                <a href="#" class="btn btn-general" style="float:right" role="button" title="submit" class="background-color:#444141ed" type="submit">Submit</a>
+                                <a href="#" class="btn btn-general" style="float:right" role="button" title="submit" class="background-color:#ed1944" type="submit">Submit</a>
                             </div>
                         </form>
                     </div>
