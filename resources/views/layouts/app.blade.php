@@ -97,7 +97,6 @@
             e.stopPropagation();
             $('#hide-menu').toggleClass('show');
         });
-        
         $('#hide-menu').click(function(e){
             e.stopPropagation();
         });
