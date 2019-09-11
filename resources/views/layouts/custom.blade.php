@@ -89,7 +89,7 @@
         <script type="text/javascript">
             $('#menu-button').click(function(e){
                 e.stopPropagation();
-                $('#hide-menu').toggleClass('show-menu');
+                $('#hide-menu').toggleClass('show');
             });
             
             $('#hide-menu').click(function(e){
@@ -97,7 +97,7 @@
             });
             
             $('body,html').click(function(e){
-               $('#hide-menu').removeClass('show-menu');
+               $('#hide-menu').removeClass('show');
             });</script>
 </body>
 
