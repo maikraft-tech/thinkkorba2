@@ -95,19 +95,6 @@
     </div>
 </div>
 
-<script type="text/javascript">
-    $('#menu').click(function(e){
-        e.stopPropagation();
-        $('#hide-menu').toggleClass('show');
-    });
-    
-    $('#hide-menu').click(function(e){
-        e.stopPropagation();
-    });
-    
-    $('body,html').click(function(e){
-       $('#hide-menu').removeClass('show');
-    });</script>
 <!-- new menu -->
 
 <!-- <div class="hidden-panel">
