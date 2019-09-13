@@ -87,13 +87,13 @@ else{
 // $(".menu-bar").click(function(){
 //     $("#menu").toggle()});
 
-$('.menu-bar').click(function(e) {
+$(".menu-bar").click(function(e) {
     e.stopPropagation();
-    $("#menu").toggleClass('bar')
+    $("#menu").toggleClass("bar")
   });
-  $('body').click(function(e) {
-    if ($('#menu').hasClass('bar')) {
-      $("#menu").toggleClass('bar')
+  $("body").click(function(e) {
+    if ($("#menu").hasClass("bar")) {
+      $("#menu").toggleClass("bar")
     }
   })
         
