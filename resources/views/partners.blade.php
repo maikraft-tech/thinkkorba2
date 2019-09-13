@@ -5,7 +5,7 @@
 <section >
         <div class="name-heading">
             <div class="row">
-                <h2>  Partners <img src="img/logo/partner-icon.png" style="position: relative; float: right; width: 60px;  padding-bottom: 10px;"> </h2>
+                <h2>  Partners </h2>
             </div>
             
              
