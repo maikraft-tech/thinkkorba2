@@ -97,12 +97,15 @@ else{
 //       $("#menu").stop().toggle()
 //     }
 //   });
+const $menu = $('#menu');
 $(".menu-bar").click(function(e) {
     e.stopPropagation();
     $("#menu").show();
   });
-  $("body").click(function(e) {
-      $("#menu").hide()
+  $("body").mouseup(e => {
+       if (!$menu.is(e.target) // if the target of the click isn't the container...
+       && $menu.has(e.target).length === 0){
+      $("#menu").hide() }
     
   });
         

@@ -12,15 +12,17 @@ $("li ul",currentLevel).slideUp(300);$("li a",currentLevel).removeClass("active"
 
     // $(".menu-bar").click(function(){
     //     $("#menu").toggle()});
-
+const $menu = $('#menu');
 $(".menu-bar").click(function(e) {
     e.stopPropagation();
     $("#menu").show();
   });
-  $("body").click(function(e) {
-      $("#menu").hide()
-    
-  });
+  $("body").mouseup(e => {
+    if (!$menu.is(e.target) // if the target of the click isn't the container...
+    && $menu.has(e.target).length === 0){
+   $("#menu").hide() }
+ 
+});
         
         var dropdown=document.querySelectorAll('.dropdown');var dropdownArray=Array.prototype.slice.call(dropdown,0);dropdownArray.forEach(function(el){var button=el.querySelector('a[data-toggle="dropdown"]'),menu=el.querySelector('.dropdown-menu'),arrow=button.querySelector('i.icon-arrow');button.onclick=function(event){if(!$(menu).hasClass('show')){$('.dropdown-menu').removeClass('show');$('.dropdown-menu').addClass('hide');$('i.icon-arrow').removeClass('open');$('i.icon-arrow').addClass('close');menu.classList.add('show');menu.classList.remove('hide');arrow.classList.add('open');arrow.classList.remove('close');event.preventDefault()}
 else{menu.classList.remove('show');menu.classList.add('hide');arrow.classList.remove('open');arrow.classList.add('close');event.preventDefault()}}})
