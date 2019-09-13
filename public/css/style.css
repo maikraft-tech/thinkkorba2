@@ -1976,7 +1976,7 @@ li.korba-logo{
   }
   
   .bar {
-	right: 0px;
+	left: 0px;
   }
 
   @keyframes showAnimation {
