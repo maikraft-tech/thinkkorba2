@@ -4,14 +4,11 @@ $("li ul",currentLevel).slideUp(300);$("li a",currentLevel).removeClass("active"
 $(".close").click(function(){
     $("#menu").toggle()});
     
-    const $menu = $('.menu-bar');
-    $(document).mouseup(e => {
-       if (!$menu.is(e.target) // if the target of the click isn't the container...
-       && $menu.has(e.target).length === 0) // ... nor a descendant of the container
-       {
-        $("#menu").toggle('open');
-      }
-     }); 
+    $('body').click(function(e){
+      if ($('.menu-bar').hasClass('bar')) {
+      $(".menu").addClass('bar')
+    }});
+     
 
     $(".menu-bar").click(function(){
         $("#menu").toggle()});

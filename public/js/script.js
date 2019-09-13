@@ -74,13 +74,11 @@ $(".close").click(function(){
 //     $("#menu").toggle();
 //   }
 // })
-const $menu = $('.menu');
 
-$('body').click(function(e)
-{
-    if ($('.menu').hasClass('bar')) {
-    $(".menu").toggleClass('bar')
-  }
+$('body').click(function(e){
+    if ($('.menu-bar').hasClass('bar')) {
+    $(".menu").addClass('bar')
+  }});
 
 // $('.toggle').on('click', () => {
 //     $("#menu").toggle();
