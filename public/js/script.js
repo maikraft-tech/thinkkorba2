@@ -78,17 +78,15 @@ const $menu = $('.menu');
 $(document).mouseup(e => {
    if (!$menu.is(e.target) // if the target of the click isn't the container...
    && $menu.has(e.target).length === 0) // ... nor a descendant of the container
-   {
-    $("#menu").classList.add('close');
-  }
+   { $("#menu").classList.add('hide'); }
  });
 
 // $('.toggle').on('click', () => {
 //     $("#menu").toggle();
 // });
-
-    $(".menu-bar").click(function(){
-        $("#menu").toggle()});
-        var dropdown=document.querySelectorAll('.dropdown');var dropdownArray=Array.prototype.slice.call(dropdown,0);dropdownArray.forEach(function(el){var button=el.querySelector('a[data-toggle="dropdown"]'),menu=el.querySelector('.dropdown-menu'),arrow=button.querySelector('i.icon-arrow');button.onclick=function(event){if(!$(menu).hasClass('show')){$('.dropdown-menu').removeClass('show');$('.dropdown-menu').addClass('hide');$('i.icon-arrow').removeClass('open');$('i.icon-arrow').addClass('close');menu.classList.add('show');menu.classList.remove('hide');arrow.classList.add('open');arrow.classList.remove('close');event.preventDefault()}
+$(".menu-bar").click(function(){
+    $("#menu").toggle()});
+        
+    var dropdown=document.querySelectorAll('.dropdown');var dropdownArray=Array.prototype.slice.call(dropdown,0);dropdownArray.forEach(function(el){var button=el.querySelector('a[data-toggle="dropdown"]'),menu=el.querySelector('.dropdown-menu'),arrow=button.querySelector('i.icon-arrow');button.onclick=function(event){if(!$(menu).hasClass('show')){$('.dropdown-menu').removeClass('show');$('.dropdown-menu').addClass('hide');$('i.icon-arrow').removeClass('open');$('i.icon-arrow').addClass('close');menu.classList.add('show');menu.classList.remove('hide');arrow.classList.add('open');arrow.classList.remove('close');event.preventDefault()}
 else{menu.classList.remove('show');menu.classList.add('hide');arrow.classList.remove('open');arrow.classList.add('close');event.preventDefault()}}})
 Element.prototype.hasClass=function(className){return this.className&&new RegExp("(^|\\s)"+className+"(\\s|$)").test(this.className)};var menuToggle=document.querySelector('[data-js="menu-toggle"]');var interval=setInterval(function(){menuToggle.click()},2000);document.body.addEventListener('click',function(){clearInterval(interval)});menuToggle.addEventListener('click',function(){document.body.classList.toggle('panel-open');menuToggle.classList.toggle('open')});var closePanel=document.querySelector('[data-js="hidden-panel-close"]');closePanel.addEventListener('click',function(){document.body.classList.remove('panel-open');menuToggle.classList.remove('open')})
