@@ -4,7 +4,7 @@
             <span><img id="hide-menu" class="close pull-right" src="img/close.png" style="opacity:1; width: 20px; height: 20px; margin-top:30px; margin-bottom: 15px;"></span>
         </div>
         <div class="berrymenu">
-            <ul class="dropdown-menu">
+            <ul>
                 <li class="">
                     <a href="/" style="display: block;color: white;
                         text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 250;"> Home  </a>

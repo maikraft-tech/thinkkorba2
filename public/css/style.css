@@ -1959,16 +1959,12 @@ li.korba-logo{
   .berrymenu > ul > li {
 	  margin-bottom: 10px;
   }
-
-  .dropdown-menu {
-	display: none;
-  }
   
-  .toggle, .dropdown-menu {
+  .toggle, .berrymenu {
 	width: 100%;
   }
   
-  .is-active .dropdown-menu {
+  .is-active .berrymenu {
 	display: block;
   }
   
