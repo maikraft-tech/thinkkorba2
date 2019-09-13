@@ -15,7 +15,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12"> 
                     <!-- contact left side --> 
                     <div id="contact-left">
-                            <h3 style="font-family: 'Quicksand', 'sans-serif' !important;">Locate Our Office</h3><br>
+                            <h3>Locate Our Office</h3><br>
                             {!! $map['html'] !!}
                         <div id="offices">
                             <div class="row">
@@ -25,18 +25,18 @@
                                         <ul style="list-style: none;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
-                                                <span style="font-family: 'Quicksand', 'sans-serif' !important;">1st Floor, Fodai Plaza,
-                                                <br style="font-family: 'Quicksand', 'sans-serif' !important;">Community 18 Junction
-                                                <br style="font-family: 'Quicksand', 'sans-serif' !important;">Baatsona, Accra</span>
+                                                <span>1st Floor, Fodai Plaza,
+                                                <br>Community 18 Junction
+                                                <br>Baatsona, Accra</span>
                                             </li>
                                             <li>
-                                                <h5 style="color: red; font-weight: 1; padding-bottom: 0; font-family: 'Quicksand', 'sans-serif' !important;"><b>Phone</b></h5>
+                                                <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Phone</b></h5>
                                                 <!-- <i class="fa fa-mobile"></i> -->
-                                                <span style="font-family: 'Quicksand', 'sans-serif' !important;">(+233) 2040 4010</span>
+                                                <span>(+233) 2040 4010</span>
                                             </li>
                                             <li>
-                                                <h5 style="color: red; font-weight: 1; padding-bottom: 0; font-family: 'Quicksand', 'sans-serif' !important;"><b>Mailing Address</b></h5>
-                                                <span style="font-family: 'Quicksand', 'sans-serif' !important;">P.O.Box GP 18376,
+                                                    <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Mailing Address</b></h5>
+                                                <span>P.O.Box GP 18376,
                                                 <br>Accra,Ghana.</span>
                                             </li>
                                             
