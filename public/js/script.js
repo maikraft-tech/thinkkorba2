@@ -62,6 +62,7 @@ $(this).addClass("active")}
 else{
     $(this).removeClass("active");
     $(this).next("ul").slideUp(300)}});
+
 $(".close").click(function(){
     $("#menu").toggle()
 });
@@ -75,10 +76,11 @@ $(".close").click(function(){
 // })
 const $menu = $('.menu');
 
-$(document).mouseup(e => {
-   if (!$menu.is(e.target) // if the target of the click isn't the container...
-   && $menu.has(e.target).length === 0) // ... nor a descendant of the container
-   { $(".menu") }});
+$('body').click(function(e)
+{
+    if ($('.menu').hasClass('bar')) {
+    $(".menu").toggleClass('bar')
+  }
 
 // $('.toggle').on('click', () => {
 //     $("#menu").toggle();

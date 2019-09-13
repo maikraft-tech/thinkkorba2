@@ -1975,6 +1975,10 @@ li.korba-logo{
 	opacity: .2;
   }
   
+  .bar {
+	right: 0px;
+  }
+
   @keyframes showAnimation {
 	0% {
 	  -moz-transform: scaleY(0.1);
