@@ -90,11 +90,11 @@ else{
 
 $(".menu-bar").click(function(e) {
     e.stopPropagation();
-    $("#menu").toggle(".menu")
+    $("#menu").toggle(".menu-bar")
   });
   $("body").click(function(e) {
-    if ($("#menu").hasClass(".menu")) {
-      $("#menu").toggleClass("bar")
+    if ($("#menu").hasClass(".menu-bar")) {
+      $("#menu").stop().toggle()
     }
   });
         
