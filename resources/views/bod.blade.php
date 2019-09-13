@@ -4,7 +4,7 @@
 <section>
     <div class="name-heading">
         <div class="row">
-            <h2> Our Board Of Directors <img src="img/logo/Team.png" style="position: relative; float: right; width: 70px; height: 60px; padding-bottom: 10px;"> </h2>
+            <h2> Our Board Of Directors</h2>
         </div>
         
     </div>
