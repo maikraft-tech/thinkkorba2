@@ -13,8 +13,8 @@ $("li ul",currentLevel).slideUp(300);$("li a",currentLevel).removeClass("active"
     // $(".menu-bar").click(function(){
     //     $("#menu").toggle()});
 const $menu = $('#menu');
-$(".menu-bar").click(function(e) {
-    e.stopPropagation();
+$(".menu-bar").click(function() {
+    // e.stopPropagation();
     $("#menu").toggle();
   });
   $("body").mouseup(e => {

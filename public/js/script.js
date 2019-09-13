@@ -98,8 +98,8 @@ else{
 //     }
 //   });
 const $menu = $('#menu');
-$(".menu-bar").click(function(e) {
-    e.stopPropagation();
+$(".menu-bar").click(function() {
+    // e.stopPropagation();
     $("#menu").toggle();
   });
   $("body").mouseup(e => {
