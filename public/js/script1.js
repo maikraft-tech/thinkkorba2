@@ -18,8 +18,8 @@ $(".menu-bar").click(function(e) {
     $("#menu").toggle(".menu")
   });
   $("body").click(function(e) {
-    if ($("#menu").hasClass(".menu")) {
-      $("#menu").toggleClass("bar")
+    if ($("#menu").hasClass(".menu-bar")) {
+      $("#menu").stop().toggle()
     }
   });
         
