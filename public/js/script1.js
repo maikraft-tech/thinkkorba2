@@ -13,9 +13,9 @@ $("li ul",currentLevel).slideUp(300);$("li a",currentLevel).removeClass("active"
     // $(".menu-bar").click(function(){
     //     $("#menu").toggle()});
 const $menu = $('#menu');
-$(".menu-bar").click(function() {
-    // e.stopPropagation();
-    $("#menu").toggle();
+$(".menu-bar").click(function(e) {
+    e.stopPropagation();
+    $("#menu").show();
   });
   $("body").mouseup(e => {
     if (!$menu.is(e.target) // if the target of the click isn't the container...

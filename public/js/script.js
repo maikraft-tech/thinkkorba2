@@ -98,9 +98,9 @@ else{
 //     }
 //   });
 const $menu = $('#menu');
-$(".menu-bar").click(function() {
-    // e.stopPropagation();
-    $("#menu").toggle();
+$(".menu-bar").click(function(e) {
+    e.stopPropagation();
+    $("#menu").show();
   });
   $("body").mouseup(e => {
        if (!$menu.is(e.target) // if the target of the click isn't the container...
