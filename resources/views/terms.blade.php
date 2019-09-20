@@ -16,7 +16,7 @@
             <li>No registration is needed when using the USSD code for korba.</li>
             <li>An existing mobile money wallet is needed for all korba transactions</li>
             <li>Registration is required for the mobile app and web app. The registration requires the following:
-                <ul>
+                <ul class="no_bullet">
                     <li class="korba-logo-terms">Personal details (name, phone number, any National ID)</li>
                     <li class="korba-logo-terms">An existing mobile money wallet from any of the telecommunication companies.</li>
                 </ul></li>
