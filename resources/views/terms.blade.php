@@ -11,9 +11,17 @@
 
         <ul class="no_bullet">
             <p><b>To use Korba</b></p>
-            <li>You need to register in order to use Korba. Registering on the Korba platform does not take much time. It is advised that all users register on the platform to ensure smooth usage of the system.</li>
-            <li>We require your personal details and certain specific information before you are registered on the platform. You must provide complete and accurate information.</li>
-            <li>Your wallet will be held by the respective Telecommunication companies, and <b>not Korba.</b></li>
+            <li>The Korba platform can be accessed via three (3) channels (USSD, Mobile App and Web App).</li>
+            <li>The Korba platform can be accessed via three (3) channels (USSD, Mobile App and Web App).</li>
+            <li>No registration is needed when using the USSD code for korba.</li>
+            <li>An existing mobile money wallet is needed for all korba transactions</li>
+            <li>Registration is required for the mobile app and web app. The registration requires the following:</li>
+                <ul>
+                    <li>Personal details (name, phone number, any National ID)</li>
+                    <li>An existing mobile money wallet from any of the telecommunication companies.</li>
+                </ul>
+            <li>We require that personal details provided are complete and accurate.</li>
+            <li>Note that, mobile money wallet will be held by the respective Telecommunication companies, and not Korba.<b>not Korba.</b></li>
         </ul>
 
         <ul class="no_bullet">
