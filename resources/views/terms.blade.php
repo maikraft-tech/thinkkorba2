@@ -15,11 +15,11 @@
             <li>The Korba platform can be accessed via three (3) channels (USSD, Mobile App and Web App).</li>
             <li>No registration is needed when using the USSD code for korba.</li>
             <li>An existing mobile money wallet is needed for all korba transactions</li>
-            <li>Registration is required for the mobile app and web app. The registration requires the following:</li>
+            <li>Registration is required for the mobile app and web app. The registration requires the following:
                 <ul>
-                    <li>Personal details (name, phone number, any National ID)</li>
-                    <li>An existing mobile money wallet from any of the telecommunication companies.</li>
-                </ul>
+                    <li class="korba-logo-terms">Personal details (name, phone number, any National ID)</li>
+                    <li class="korba-logo-terms">An existing mobile money wallet from any of the telecommunication companies.</li>
+                </ul></li>
             <li>We require that personal details provided are complete and accurate.</li>
             <li>Note that, mobile money wallet will be held by the respective Telecommunication companies, and not Korba.<b>not Korba.</b></li>
         </ul>
