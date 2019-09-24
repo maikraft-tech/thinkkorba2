@@ -64,7 +64,7 @@
       <!-- head service delivery -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/korkor.jpg" alt="Sam Korkor Owusu"/></div>
+          <div class="at-user__avatar"><img src="img/team/sam.jpg" alt="Sam Korkor Owusu"/></div>
           <div class="at-user__name">Sam Korkor Owusu(SKO)</div>
           <div class="at-user__title">Manager, Settlements and Revenue Assurance</div>
           <!-- <ul class="at-social">
