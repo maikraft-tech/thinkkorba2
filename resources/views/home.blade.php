@@ -262,44 +262,44 @@
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Airtel.png" alt="Airtel"  />
+                        <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 30px; max-height: 60px; width:100%"/>
                     </div>
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Surfline.png" alt="Surfline" style="min-height: 30px; max-height: 60px; width:100%"/>
+                        <img src="/img/client/Surfline.png" alt="Surfline" style="min-height: 30px; max-height: 50px; width:100%" />
                     </div>
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Unity.png" alt="Unity" style="min-height: 30px; max-height: 50px; width:100%" />
+                        <img src="/img/client/Unity.png" alt="Unity Link" style="min-height: 30px; max-height: 50px; width:80%"/>
                     </div>
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Bf.png" alt="Bf" style="min-height: 30px; max-height: 50px; width:100%" />
+                        <img src="/img/client/Bf.png" alt="Bf"  />
                     </div>
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Enterprise.png" alt="Enterprise" style="min-height: 30px; max-height: 50px; width:100%"/>
+                        <img src="/img/client/Enterprise.png" alt="Enterprise" style="min-height: 30px; max-height: 50px; width:100%" />
                     </div>
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Vodafone.png" alt="Vodafone" style="min-height: 30px; max-height: 50px; width:80%"/>
+                        <img src="/img/client/vodafone.png" alt="Vodafone" style="min-height: 30px; max-height: 50px; width:100%"/>
                     </div>
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/glo.png" alt="glo" style="max-height: 60px; width:100%"/>
+                        <img src="/img/client/glo.png" alt="Glo"  />
                     </div>
-                </div>
+                </div> 
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Busy.png" alt="Busy" style="max-height: 60px; width:100%"/>
+                        <img src="/img/client/Busy.png" alt="Busy"  />
                     </div>
-                </div>
+                </div>       
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/UGCCU.png" alt="UGCCU" style="max-height: 60px; width:100%"/>
