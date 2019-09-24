@@ -225,7 +225,7 @@
 <!-- head projects -->
       <div class="at-column">
         <div class="at-user">
-          <div class="at-user__avatar"><img src="img/team/christy.jpg" alt="Christy Kweikor Sampson"/></div>
+          <div class="at-user__avatar"><img src="img/team/christy.png" alt="Christy Kweikor Sampson"/></div>
           <div class="at-user__name">Christy Kweikor Sampson(CKS)</div>
           <div class="at-user__title">Manager, SMB Strategy</div>
           <!-- <ul class="at-social">
