@@ -277,7 +277,7 @@
                 </div>
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
-                        <img src="/img/client/Bf.png" alt="Bf"  />
+                        <img src="/img/client/Bf.PNG" alt="Bf"  />
                     </div>
                 </div>
                 <div class="col-md-2 col-xs-12">
