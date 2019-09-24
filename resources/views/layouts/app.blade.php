@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
    
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Think Korba</title>
+    <title>Korba</title>
     <link rel="icon" type="image/png" sizes="32x32" href="/img/logo/list_icon.png">
     <!-- Basic SEO -->
     <meta name="description" content="creative website development with HTML5,css,bootstrap and jquery">
