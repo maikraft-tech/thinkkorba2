@@ -49,9 +49,9 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div id="contact-right">
-                            <h3>Have a Question? Please leave a Message</h3>
+                            <h3>Have a Question?</h3>
                         <form action="{{ url('contactUs') }}" method="POST"><br>
-                            <p>Please fill out the form and we will get in touch soon</p>
+                            <p>Please fill out the form and leave a message</p>
                             <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <div class="form-group">
