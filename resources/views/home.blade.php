@@ -113,7 +113,7 @@
     <!-- Other products -->
     <section id="other-products">
         <div id="about-02">
-            <div class="content-box-sm">
+            <div class="content-box-sm" style="margin-top: 5px;">
                 <div class="vertical-heading">
                     <h2 style="text-align: center; margin-bottom: 5vh;">
                         <strong>Our Channels</strong> </h2>
@@ -122,7 +122,7 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft other-products">
                             
-                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px;height: 300px; padding-top:15px;" >
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px;height: 300px; padding-top:35px;" >
                                 <!-- <div class="col-md-5 col-sm-5 col-xs-5">
                                     <h3>Web App</h3>
                                 </div> -->
@@ -179,7 +179,7 @@
                 </div>
             </div>
 
-            <div class="content-box-sm">
+            <div class="content-box-sm" style="margin-top: 5px;">
                 <div class="vertical-heading">
                     <h2 style="margin-bottom: 5vh; text-align:center;">
                         <strong>Other Products</strong> </h2>
@@ -319,7 +319,7 @@
             </div>
             </div>
         </div>
-    </div>
+        </div>
             
     </section>
 
