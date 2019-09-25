@@ -180,8 +180,8 @@
                 </div>
     
                 <div class="content-box-sm">
-                    <div class="vertical-heading" style="margin-top: 0px">
-                        <h2 style="margin-bottom: 5px; text-align:center;">
+                    <div class="vertical-heading" style="margin-top: -2px">
+                        <h2 style="margin-bottom: 5vh; text-align:center;">
                             <strong>Other Products</strong> </h2>
                     </div>
                 <div class="container">
