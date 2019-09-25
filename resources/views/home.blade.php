@@ -174,7 +174,7 @@
                                 <img src="img/logo/Layer 5.png" class="other-channels-img hover-effect-all">
                                 
                             </div>
-                            <div class="col-xs-0 col-sm-3 col-md-4" style="margin-bottom: 0px"></div>
+                            <div class="col-xs-0 col-sm-3 col-md-4" style="margin-bottom: 0vh"></div>
                         </div>
                     </div>
                 </div>
