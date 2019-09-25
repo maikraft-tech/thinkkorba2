@@ -240,7 +240,7 @@
         background-size:     cover;
     }</style>
     <section>
-        <div class="content-box-sm" style="margin-top: -45px">
+        <div class="content-box-sm" style="margin-top: -25px">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
