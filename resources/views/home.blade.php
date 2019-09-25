@@ -179,7 +179,7 @@
                     </div>
                 </div>
     
-                <div class="content-box-sm"  style="margin-top: -15px">
+                <div class="content-box-sm"  style="margin-top: -25px">
                     <div class="vertical-heading">
                         <h2 style="margin-bottom: 2vh; text-align:center;">
                             <strong>Other Products</strong> </h2>
