@@ -252,32 +252,32 @@
             </div>
             <div class="col-md-12 text-center"> 
             <div class="row wow bounceInLeft">
-                <div class="col-md-2  col-xs-12">
+                <div>
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Prudential.png" alt="Prudential" style="min-height: 30px; max-height: 50px; width:100%"/>
                     </div>
                 </div>
-                <div class="col-md-2 col-xs-12">
+                <div>
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Mtn.png" alt="Mtn"/>
                     </div>
                 </div>
-                <div class="col-md-2 col-xs-12">
+                <div>
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 30px; max-height: 60px; width:100%"/>
                     </div>
                 </div>
-                <div class="col-md-2 col-xs-12">
+                <div>
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Surfline.png" alt="Surfline" style="min-height: 30px; max-height: 50px; width:100%" />
                     </div>
                 </div>
-                <div class="col-md-2 col-xs-12">
+                <div>
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Unity.png" alt="Unity Link" style="min-height: 30px; max-height: 50px; width:80%"/>
                     </div>
                 </div>
-                <div class="col-md-2 col-xs-12">
+                <div>
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Bf.PNG" alt="Bf" style="min-height: 50px; max-height: 50px; width:100%" />
                     </div>
