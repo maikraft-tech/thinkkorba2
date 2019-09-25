@@ -249,6 +249,8 @@
                     </div>
                 </div>
             </div>
+            <div>
+            <div class="col-md-12"> 
             <div class="row wow bounceInLeft">
                 <div class="col-md-2  col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
@@ -280,6 +282,10 @@
                         <img src="/img/client/Bf.PNG" alt="Bf" style="min-height: 50px; max-height: 50px; width:100%" />
                     </div>
                 </div>
+            </div> 
+            </div> 
+            <div class="col-md-12">
+            <div class="row wow bounceInLeft">
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Enterprise.png" alt="Enterprise" style="min-height: 30px; max-height: 50px; width:100%" />
@@ -310,6 +316,8 @@
                         <img src="/img/client/TTU.png" alt="TTU" style="max-height: 60px; width:100%"/>
                     </div>
                 </div>
+            </div>
+            </div>
             </div>
         </div>
             
