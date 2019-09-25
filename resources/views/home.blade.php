@@ -58,7 +58,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
-                                <img src="img/home/image3.jpg" style="border-radius: 25px;margin-top: 50px;">
+                                <img src="img/home/image3.jpg" style="border-radius: 25px;margin-top: 10px;">
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                                 <div class="tab-bg">
@@ -267,17 +267,17 @@
                         <img src="/img/client/Airtel.png" alt="Airtel" style="min-height: 30px; max-height: 60px; width:100%"/>
                     </div>
                 </div>
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Surfline.png" alt="Surfline" style="min-height: 30px; max-height: 50px; width:100%" />
                     </div>
                 </div>
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Unity.png" alt="Unity Link" style="min-height: 30px; max-height: 50px; width:80%"/>
                     </div>
                 </div>
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Bf.PNG" alt="Bf" style="min-height: 50px; max-height: 50px; width:100%" />
                     </div>
@@ -286,32 +286,32 @@
             </div> 
             <div class="col-md-12 text-center">
             <div class="row wow bounceInLeft">
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Enterprise.png" alt="Enterprise" style="min-height: 30px; max-height: 50px; width:100%" />
                     </div>
                 </div>
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/vodafone.png" alt="Vodafone" style="min-height: 30px; max-height: 50px; width:100%"/>
                     </div>
                 </div>
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/glo.png" alt="Glo"  />
                     </div>
                 </div> 
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/Busy.png" alt="Busy"  />
                     </div>
                 </div>       
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/UGCCU.png" alt="UGCCU" style="max-height: 60px; width:100%"/>
                     </div>
                 </div>
-                <div>
+                <div class="col-sm-2">
                     <div class="cbrand_item m-bottom-2 img">
                         <img src="/img/client/TTU.png" alt="TTU" style="max-height: 60px; width:100%"/>
                     </div>
