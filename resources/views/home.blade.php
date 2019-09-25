@@ -58,7 +58,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
-                                <img src="img/home/image3.jpg" style="border-radius: 25px;margin-top: 10px;">
+                                <img src="img/home/image3.jpg" style="border-radius: 25px;margin-top: 5px;">
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                                 <div class="tab-bg">
@@ -122,7 +122,7 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft other-products">
                             
-                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px;height: 300px; padding-top:35px;" >
+                            <div class="about-item text-center hover-effect-all" style="border-radius: 25px;height: 300px; padding-top:15px;" >
                                 <!-- <div class="col-md-5 col-sm-5 col-xs-5">
                                     <h3>Web App</h3>
                                 </div> -->
