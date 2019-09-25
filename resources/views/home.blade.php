@@ -238,9 +238,9 @@
         background-position: 50% 50%;
         background-repeat:   no-repeat;
         background-size:     cover;
-    }</style><br><br><br>
+    }</style>
     <section>
-        <div class="content-box-sm" style="margin-top: 5px;">
+        <div class="content-box-sm" style="margin-top: 5vh;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
