@@ -165,25 +165,25 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-xs-0 col-sm-3 col-md-4"></div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 " style="margin: 60px; margin-top: 5px">
-                            <img src="img/logo/Layer 1.png" class="other-channels-img hover-effect-all">
-                            <img src="img/logo/Layer 2.png" class="other-channels-img hover-effect-all">
-                            <img src="img/logo/Layer 3.png" class="other-channels-img hover-effect-all">
-                            <img src="img/logo/Layer 4.png" class="other-channels-img hover-effect-all">
-                            <img src="img/logo/Layer 5.png" class="other-channels-img hover-effect-all">
-                            
+                            <div class="col-xs-0 col-sm-3 col-md-4"></div>
+                            <div class="col-xs-12 col-sm-6 col-md-4 " style="margin: 60px; margin-top: 5px">
+                                <img src="img/logo/Layer 1.png" class="other-channels-img hover-effect-all">
+                                <img src="img/logo/Layer 2.png" class="other-channels-img hover-effect-all">
+                                <img src="img/logo/Layer 3.png" class="other-channels-img hover-effect-all">
+                                <img src="img/logo/Layer 4.png" class="other-channels-img hover-effect-all">
+                                <img src="img/logo/Layer 5.png" class="other-channels-img hover-effect-all">
+                                
+                            </div>
+                            <div class="col-xs-0 col-sm-3 col-md-4"></div>
                         </div>
-                        <div class="col-xs-0 col-sm-3 col-md-4"></div>
                     </div>
                 </div>
-            </div>
-
-            <div class="content-box-sm">
-                <div class="vertical-heading" style="margin-top: 2vh">
-                    <h2 style="margin-bottom: 5vh; text-align:center;">
-                        <strong>Other Products</strong> </h2>
-                </div>
+    
+                <div class="content-box-sm">
+                    <div class="vertical-heading" style="margin-top: 2vh">
+                        <h2 style="margin-bottom: 10vh; text-align:center;">
+                            <strong>Other Products</strong> </h2>
+                    </div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft other-products">
