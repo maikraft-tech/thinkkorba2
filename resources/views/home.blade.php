@@ -166,7 +166,7 @@
                     </div>
                     <div class="row">
                             <div class="col-xs-0 col-sm-3 col-md-4"></div>
-                            <div class="col-xs-12 col-sm-6 col-md-4 " style="margin: 60px; margin-top: 2px">
+                            <div class="col-xs-12 col-sm-6 col-md-4 " style="margin: 60px; margin-top: 0px">
                                 <img src="img/logo/Layer 1.png" class="other-channels-img hover-effect-all">
                                 <img src="img/logo/Layer 2.png" class="other-channels-img hover-effect-all">
                                 <img src="img/logo/Layer 3.png" class="other-channels-img hover-effect-all">
@@ -180,8 +180,8 @@
                 </div>
     
                 <div class="content-box-sm">
-                    <div class="vertical-heading" style="margin-top: 2px">
-                        <h2 style="margin-bottom: 2px; text-align:center;">
+                    <div class="vertical-heading" style="margin-top: 0px">
+                        <h2 style="margin-bottom: 5px; text-align:center;">
                             <strong>Other Products</strong> </h2>
                     </div>
                 <div class="container">
