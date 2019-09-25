@@ -179,7 +179,7 @@
                     </div>
                 </div>
     
-                <div class="content-box-sm"  style="margin-top: -25px">
+                <div class="content-box-sm"  style="margin-top: -35px">
                     <div class="vertical-heading">
                         <h2 style="margin-bottom: 2vh; text-align:center;">
                             <strong>Other Products</strong> </h2>
@@ -240,7 +240,7 @@
         background-size:     cover;
     }</style>
     <section>
-        <div class="content-box-sm" style="margin-top: 0px;">
+        <div class="content-box-sm" style="margin-top: -35px">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
