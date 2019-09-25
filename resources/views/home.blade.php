@@ -174,14 +174,14 @@
                                 <img src="img/logo/Layer 5.png" class="other-channels-img hover-effect-all">
                                 
                             </div>
-                            <div class="col-xs-0 col-sm-3 col-md-4"></div>
+                            <div class="col-xs-0 col-sm-3 col-md-4" style="margin-bottom: 0px"></div>
                         </div>
                     </div>
                 </div>
     
                 <div class="content-box-sm"  style="margin-top: 0px">
                     <div class="vertical-heading">
-                        <h2 style="margin-bottom: 5vh; text-align:center;">
+                        <h2 style="margin-bottom: 2vh; text-align:center;">
                             <strong>Other Products</strong> </h2>
                     </div>
                 <div class="container">
