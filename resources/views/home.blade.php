@@ -112,8 +112,8 @@
     
     <!-- Other products -->
     <section id="other-products">
-        <div id="about-02">
-            <div class="content-box-sm" style="margin-top: 5px;">
+        <div id="about-02"  style="margin-top: 5px;">
+            <div class="content-box-sm">
                 <div class="vertical-heading">
                     <h2 style="text-align: center; margin-bottom: 5vh;">
                         <strong>Our Channels</strong> </h2>
