@@ -240,6 +240,7 @@
         background-size:     cover;
     }</style><br><br><br>
     <section>
+        <div class="content-box-sm">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -249,8 +250,7 @@
                     </div>
                 </div>
             </div>
-            <div>
-            <div class="col-md-12"> 
+            <div class="col-md-12 text-center"> 
             <div class="row wow bounceInLeft">
                 <div class="col-md-2  col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
@@ -284,7 +284,7 @@
                 </div>
             </div> 
             </div> 
-            <div class="col-md-12">
+            <div class="col-md-12 text-center">
             <div class="row wow bounceInLeft">
                 <div class="col-md-2 col-xs-12">
                     <div class="cbrand_item m-bottom-2 img">
@@ -318,8 +318,8 @@
                 </div>
             </div>
             </div>
-            </div>
         </div>
+    </div>
             
     </section>
 
