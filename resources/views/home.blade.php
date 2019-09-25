@@ -58,7 +58,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
-                                <img src="img/home/image3.jpg" style="border-radius: 25px;margin-top: 5px;">
+                                <img src="img/home/image3.jpg" style="border-radius: 25px;margin-top: 2px;">
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                                 <div class="tab-bg">
@@ -101,7 +101,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
-                                <img src="img/home/web-mobile.jpg" style="border-radius: 25px;margin-top: 70px;">
+                                <img src="img/home/web-mobile.jpg" style="border-radius: 25px;margin-top: 5px;">
                             </div>
                         </div>
                     </div>
@@ -112,8 +112,8 @@
     
     <!-- Other products -->
     <section id="other-products">
-        <div id="about-02"  style="margin-top: 5px;">
-            <div class="content-box-sm">
+        <div id="about-02">
+            <div class="content-box-sm" style="margin-top: 2px;">
                 <div class="vertical-heading">
                     <h2 style="text-align: center; margin-bottom: 5vh;">
                         <strong>Our Channels</strong> </h2>
@@ -166,7 +166,7 @@
                     </div>
                     <div class="row">
                         <div class="col-xs-0 col-sm-3 col-md-4"></div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 " style="margin: 30px;">
+                        <div class="col-xs-12 col-sm-6 col-md-4 " style="margin: 60px; margin-top: 5px">
                             <img src="img/logo/Layer 1.png" class="other-channels-img hover-effect-all">
                             <img src="img/logo/Layer 2.png" class="other-channels-img hover-effect-all">
                             <img src="img/logo/Layer 3.png" class="other-channels-img hover-effect-all">
@@ -180,8 +180,8 @@
             </div>
 
             <div class="content-box-sm">
-                <div class="vertical-heading">
-                    <h2 style="margin-bottom: 5vh; text-align:center;">
+                <div class="vertical-heading" style="margin-top: 2vh">
+                    <h2 style="margin-bottom: 10vh; text-align:center;">
                         <strong>Other Products</strong> </h2>
                 </div>
                 <div class="container">
@@ -240,7 +240,7 @@
         background-size:     cover;
     }</style>
     <section>
-        <div class="content-box-sm" style="margin-top: 5vh;">
+        <div class="content-box-sm" style="margin-top: 2px;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
