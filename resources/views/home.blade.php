@@ -63,7 +63,7 @@
                             <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                                 <div class="tab-bg">
                                     <h3>About Korba</h3>
-                                    <p>Korba is an interoperability platform that enables the movement of funds across multiple platforms including all mobile networks, banks and rural banks.
+                                    <p>Korba is an interoperable platform that enables the movement of funds across multiple platforms including all mobile networks and banks
                                         <!-- <ul class="no_bullet" >
                                             <li class="korba-logo">Korba enables multiple access payments through payment cards and all mobile money wallets.</li>
                                             <li class="korba-logo">Thus on Korba, funds can be transferred from payment cards and all mobile money wallets and received into any bank account including rural banks, savings and loans and mobile money wallets.</li>
@@ -331,5 +331,3 @@
 
   
        
-
-  

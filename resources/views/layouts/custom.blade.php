@@ -7,6 +7,7 @@
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Korba</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/logo/list_icon.png">
     <!-- Basic SEO -->
     <meta name="description" content="creative website development with HTML5,css,bootstrap and jquery">
     <meta name="keywords" content="HTML5,CSS3,JQuery,Bootstrap, Web Design, Web Development, Responsive website, Korba">

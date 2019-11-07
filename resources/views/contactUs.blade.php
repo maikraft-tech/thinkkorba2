@@ -32,7 +32,7 @@
                                             <li>
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Phone</b></h5>
                                                 <!-- <i class="fa fa-mobile"></i> -->
-                                                <span>(+233) 2040 4010</span>
+                                                <span>(+233) 20 040 4010</span>
                                             </li>
                                             <li>
                                                     <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Mailing Address</b></h5>
