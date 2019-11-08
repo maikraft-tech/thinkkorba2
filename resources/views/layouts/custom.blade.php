@@ -9,8 +9,8 @@
     <title>Korba</title>
     <link rel="icon" type="image/png" sizes="32x32" href="/img/logo/list_icon.png">
     <!-- Basic SEO -->
-    <meta name="description" content="creative website development with HTML5,css,bootstrap and jquery">
-    <meta name="keywords" content="HTML5,CSS3,JQuery,Bootstrap, Web Design, Web Development, Responsive website, Korba">
+    <meta name="description" content="Korba365">
+    <meta name="keywords" content="Korba">
     <!-- Font Awesome -->
     <link rel="stylesheet" type="text/css" href="css/font-awesome/css/font-awesome.min.css">
     <!-- Bootsrap css -->
