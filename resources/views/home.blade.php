@@ -6,9 +6,10 @@
 
     <!-- Home  -->
     <section id="home">
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <div>
+        {{-- <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> --}}
             <!-- Indicators -->
-            <ol class="carousel-indicators">
+            {{-- <ol class="carousel-indicators">
                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
@@ -42,7 +43,13 @@
             <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:40px;"></span>
                 <span class="sr-only">Next</span>
-            </a>
+            </a> --}}
+            <video width="100%" id="vid" loop autoplay muted>
+                <source src="img/home/Korba.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+              </video><script>
+                document.getElementById('vid').play();
+            </script>
         </div>
         
         
@@ -90,7 +97,7 @@
                                         <ul class="no_bullet" >
                                             <li class="korba-logo">We provide multiple payment access channels to the convienience of our clients.</li>
                                             <li class="korba-logo">Intergrated with all banks and telcos in Ghana Korba provides tailor-made payment solutions to meet your organizational needs.</li>
-                                            <li class="korba-logo">No internet? No worries. With Korba, access to payment platforms is not limited to access to internet or sophisticated phones. Transactions can be performed with the most basic telephone technology. Just download the Korba App or dial *395#.</li>
+                                            <li class="korba-logo">No internet? No worries. With Korba, access to payment platforms is not limited to access to internet or sophisticated phones. Transactions can be performed with the most basic telephone technology. Just download the Korba App or dial *365#.</li>
                                             <!-- <li class="korba-logo">At Korba, our clients are our partners and their needs come first. With our dedicated proactive customer service team, your issue resolution is just a call away.</li>
                                             <li class="korba-logo">Korba has highly skilled professionals well equipped to develop new technology solutions and manage them to the maximum profitability of our clients be it individual or an organization.</li> -->
                                         </ul>
