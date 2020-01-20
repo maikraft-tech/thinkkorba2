@@ -94,87 +94,6 @@
                 
 
                 <div class="col-md-4 col-sm-4 team-wrap">
-                    <div class="team-member last text-center">
-                        <div class="team-img">
-                        <img src="/img/board/DanOld.jpg" alt="Daniel Amuzu" style="margin-bottom:25px;">
-                        <div class="overlay">
-                            <div class="team-details text-center">
-                            <p>
-                                To view their profile, click on the link below
-                            </p>
-                            <div class="socials mt-20">
-                                <a class="modal-button" href="#popup2">More</a>
-                                <div class="popup" id="popup2">
-                                    <div class="popup-inner">
-                                       
-                                        <div class="popup__text">
-                                            <h3>Daniel Kertoglo Amuzu</h3>
-                                            <p>Ketorglo Amuzu is the author of the book “Living Naked, Wit & wisdom of Prince Kofi Amoabeng” and a chattered member of ACCA. Daniel has over 12 years’ working experience spanning various areas in Accounts and Finance. Before joining UT, he worked as accounts officer with an international airline and SGS group of Companies- (Society General De Surveillance Ghana) and has also worked in various accounting and Finance related capacities within the UT Group of Companies.	</p>
-                                            <p>His core areas of expertise cover: Financial Reporting, Budget Preparation and Monitoring, Performance Management Reporting, Treasury and Cash Management, Regulatory Reporting, Leadership and People Management, Business Strategy Formulation and Implementation, Fixed Asset Management& Reporting, Board Reporting, Creating Manuals and Policy Documents for new Business Entities/Departments; and a skill set in accounting for start-ups.</p>
-                                                <!-- <a href="#"><i class="fa fa-facebook"></i></a>
-                                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                                <a href="#"><i class="fa fa-envelope"></i></a> -->
-                                        </div>
-                                        <a class="popup__close fa fa-close" href="#"></a>
-                                    </div>
-                                </div>
-                            </div>
-                            </div>
-                        </div>
-                        </div>
-                        <h4><b>Daniel Kertoglo Amuzu</b></h4>
-                        <span><b>CFO</b></span>
-                        
-                    </div>
-                </div>
-            
-
-            </div>
-
-
-            <!-- second row of directors -->
-            <div class="row team-row" style="padding-top: 30px; padding-bottom: 30px;">
-
-                <div class="col-md-4 col-sm-4 team-wrap">
-                    <div class="team-member text-center">
-                        <div class="team-img">
-                            <img src="img/board/Perl.jpg" alt="Pearl Mensah">
-                            <div class="overlay">
-                                <div class="team-details text-center">
-                                    <p>
-                                        To view their social profile, click on the link below
-                                    </p>
-                                    <div class="socials mt-20">
-                                        <a class="modal-button" href="#popup3">More</a>
-                                        <div class="popup" id="popup3">
-                                            <div class="popup-inner">
-                                               
-                                                <div class="popup__text">
-                                                    <h3>Pearl Essuah-Mensah</h3>
-                                                    <p>Mrs Pearl Esua-Mensah is a Chartered Accountant.She is a fellow of the Association of Chartered Certified Accountants (ACCA), holds a BSc. Administration degree from University of Ghana Legon and MBA from the Manchester Business School. She was the deputy Managing Director for UT Bank and also group Director of Finance and Administration of UT Group of companies.</p>
-                                                    <p>She has extensive experience in accounting and Financial Management. She worked as Group Financial Accountant for Data Layout Ltd and Group Reporting Accountant for Parity Group PLC and Kantor Group, all in the United Kingdom. She is currently the founder and CEO of Finiks Business Hub and servicing on boards of 10 companies comprising startups and established brands.</p>
-
-                                                        <!-- <a href="#"><i class="fa fa-facebook"></i></a>
-                                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                                                        <a href="#"><i class="fa fa-envelope"></i></a> -->
-                                                </div>
-                                                <a class="popup__close fa fa-close" href="#"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <h4 style="font-weight;bold;"><b>Pearl Essuah-Mensah</b></h4>
-                        <span><b>Member</b></span>
-                        
-                    </div>
-                </div>
-            
-
-                <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member text-center">
                         <div class="team-img">
                         <img src="img/board/Biga.jpg" alt="Albert Biga">
@@ -210,12 +129,95 @@
                         
                     </div>
                 </div>
+            
+
+            </div>
+
+
+            <!-- second row of directors -->
+            <div class="row team-row" style="padding-top: 30px; padding-bottom: 30px;">
+
+                <div class="col-md-4 col-sm-4 team-wrap">
+                    <div class="team-member text-center">
+                        <div class="team-img">
+                            {{-- <img src="img/board/Perl.jpg" alt="Pearl Mensah"> --}}
+                            {{-- <div class="overlay">
+                                <div class="team-details text-center">
+                                    <p>
+                                        To view their social profile, click on the link below
+                                    </p>
+                                    <div class="socials mt-20">
+                                        <a class="modal-button" href="#popup3">More</a>
+                                        <div class="popup" id="popup3">
+                                            <div class="popup-inner">
+                                               
+                                                <div class="popup__text">
+                                                    <h3>Pearl Essuah-Mensah</h3>
+                                                    <p>Mrs Pearl Esua-Mensah is a Chartered Accountant.She is a fellow of the Association of Chartered Certified Accountants (ACCA), holds a BSc. Administration degree from University of Ghana Legon and MBA from the Manchester Business School. She was the deputy Managing Director for UT Bank and also group Director of Finance and Administration of UT Group of companies.</p>
+                                                    <p>She has extensive experience in accounting and Financial Management. She worked as Group Financial Accountant for Data Layout Ltd and Group Reporting Accountant for Parity Group PLC and Kantor Group, all in the United Kingdom. She is currently the founder and CEO of Finiks Business Hub and servicing on boards of 10 companies comprising startups and established brands.</p>
+
+                                                        <!-- <a href="#"><i class="fa fa-facebook"></i></a>
+                                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                                        <a href="#"><i class="fa fa-envelope"></i></a> -->
+                                                </div>
+                                                <a class="popup__close fa fa-close" href="#"></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> --}}
+                        </div>
+                        {{-- <h4 style="font-weight;bold;"><b>Pearl Essuah-Mensah</b></h4>
+                        <span><b>Member</b></span> --}}
+                        
+                    </div>
+                </div>
+            
+
+                <div class="col-md-4 col-sm-4 team-wrap">
+                    <div class="team-member text-center">
+                        <div class="team-img">
+                            <img src="img/board/Boafo.jpg" alt="David Boafo">
+                            <div class="overlay">
+                                <div class="team-details text-center">
+                                <p>
+                                    To view their profile, click on the link below
+                                </p>
+                                <div class="socials mt-20">
+                                    <a class="modal-button" href="#popup5">More</a>
+                                    <div class="popup" id="popup5">
+                                        <div class="popup-inner">
+                                           
+                                            <div class="popup__text">
+                                                <h3>David Kwabena Boafo</h3>
+                                                <p>David Boafo is a Lawyer with over eighteen years of practice experience and is currently the Managing Partner of S.K. Boafo & Company. David’s practice areas include Litigation, Construction, Real Estate, Land and Corporate Law. 
+                                                    David has advised and represented both local and international Clients on various legal matters in Ghana.</p>
+    
+                                                <p>David sits on the boards of Companies in the financial, technology, construction, agro processing, real estate, land and media sectors. David is the Co-Founder of Land Seal Ghana Ltd and Cake Accessories. 
+                                                    David is also a Reverend Minister and heads a church in Accra.</p>
+                                                    <!-- <a href="#"><i class="fa fa-facebook"></i></a>
+                                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                                    <a href="#"><i class="fa fa-google-plus"></i></a>
+                                                    <a href="#"><i class="fa fa-envelope"></i></a> -->
+                                            </div>
+                                            <a class="popup__close fa fa-close" href="#"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                            </div>
+                            <h4><b>David Kwabena Boafo</b></h4>
+                            <span><b>Secretary </b></span>
+                    </div>
+                </div>
                 
 
                 <div class="col-md-4 col-sm-4 team-wrap">
                     <div class="team-member last text-center">
                         <div class="team-img">
-                        <img src="img/board/Boafo.jpg" alt="David Boafo">
+                        {{-- <img src="img/board/Boafo.jpg" alt="David Boafo">
                         <div class="overlay">
                             <div class="team-details text-center">
                             <p>
@@ -243,10 +245,10 @@
                                 </div>
                             </div>
                             </div>
+                        </div> --}}
                         </div>
-                        </div>
-                        <h4><b>David Kwabena Boafo</b></h4>
-                        <span><b>Secretary </b></span>
+                        {{-- <h4><b>David Kwabena Boafo</b></h4>
+                        <span><b>Secretary </b></span> --}}
                         
                     </div>
                 </div>
