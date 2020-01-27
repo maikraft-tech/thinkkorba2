@@ -25,9 +25,9 @@
                                         <ul style="list-style: none;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
-                                                <span>1st Floor, Fodai Plaza,
-                                                <br>Community 18 Junction
-                                                <br>Baatsona, Accra</span>
+                                                <span>Nii Owoo Avenue,
+                                                <br>opp. Olive Heights Hotel
+                                                <br> West Lands, Accra</span>
                                             </li>
                                             <li>
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Phone</b></h5>
