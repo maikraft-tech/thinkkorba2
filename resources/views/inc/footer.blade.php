@@ -3,7 +3,7 @@
 
             <div class="row">
                 <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4" style="padding-top: 20px;">
-                    <p style="font-size: 14px;">Copyright &copy; 2018. All Rights Reserved By
+                    <p style="font-size: 14px;">Copyright &copy; <span id="year"></span>. All Rights Reserved By
                         <span style="color:red;">Korba </span>
                     </p>
                 </div>
@@ -39,5 +39,7 @@
 
             </div>
         </div>
-        
+        <script>
+            document.getElementById("year").innerHTML = new Date().getFullYear();
+        </script>
     </footer>
