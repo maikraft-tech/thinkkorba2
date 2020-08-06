@@ -8,7 +8,7 @@
     <div class="container-fluid" style="padding:0;">
         <img class="img-responsive" src="img/other/philo-wallpaper.jpg" alt="our philosophy" style="height: 47%;width: 100%; margin: 0;padding: 0;">
         <div class="info-box-r">
-            <p>Korba is a financial technology solution founded in 2015, on five core principles that form its character of dedication to integrity and excellence in economic and financial consulting.
+            <p>Halges Financial Technologies Limited (trading as Korba), is a financial technology company founded in 2015, on five core principles that form its character of dedication to integrity and excellence in economic and financial consulting.
             </p>
             <p>As the gap between the unbanked and self-service convenience was identified by Korba, so is the possibility of creative solutions, hence KORBA.
             </p>

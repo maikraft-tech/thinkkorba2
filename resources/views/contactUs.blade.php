@@ -19,15 +19,16 @@
                             {!! $map['html'] !!}
                         <div id="offices">
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-8">
                                     <div>
 
                                         <ul style="list-style: none;">
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
-                                                <span>Nii Owoo Avenue,
-                                                <br>opp. Olive Heights Hotel
-                                                <br> West Lands, Accra</span>
+                                                <span>Halges Financial Technologies Limited (Korba),
+                                                   <br> No 2, Portuphy  Street,
+                                                <br>Nii Owoo Avenue,
+                                                <br> WestLands, Accra - Ghana</span>
                                             </li>
                                             <li>
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Phone</b></h5>
@@ -36,7 +37,8 @@
                                             </li>
                                             <li>
                                                     <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Mailing Address</b></h5>
-                                                <span>P.O.Box GP 18376,
+                                                <span> Halges Financial Technologies Limited,
+                                                <br> P.O.Box GP 18376,
                                                 <br>Accra,Ghana.</span>
                                             </li>
                                             

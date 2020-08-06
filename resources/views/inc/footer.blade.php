@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4" style="padding-top: 20px;">
                     <p style="font-size: 14px;">Copyright &copy; <span id="year"></span>. All Rights Reserved By
-                        <span style="color:red;">Korba </span>
+                        <span style="color:red;"> <br> Halges Financial Technologies Limited </span>
                     </p>
                 </div>
                 <div class="col-md-8 col-xs-12 col-sm-12 col-lg-8">
