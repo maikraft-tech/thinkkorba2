@@ -26,9 +26,9 @@
                                             <li >
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Location</b></h5>
                                                 <span>Halges Financial Technologies Limited (Korba),
-                                                   <br> No 2, Portuphy  Street,
+                                                   <br> House Number 2, Westland,
                                                 <br>Nii Owoo Avenue,
-                                                <br> WestLands, Accra - Ghana</span>
+                                                <br> Accra - Ghana</span>
                                             </li>
                                             <li>
                                                 <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Phone</b></h5>
