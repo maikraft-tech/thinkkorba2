@@ -247,6 +247,7 @@
         background-size:     cover;
     }</style>
     <section>
+        {{-- Our clients slider starts --}}
         <div class="content-box-sm" style="margin-top: -25px">
         <div class="container">
             <div class="row">
@@ -327,7 +328,7 @@
             </div>
         </div>
         </div>
-            
+            {{-- Section ends --}}
     </section>
 
 
