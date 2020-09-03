@@ -44,6 +44,7 @@
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:40px;"></span>
                 <span class="sr-only">Next</span>
             </a> --}}
+
             <video width="100%" id="vid" loop autoplay muted>
                 <source src="img/home/whatsapp.mp4" type="video/mp4">
               Your browser does not support the video tag.
