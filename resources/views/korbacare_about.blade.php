@@ -16,7 +16,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInLeft">
-                            <img src="img/home/banner.jpg" style="border-radius: 25px;margin-top: 2px;">
+                            <img src="img/home/Banner.jpg" style="border-radius: 25px;margin-top: 2px;">
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12 col-lg-6 wow fadeInRight">
                             <div class="tab-bg">
