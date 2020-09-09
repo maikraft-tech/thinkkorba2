@@ -3,7 +3,7 @@
 
 @section('content')
 
-<div id="mModal" class="modal" tabindex='-1' role="dialog">
+<div id="mModal" class="modal fade" tabindex='-1' role="dialog">
     <div class="modal-dialog">
       <!-- Modal content-->
       <div class="modal-content">
