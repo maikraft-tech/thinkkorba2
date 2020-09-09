@@ -3,6 +3,37 @@
 
 @section('content')
 
+<div id="mModal" class="modal" tabindex='-1' role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Hello Cherished Client!</h4>
+          <h3>Korba announces partnership with Prudential Life to provide insurance cover for its customers</h3>
+        </div>
+        <div class="modal-body">
+          <p>
+            Korba, a leading Ghanaian multi-channel electronic platform, owned and operated by Halges Financial
+            Technologies Ltd, has partnered with Prudential Life Insurance Ghana (“Prudential”), a leading life insurer, to
+            provide life insurance cover, at no additional cost, for its active customers through its ‘Korba Care’ customer loyalty
+            and rewards scheme.</p>
+            <p>The life insurance cover will provide financial support to Korba’s customers through two policy benefits – the
+                Hospital Cash Plan (HCP) and the Death or Total Permanent Disability (TPD) Plan. The HCP is a living benefit that
+                provides financial support to the insured life upon hospitalisation. The Death or TPD benefit takes effect in the
+                unfortunate event that an insured life passes on or becomes disabled.</p>
+           <p>Claims will be paid according to the level of transactional activity on Korba to customers or their named
+            beneficiaries with sum assureds up to GHS 10,000 for TPD or Death, and daily cash pay-outs of GHS 100 for up to
+            30 days of hospitalization.
+            Speaking on this partnership, Chief...</p>
+        </div>
+        <div class="modal-footer">
+          <button onclick="location.href='/press_release'" type="button" class="btn btn-default" data-dismiss="modal">READ MORE</button>
+        </div>
+      </div>
+  
+    </div>
+  </div>
 
     <!-- Home  -->
     <section id="home">
@@ -45,12 +76,16 @@
                 <span class="sr-only">Next</span>
             </a> --}}
 
-            <video width="100%" height="20%" id="vid" loop autoplay muted>
+            <video width="100%" id="vid" loop autoplay muted>
                 <source src="img/home/whatsapp.mp4" type="video/mp4">
               Your browser does not support the video tag.
               </video><script>
                 document.getElementById('vid').play();
             </script>
+            {{-- <div class="item">
+                <img src="img/home/korbacare.jpg" alt="fourth slide" width="100%" class="img-responsive">
+                
+            </div> --}}
         </div>
         
         
@@ -336,7 +371,12 @@
 @endsection
         
 
-            
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script>
+	$(document).ready(function(){
+		$("#mModal").modal('show');
+	});
+</script>        
 
   
        

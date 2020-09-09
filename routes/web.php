@@ -43,6 +43,10 @@ Route::get('/howkorba', function () {
     return view('howkorba');
 });
 
+Route::get('/press_release', function () {
+    return view('press_release');
+});
+
 Route::get('/subscribe', function () {
     return view('subscribe');
 });

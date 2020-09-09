@@ -88,6 +88,10 @@
                     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 250;"> FAQs </a>
                 </li>
                 <li class="">
+                    <a href="press_release" style="display: block;color: white;
+                    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 250;"> Press Release </a>
+                </li>
+                <li class="">
                     <a href="contactUs" style="display: block;color: white;
                     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);padding: 10px;font-size: 18px;font-weight: 250;"> Contact Us </a>
                 </li>
