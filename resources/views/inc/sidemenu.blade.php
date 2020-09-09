@@ -38,6 +38,17 @@
                     </ul>
                 </li>
                 <li class="dropdown">
+                    <a href="#" data-toggle="dropdown">KorbaCare <i class="icon-arrow"></i></a>
+                    <ul class="dropdown-menu truedrop">
+                        <li>
+                            <a href="korbacare_about"><i class="fa fa-angle-right"></i> About KorbaCare</a>
+                        </li>
+                        <li>
+                            <a href="korbacare_faqs"><i class="fa fa-angle-right"></i> KorbaCare FAQs</a>
+                        </li> 
+                    </ul>
+                </li>
+                <li class="dropdown">
                     <a href="#" data-toggle="dropdown">Other Products <i class="icon-arrow"></i></a>
                     <ul class="dropdown-menu truedrop">
                         <li>

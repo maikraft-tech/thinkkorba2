@@ -45,7 +45,7 @@
                 <span class="sr-only">Next</span>
             </a> --}}
 
-            <video width="100%" id="vid" loop autoplay muted>
+            <video width="100%" height="20%" id="vid" loop autoplay muted>
                 <source src="img/home/whatsapp.mp4" type="video/mp4">
               Your browser does not support the video tag.
               </video><script>

@@ -55,6 +55,14 @@ Route::get('/ebanking', function () {
     return view('ebanking');
 });
 
+Route::get('/korbacare_faqs', function () {
+    return view('korbacare_faqs');
+});
+
+Route::get('/korbacare_about', function () {
+    return view('korbacare_about');
+});
+
 Route::get('/enterprise', function () {
     return view('enterprise');
 });
