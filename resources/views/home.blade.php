@@ -76,16 +76,16 @@
                 <span class="sr-only">Next</span>
             </a> --}}
 
-            <video width="100%" id="vid" loop autoplay muted>
+            {{-- <video width="100%" id="vid" loop autoplay muted>
                 <source src="img/home/whatsapp.mp4" type="video/mp4">
               Your browser does not support the video tag.
               </video><script>
                 document.getElementById('vid').play();
-            </script>
-            {{-- <div class="item">
+            </script> --}}
+            <div class="item">
                 <img src="img/home/korbacare.jpg" alt="fourth slide" width="100%" class="img-responsive">
                 
-            </div> --}}
+            </div>
         </div>
         
         
