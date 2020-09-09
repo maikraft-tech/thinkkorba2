@@ -83,7 +83,7 @@
                 document.getElementById('vid').play();
             </script> --}}
             <div class="item">
-                <img src="img/home/korbacare.jpg" alt="fourth slide" width="100%" class="img-responsive">
+                <img src="img/home/korbacare.jpg" alt="fourth" width="100%" class="img-responsive">
                 
             </div>
         </div>
