@@ -24,7 +24,7 @@ $(window).on('load',function(){
                 $("#menu").addClass('menu-top');
                 $("#menu").removeClass('menu-bottom');
                 $(".navbar-brand img").attr("src","img/logo/logo-dark.png");
-                $(".navbar-fixed-bottom").removecss('bottom','opx');
+                $(".navbar-fixed-bottom").removeClass('bottom','opx');
                 $("#back-to-top").fadeIn()}else{$("nav").removeClass('white-nav-top');
                 $("nav").addClass('navbar-fixed-bottom');
                 $("nav").removeClass('navbar-fixed-top');

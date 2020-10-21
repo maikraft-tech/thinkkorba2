@@ -38,9 +38,9 @@
     <!-- Home  -->
     <section id="home">
         <div>
-        {{-- <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> --}}
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
-            {{-- <ol class="carousel-indicators">
+            <ol class="carousel-indicators">
                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
@@ -49,19 +49,19 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox" >
                 <div class="item active">
-                    <img src="/img/home/Banner.jpg" alt="first slide" class="img-responsive">
+                    <img src="/img/home/korbacare.jpg" alt="first slide" width="100%" class="img-responsive">
                     
                 </div>
                 <div class="item ">
-                    <img src="/img/home/web-mobile.jpg" alt="second slide" class="img-responsive">
+                    <img src="/img/home/korbacare1.jpg" alt="second slide" width="100%" class="img-responsive">
                     
                 </div>
                 <div class="item">
-                    <img src="/img/home/Banner1.jpg" alt="third slide" class="img-responsive">
+                    <img src="/img/home/korbacare2.jpg" alt="third slide" width="100%" class="img-responsive">
                     
-                </div>
+                </div>  
                 <div class="item">
-                    <img src="img/home/web-app.jpg" alt="fourth slide" class="img-responsive">
+                    <img src="img/home/korbacare3.jpg" alt="fourth slide" width="100%" class="img-responsive">
                     
                 </div>
                
@@ -74,7 +74,7 @@
             <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true" style="font-size:40px;"></span>
                 <span class="sr-only">Next</span>
-            </a> --}}
+            </a>
 
             {{-- <video width="100%" id="vid" loop autoplay muted>
                 <source src="img/home/whatsapp.mp4" type="video/mp4">
@@ -82,10 +82,10 @@
               </video><script>
                 document.getElementById('vid').play();
             </script> --}}
-            <div class="item">
+            {{-- <div class="item">
                 <img src="img/home/korbacare.jpg" alt="fourth" width="100%" class="img-responsive">
                 
-            </div>
+            </div> --}}
         </div>
         
         

@@ -11,7 +11,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-6 col-lg-6 hidden-xs" style="margin-top: 10px; text-align: center;">
                         <div class="row grid-divider">
-                            <a href="https://liveweb.korbaweb.com/" target="_blank" style="text-decoration: none;"><span style="border-right: 2px solid red; margin-right: 10px; padding-right: 15px; padding-left: 5px; color: #61646b; font-size: 17px; font-weight: bold;">User Login</span></a>
+                            <a href="https://liveweb.korbaweb.com/" target="_blank" style="text-decoration: none;"><span style="border-right: 2px solid red; margin-right: 10px; padding-right: 15px; padding-left: 5px; color: #61646b; font-size: 17px; font-weight: bold;">Login to Web</span></a>
                             <a href="https://livepartner.korbaweb.com/" target="_blank" style="text-decoration: none;"><span style="color: red;font-size: 18px;  padding-left: 2px;font-weight: bold;">Partner Login</span></a>
                         </div>
                         
