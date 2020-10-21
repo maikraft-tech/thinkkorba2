@@ -36,7 +36,7 @@
                                                 <span>(+233) 20 040 4010</span>
                                             </li>
                                             <li>
-                                                    <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Mailing Address</b></h5>
+                                                <h5 style="color: red; font-weight: 1; padding-bottom: 0;"><b>Mailing Address</b></h5>
                                                 <span> Halges Financial Technologies Limited,
                                                 <br> P.O.Box GP 18376,
                                                 <br>Accra,Ghana.</span>
@@ -71,7 +71,7 @@
                             </div>
                             </div>
                             <div id="submit-btn">
-                                <a href="#" class="btn btn-general" style="float:right" role="button" title="submit" class="background-color:#ed1944" type="submit">Submit</a>
+                                <a href="####" class="btn btn-general" style="float:right" role="button" title="submit" class="background-color:#ed1944" type="submit">Submit</a>
                             </div>
                         </form>
                     </div>
