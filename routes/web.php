@@ -47,6 +47,14 @@ Route::get('/press_release', function () {
     return view('press_release');
 });
 
+Route::get('/korba_prudential', function () {
+    return view('korba_prudential');
+});
+
+Route::get('/korbaprudential_faqs', function () {
+    return view('korbaprudential_faqs');
+});
+
 Route::get('/subscribe', function () {
     return view('subscribe');
 });
