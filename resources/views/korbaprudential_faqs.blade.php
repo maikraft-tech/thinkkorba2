@@ -134,6 +134,22 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingEleven" style="background:#a8a8a8; color:#000;">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                                        Do I have to provide any personal detail?
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEleven">
+                                <div class="panel-body">
+                                    <p >
+                                        Yes, in order to make claims, you would have to provide your personal details and the details of your next of kin. Please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-ZoYM0vRWY-Ifkh8OAkIVN3PTnezw3fQiEhj1gDfTzp4Ffg/viewform?usp=send_form">here</a> to complete the form
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="headingThree" style="background:#a8a8a8; color:#000;">
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -249,6 +265,20 @@
                                             </ul>
                                         </p>
                                  </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingTen" style="background:#a8a8a8; color:#000;">
+                                <h4 class="panel-title">
+                                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                        For how long do I enjoy this free life insurance cover?                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapseTen">
+                                <div class="panel-body">
+<p>This is a monthly cover. Korba will communicate to you each month you qualify through text message. To keep enjoying this free life insurance cover, you would have to stay active by transacting on the korba platform.
+
+</p>                                </div>
                             </div>
                         </div>
                         
